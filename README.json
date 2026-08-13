@@ -96,7 +96,7 @@
             "last_commit": "2026-08-09T09:13:45Z",
             "owner": "teamtype",
             "repo": "teamtype",
-            "stars": 1901
+            "stars": 1902
           }
         },
         {
@@ -144,7 +144,7 @@
             "last_commit": "2026-07-20T13:08:22Z",
             "owner": "n0-computer",
             "repo": "dumbpipe",
-            "stars": 689
+            "stars": 690
           }
         },
         {
@@ -155,10 +155,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-12T21:59:14Z",
+            "last_commit": "2026-08-13T20:53:12Z",
             "owner": "rayfish",
             "repo": "rayfish",
-            "stars": 557
+            "stars": 563
           }
         },
         {
@@ -172,7 +172,7 @@
             "last_commit": "2026-07-21T07:49:29Z",
             "owner": "duxweb",
             "repo": "codux",
-            "stars": 391
+            "stars": 396
           }
         },
         {
@@ -304,7 +304,7 @@
             "last_commit": "2026-08-01T20:17:59Z",
             "owner": "tonyantony300",
             "repo": "dashbeam",
-            "stars": 9052
+            "stars": 9054
           }
         },
         {
@@ -413,10 +413,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-04T18:11:54Z",
+            "last_commit": "2026-08-13T11:00:14Z",
             "owner": "vinay-winai",
             "repo": "DataBeam",
-            "stars": 13
+            "stars": 12
           }
         },
         {
@@ -475,10 +475,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-12T15:47:55Z",
+            "last_commit": "2026-08-13T14:15:27Z",
             "owner": "p2panda",
             "repo": "p2panda",
-            "stars": 544
+            "stars": 546
           }
         },
         {
@@ -526,7 +526,7 @@
             "last_commit": "2026-06-15T16:08:46Z",
             "owner": "rustonbsd",
             "repo": "distributed-topic-tracker",
-            "stars": 39
+            "stars": 40
           }
         },
         {
@@ -554,7 +554,7 @@
             "last_commit": "2025-08-22T16:00:00Z",
             "owner": "n0-computer",
             "repo": "imsg",
-            "stars": 14
+            "stars": 15
           }
         },
         {
@@ -568,7 +568,7 @@
             "last_commit": "2025-10-08T01:02:11Z",
             "owner": "therishidesai",
             "repo": "iroh-gossip-discovery",
-            "stars": 12
+            "stars": 14
           }
         }
       ],
@@ -729,7 +729,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-12T20:29:47Z",
+            "last_commit": "2026-08-13T17:55:20Z",
             "owner": "fedimint",
             "repo": "fedimint",
             "stars": 694
@@ -797,7 +797,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:08:54.148Z",
+    "last_updated": "2026-08-13T21:59:33.122Z",
     "original_repository": "n0-computer/awesome-iroh",
     "original_repository_sha": "b37c6280b301d623f9a387f0cf8c5f98510ca607",
     "enhanced_repository": "enhansome/enhansome-iroh",
