@@ -1,0 +1,807 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Psyche",
+          "description": "An open infrastructure to democratize and decentralize the development of superintelligence for humanity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-03-24T20:46:58Z",
+            "owner": "PsycheFoundation",
+            "repo": "nousnet",
+            "stars": 955
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Prime Intellect",
+          "description": "Decentralized Compute Infrastructure for AI.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2025-11-10T04:53:32Z",
+            "owner": "PrimeIntellect-ai",
+            "repo": "protocol",
+            "stars": 139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tandemn",
+          "description": "Iroh for tensors, used for inference over heterogeneous GPUs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-03-27T21:21:29Z",
+            "owner": "Tandemn-Labs",
+            "repo": "tensor-iroh",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "AI/ML"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Aster",
+          "description": "Local-first peer-to-peer music streaming prototype.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-18T03:50:34Z",
+            "owner": "fractalbeauty",
+            "repo": "aster",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Telepathy",
+          "description": "Cross-platform real time communication with Iroh networking.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-09T18:36:02Z",
+            "owner": "chanderlud",
+            "repo": "telepathy",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "Audio/Video"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Teamtype",
+          "description": "Editor-agnostic, real-time collaborative editing of local text files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-09T09:13:45Z",
+            "owner": "teamtype",
+            "repo": "teamtype",
+            "stars": 1901
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zeco",
+          "description": "Share zellij sessions via the internet (using iroh).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-15T05:39:54Z",
+            "owner": "julianbuettner",
+            "repo": "zeco",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "biter",
+          "description": "Synchronize device clipboards via iroh.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-05T18:32:14Z",
+            "owner": "LukeDSchenk",
+            "repo": "biter",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Collaboration and Productivity"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Dumbpipe",
+          "description": "Cross-device unix pipe.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-20T13:08:22Z",
+            "owner": "n0-computer",
+            "repo": "dumbpipe",
+            "stars": 689
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rayfish",
+          "description": "A P2P mesh VPN that connects peers by cryptographic identity instead of IP address.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T21:59:14Z",
+            "owner": "rayfish",
+            "repo": "rayfish",
+            "stars": 557
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Codux",
+          "description": "A native connected terminal for AI coding agents, using iroh for encrypted peer-to-peer control across desktop, mobile, and headless hosts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-21T07:49:29Z",
+            "owner": "duxweb",
+            "repo": "codux",
+            "stars": 391
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iroh-ssh",
+          "description": "SSH to any machine without ip.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-24T17:24:26Z",
+            "owner": "rustonbsd",
+            "repo": "iroh-ssh",
+            "stars": 257
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cross.stream",
+          "description": "Local-first event streaming for reactive workflows, with P2P sharing via Iroh.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-07T04:15:16Z",
+            "owner": "cablehead",
+            "repo": "xs",
+            "stars": 216
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tunnet",
+          "description": "Open-source mesh networking platform that scales from direct p2p connections for individuals to fully managed deployments for large organizations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-03T10:40:29Z",
+            "owner": "tunnetio",
+            "repo": "Tunnet",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pai-sho",
+          "description": "P2P TCP port forwarding: dumbpipe, but multiple ports, and it reconnects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-07T16:36:50Z",
+            "owner": "cablehead",
+            "repo": "pai-sho",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "do-ssh",
+          "description": "Tunnels an ssh-connection over iroh.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2025-10-08T15:09:23Z",
+            "owner": "doEggi",
+            "repo": "do-ssh",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iroh-ssh-android",
+          "description": "Android SSH client for hosts running iroh-ssh (and OpenSSH too).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-06-09T20:19:28Z",
+            "owner": "futpib",
+            "repo": "iroh-ssh-android",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Datum",
+          "description": "Expose local services to the internet.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-23T18:36:34Z",
+            "owner": "datum-cloud",
+            "repo": "app",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Edky",
+          "description": "Convert Ed25519 public keys between various encoding formats (iroh, libp2p, IPFS, OpenSSH, etc).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-08T23:52:51Z",
+            "owner": "artob",
+            "repo": "edky",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "DevTools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Alt-sendme",
+          "description": "A cross-platform desktop application for file sharing, built with Tauri.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-01T20:17:59Z",
+            "owner": "tonyantony300",
+            "repo": "dashbeam",
+            "stars": 9052
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sendme",
+          "description": "A tool to send files and directories, based on iroh.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-25T13:24:41Z",
+            "owner": "n0-computer",
+            "repo": "sendme",
+            "stars": 1149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lis",
+          "description": "Life is short, but data should live forever.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-08-13T12:44:26Z",
+            "owner": "riffcc",
+            "repo": "lis",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rust Patcher",
+          "description": "Secure Decentralized Software updates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-10-26T09:52:26Z",
+            "owner": "rustonbsd",
+            "repo": "rustpatcher",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dropwire",
+          "description": "Send any file directly between devices, end-to-end encrypted and resumable, with no account and no server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-06-20T23:44:01Z",
+            "owner": "muhamadjawdatsalemalakoum",
+            "repo": "dropwire",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ringdrop",
+          "description": "Frugal, daemonized P2P file transfer with ring-based access control, built on iroh and bao protocols.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-27T18:16:57Z",
+            "owner": "rikettsie",
+            "repo": "ringdrop",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quicksend",
+          "description": "Send files peer to peer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-03T22:49:13Z",
+            "owner": "israelyago",
+            "repo": "QuickSend",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ARK Drop Desktop",
+          "description": "Use QR codes to quickly send and receive files between devices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2026-01-22T08:16:23Z",
+            "owner": "ARK-Builders",
+            "repo": "Drop-Desktop",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DataBeam",
+          "description": "File sharing desktop app with features like: share via short custom code or QR code, share text, auto-retry on failure, and automatic overwrite conflict resolution.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-04T18:11:54Z",
+            "owner": "vinay-winai",
+            "repo": "DataBeam",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sendme-egui",
+          "description": "Egui interface for sendme.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-10-01T11:14:55Z",
+            "owner": "zignig",
+            "repo": "sendme-egui",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ringdrop-gui",
+          "description": "Desktop GUI for ringdrop, exposing the full CLI as a native app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2026-07-11T08:43:23Z",
+            "owner": "rikettsie",
+            "repo": "ringdrop-gui",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iroh_send",
+          "description": "Send files or directories by sharing an env variable (python).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-29T14:17:31Z",
+            "owner": "thiswillbeyourgithub",
+            "repo": "iroh-send",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "File Sharing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "p2panda",
+          "description": "Building blocks for peer-to-peer applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T15:47:55Z",
+            "owner": "p2panda",
+            "repo": "p2panda",
+            "stars": 544
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Peernet",
+          "description": "Easy & reliable p2p networking.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-03-22T09:18:12Z",
+            "owner": "dvc94ch",
+            "repo": "peernet",
+            "stars": 61
+          }
+        }
+      ],
+      "title": "Frameworks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "irpc",
+          "description": "RPC for memory, quinn or iroh connections.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-27T12:00:13Z",
+            "owner": "n0-computer",
+            "repo": "irpc",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "distributed-topic-tracker",
+          "description": "Iroh-gossip with auto discovery (no servers!)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-15T16:08:46Z",
+            "owner": "rustonbsd",
+            "repo": "distributed-topic-tracker",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iroh-rings",
+          "description": "A relationship-based access control protocol for resources over iroh.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-15T21:39:56Z",
+            "owner": "rikettsie",
+            "repo": "iroh-rings",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "imsg",
+          "description": "🧪 - A base protocol providing streams of messages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-08-22T16:00:00Z",
+            "owner": "n0-computer",
+            "repo": "imsg",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iroh-gossip-discovery",
+          "description": "Peer discovery for iroh gossip topics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Nix",
+            "last_commit": "2025-10-08T01:02:11Z",
+            "owner": "therishidesai",
+            "repo": "iroh-gossip-discovery",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Libraries and protocols"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Fish Folk: Jumpy",
+          "description": "Tactical 2D shooter in fishy pixels style. Made with Rust-lang 🦀, built on Bones.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-01-30T15:52:41Z",
+            "owner": "fishfolk",
+            "repo": "jumpy",
+            "stars": 1874
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bones",
+          "description": "An easy-to-use game engine for making real games, networked with iroh.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-04-24T19:23:00Z",
+            "owner": "fishfolk",
+            "repo": "bones",
+            "stars": 308
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iroh-lan",
+          "description": "Have a lan party with iroh (iroh-lan = hamachi - account - install).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-26T22:12:03Z",
+            "owner": "rustonbsd",
+            "repo": "iroh-lan",
+            "stars": 211
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Godot Iroh",
+          "description": "A peer-to-peer multiplayer extension for Godot based on iroh.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-03-30T22:04:20Z",
+            "owner": "tipragot",
+            "repo": "godot-iroh",
+            "stars": 99
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "USD Renderer",
+          "description": "Universal Scene Description Render, linked with iroh.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-02-21T10:32:23Z",
+            "owner": "expenses",
+            "repo": "usd-render",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Games and 3D"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Tauri + Leptos + Tailwind CSS + Iroh + Keyhive/Beelay",
+          "description": "Proof of concept chat app combining automerge keyhive/beelay, iroh and tauri.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-06-17T22:31:41Z",
+            "owner": "Zyell",
+            "repo": "beelay-iroh-chat",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tauri Chat Example",
+          "description": "Example cross-platform chat app demo, using Tauri v2 & React.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-06-14T18:21:17Z",
+            "owner": "jamessizeland",
+            "repo": "peer-to-peer",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "Social Media"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Obsiroh",
+          "description": "An Obsidian sync method with iroh.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-02-24T21:44:03Z",
+            "owner": "DrHongos",
+            "repo": "obsiroh",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kith",
+          "description": "Serverless, no-account, end-to-end-encrypted sync for your own devices — memory, tabs, and files — that your AI can also read and write over MCP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-05T18:42:34Z",
+            "owner": "muhamadjawdatsalemalakoum",
+            "repo": "kith",
+            "stars": 16
+          }
+        }
+      ],
+      "title": "Tools for Thought"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Fedimint",
+          "description": "Federated E-Cash Mint.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T20:29:47Z",
+            "owner": "fedimint",
+            "repo": "fedimint",
+            "stars": 694
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Recall",
+          "description": "Lets any agent prove, refine, and earn from their intelligence, onchain.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-06-18T08:47:51Z",
+            "owner": "recallnet",
+            "repo": "ipc",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Analog",
+          "description": "An omnichain network powered by Proof of Time.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-03-26T01:38:11Z",
+            "owner": "Analog-Labs",
+            "repo": "timechain",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Thresh",
+          "description": "A Desktop Cardano Wallet.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-08-29T16:53:58Z",
+            "owner": "rodrigomd94",
+            "repo": "Thresh",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Web3"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Follow"
+    },
+    {
+      "description": "Contributions of any kind welcome, just follow the guidelines!",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "Thanks goes to these contributors!",
+      "items": [],
+      "title": "Contributors"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:08:54.148Z",
+    "original_repository": "n0-computer/awesome-iroh",
+    "original_repository_sha": "b37c6280b301d623f9a387f0cf8c5f98510ca607",
+    "enhanced_repository": "enhansome/enhansome-iroh",
+    "enhanced_repository_description": null,
+    "title": "Awesome Iroh with stars"
+  }
+}
