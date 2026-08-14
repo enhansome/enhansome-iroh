@@ -96,7 +96,7 @@
             "last_commit": "2026-08-09T09:13:45Z",
             "owner": "teamtype",
             "repo": "teamtype",
-            "stars": 1902
+            "stars": 1903
           }
         },
         {
@@ -144,7 +144,7 @@
             "last_commit": "2026-07-20T13:08:22Z",
             "owner": "n0-computer",
             "repo": "dumbpipe",
-            "stars": 690
+            "stars": 692
           }
         },
         {
@@ -155,10 +155,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T20:53:12Z",
+            "last_commit": "2026-08-14T16:50:07Z",
             "owner": "rayfish",
             "repo": "rayfish",
-            "stars": 563
+            "stars": 565
           }
         },
         {
@@ -172,7 +172,7 @@
             "last_commit": "2026-07-21T07:49:29Z",
             "owner": "duxweb",
             "repo": "codux",
-            "stars": 396
+            "stars": 397
           }
         },
         {
@@ -301,10 +301,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-01T20:17:59Z",
+            "last_commit": "2026-08-14T13:22:34Z",
             "owner": "tonyantony300",
             "repo": "dashbeam",
-            "stars": 9054
+            "stars": 9057
           }
         },
         {
@@ -475,7 +475,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T14:15:27Z",
+            "last_commit": "2026-08-14T08:29:23Z",
             "owner": "p2panda",
             "repo": "p2panda",
             "stars": 546
@@ -492,7 +492,7 @@
             "last_commit": "2025-03-22T09:18:12Z",
             "owner": "dvc94ch",
             "repo": "peernet",
-            "stars": 61
+            "stars": 60
           }
         }
       ],
@@ -526,7 +526,7 @@
             "last_commit": "2026-06-15T16:08:46Z",
             "owner": "rustonbsd",
             "repo": "distributed-topic-tracker",
-            "stars": 40
+            "stars": 39
           }
         },
         {
@@ -630,7 +630,7 @@
             "last_commit": "2026-03-30T22:04:20Z",
             "owner": "tipragot",
             "repo": "godot-iroh",
-            "stars": 99
+            "stars": 98
           }
         },
         {
@@ -698,7 +698,7 @@
             "last_commit": "2024-02-24T21:44:03Z",
             "owner": "DrHongos",
             "repo": "obsiroh",
-            "stars": 27
+            "stars": 26
           }
         },
         {
@@ -729,7 +729,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T17:55:20Z",
+            "last_commit": "2026-08-14T16:21:38Z",
             "owner": "fedimint",
             "repo": "fedimint",
             "stars": 694
@@ -797,7 +797,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T21:59:33.122Z",
+    "last_updated": "2026-08-14T21:37:04.401Z",
     "original_repository": "n0-computer/awesome-iroh",
     "original_repository_sha": "b37c6280b301d623f9a387f0cf8c5f98510ca607",
     "enhanced_repository": "enhansome/enhansome-iroh",
