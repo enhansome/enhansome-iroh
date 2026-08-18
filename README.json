@@ -93,10 +93,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T12:08:09Z",
+            "last_commit": "2026-08-18T07:45:09Z",
             "owner": "teamtype",
             "repo": "teamtype",
-            "stars": 1904
+            "stars": 1905
           }
         },
         {
@@ -115,6 +115,20 @@
         },
         {
           "node_type": "item",
+          "title": "linXiv",
+          "description": "Local-first academic paper manager with p2p sharing enabled using iroh.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-18T01:44:10Z",
+            "owner": "linxiv-dev",
+            "repo": "linXiv",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
           "title": "biter",
           "description": "Synchronize device clipboards via iroh.",
           "children": [],
@@ -125,6 +139,20 @@
             "owner": "LukeDSchenk",
             "repo": "biter",
             "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "p2pmux",
+          "description": "Terminal multiplexer where every pane is a PTY on its owner's own machine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-18T19:53:11Z",
+            "owner": "pelazas",
+            "repo": "p2pmux",
+            "stars": 5
           }
         }
       ],
@@ -155,10 +183,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T21:21:06Z",
+            "last_commit": "2026-08-18T15:06:41Z",
             "owner": "rayfish",
             "repo": "rayfish",
-            "stars": 594
+            "stars": 600
           }
         },
         {
@@ -172,7 +200,7 @@
             "last_commit": "2026-07-21T07:49:29Z",
             "owner": "duxweb",
             "repo": "codux",
-            "stars": 406
+            "stars": 408
           }
         },
         {
@@ -186,7 +214,7 @@
             "last_commit": "2026-06-24T17:24:26Z",
             "owner": "rustonbsd",
             "repo": "iroh-ssh",
-            "stars": 265
+            "stars": 266
           }
         },
         {
@@ -214,7 +242,7 @@
             "last_commit": "2026-08-03T10:40:29Z",
             "owner": "tunnetio",
             "repo": "Tunnet",
-            "stars": 75
+            "stars": 76
           }
         },
         {
@@ -225,10 +253,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-07T16:36:50Z",
+            "last_commit": "2026-08-18T17:45:31Z",
             "owner": "cablehead",
             "repo": "pai-sho",
-            "stars": 41
+            "stars": 42
           }
         },
         {
@@ -256,7 +284,7 @@
             "last_commit": "2026-06-09T20:19:28Z",
             "owner": "futpib",
             "repo": "iroh-ssh-android",
-            "stars": 19
+            "stars": 20
           }
         },
         {
@@ -301,10 +329,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T13:53:39Z",
+            "last_commit": "2026-08-18T17:49:59Z",
             "owner": "tonyantony300",
             "repo": "dashbeam",
-            "stars": 9076
+            "stars": 9080
           }
         },
         {
@@ -318,7 +346,7 @@
             "last_commit": "2026-07-25T13:24:41Z",
             "owner": "n0-computer",
             "repo": "sendme",
-            "stars": 1151
+            "stars": 1153
           }
         },
         {
@@ -475,10 +503,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T13:17:48Z",
+            "last_commit": "2026-08-18T20:17:37Z",
             "owner": "p2panda",
             "repo": "p2panda",
-            "stars": 548
+            "stars": 553
           }
         },
         {
@@ -588,7 +616,7 @@
             "last_commit": "2026-01-30T15:52:41Z",
             "owner": "fishfolk",
             "repo": "jumpy",
-            "stars": 1875
+            "stars": 1874
           }
         },
         {
@@ -616,7 +644,7 @@
             "last_commit": "2026-07-26T22:12:03Z",
             "owner": "rustonbsd",
             "repo": "iroh-lan",
-            "stars": 215
+            "stars": 217
           }
         },
         {
@@ -729,7 +757,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T21:16:21Z",
+            "last_commit": "2026-08-17T21:54:10Z",
             "owner": "fedimint",
             "repo": "fedimint",
             "stars": 694
@@ -797,9 +825,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T21:36:48.288Z",
+    "last_updated": "2026-08-18T21:35:53.181Z",
     "original_repository": "n0-computer/awesome-iroh",
-    "original_repository_sha": "b37c6280b301d623f9a387f0cf8c5f98510ca607",
+    "original_repository_sha": "94875f9dc4a7cd061d2d4748bfb48cc21f9be9b6",
     "enhanced_repository": "enhansome/enhansome-iroh",
     "enhanced_repository_description": null,
     "title": "Awesome Iroh with stars"
