@@ -129,7 +129,7 @@
             "archived": false,
             "id": 1193164114,
             "language": "Rust",
-            "last_commit": "2026-08-18T01:44:10Z",
+            "last_commit": "2026-08-19T15:22:42Z",
             "owner": "linxiv-dev",
             "repo": "linXiv",
             "stars": 42
@@ -162,7 +162,7 @@
             "last_commit": "2026-08-18T19:53:11Z",
             "owner": "pelazas",
             "repo": "p2pmux",
-            "stars": 7
+            "stars": 10
           }
         }
       ],
@@ -183,7 +183,7 @@
             "last_commit": "2026-07-20T13:08:22Z",
             "owner": "n0-computer",
             "repo": "dumbpipe",
-            "stars": 694
+            "stars": 695
           }
         },
         {
@@ -195,10 +195,10 @@
             "archived": false,
             "id": 1277104302,
             "language": "Rust",
-            "last_commit": "2026-08-19T12:21:33Z",
+            "last_commit": "2026-08-19T13:27:11Z",
             "owner": "rayfish",
             "repo": "rayfish",
-            "stars": 601
+            "stars": 603
           }
         },
         {
@@ -270,7 +270,7 @@
             "archived": false,
             "id": 1133756644,
             "language": "Rust",
-            "last_commit": "2026-08-18T17:45:31Z",
+            "last_commit": "2026-08-19T21:17:37Z",
             "owner": "cablehead",
             "repo": "pai-sho",
             "stars": 43
@@ -303,7 +303,7 @@
             "last_commit": "2026-06-09T20:19:28Z",
             "owner": "futpib",
             "repo": "iroh-ssh-android",
-            "stars": 20
+            "stars": 21
           }
         },
         {
@@ -315,7 +315,7 @@
             "archived": false,
             "id": 1073754335,
             "language": "Rust",
-            "last_commit": "2026-08-19T00:46:12Z",
+            "last_commit": "2026-08-19T15:34:56Z",
             "owner": "datum-cloud",
             "repo": "app",
             "stars": 14
@@ -351,10 +351,10 @@
             "archived": false,
             "id": 1078137951,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T11:16:29Z",
+            "last_commit": "2026-08-19T16:35:50Z",
             "owner": "tonyantony300",
             "repo": "dashbeam",
-            "stars": 9084
+            "stars": 9146
           }
         },
         {
@@ -369,7 +369,7 @@
             "last_commit": "2026-07-25T13:24:41Z",
             "owner": "n0-computer",
             "repo": "sendme",
-            "stars": 1153
+            "stars": 1154
           }
         },
         {
@@ -537,7 +537,7 @@
             "archived": false,
             "id": 303450750,
             "language": "Rust",
-            "last_commit": "2026-08-19T12:33:08Z",
+            "last_commit": "2026-08-19T14:38:35Z",
             "owner": "p2panda",
             "repo": "p2panda",
             "stars": 553
@@ -807,7 +807,7 @@
             "archived": false,
             "id": 369010411,
             "language": "Rust",
-            "last_commit": "2026-08-17T21:54:10Z",
+            "last_commit": "2026-08-19T21:35:30Z",
             "owner": "fedimint",
             "repo": "fedimint",
             "stars": 694
@@ -863,7 +863,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:35:08.219Z",
+    "last_updated": "2026-08-19T21:37:12.998Z",
     "original_repository": "n0-computer/awesome-iroh",
     "original_repository_id": 874866049,
     "original_repository_sha": "94875f9dc4a7cd061d2d4748bfb48cc21f9be9b6",
