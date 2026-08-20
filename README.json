@@ -117,7 +117,7 @@
             "last_commit": "2026-07-15T05:39:54Z",
             "owner": "julianbuettner",
             "repo": "zeco",
-            "stars": 75
+            "stars": 76
           }
         },
         {
@@ -129,10 +129,10 @@
             "archived": false,
             "id": 1193164114,
             "language": "Rust",
-            "last_commit": "2026-08-19T15:22:42Z",
+            "last_commit": "2026-08-20T02:32:02Z",
             "owner": "linxiv-dev",
             "repo": "linXiv",
-            "stars": 42
+            "stars": 43
           }
         },
         {
@@ -195,10 +195,10 @@
             "archived": false,
             "id": 1277104302,
             "language": "Rust",
-            "last_commit": "2026-08-19T13:27:11Z",
+            "last_commit": "2026-08-20T16:15:39Z",
             "owner": "rayfish",
             "repo": "rayfish",
-            "stars": 603
+            "stars": 609
           }
         },
         {
@@ -213,7 +213,7 @@
             "last_commit": "2026-07-21T07:49:29Z",
             "owner": "duxweb",
             "repo": "codux",
-            "stars": 410
+            "stars": 412
           }
         },
         {
@@ -228,7 +228,7 @@
             "last_commit": "2026-06-24T17:24:26Z",
             "owner": "rustonbsd",
             "repo": "iroh-ssh",
-            "stars": 266
+            "stars": 268
           }
         },
         {
@@ -243,7 +243,7 @@
             "last_commit": "2026-08-07T04:15:16Z",
             "owner": "cablehead",
             "repo": "xs",
-            "stars": 217
+            "stars": 218
           }
         },
         {
@@ -258,7 +258,7 @@
             "last_commit": "2026-08-03T10:40:29Z",
             "owner": "tunnetio",
             "repo": "Tunnet",
-            "stars": 76
+            "stars": 77
           }
         },
         {
@@ -270,10 +270,10 @@
             "archived": false,
             "id": 1133756644,
             "language": "Rust",
-            "last_commit": "2026-08-19T21:17:37Z",
+            "last_commit": "2026-08-20T20:15:27Z",
             "owner": "cablehead",
             "repo": "pai-sho",
-            "stars": 43
+            "stars": 46
           }
         },
         {
@@ -351,10 +351,10 @@
             "archived": false,
             "id": 1078137951,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T16:35:50Z",
+            "last_commit": "2026-08-20T19:01:10Z",
             "owner": "tonyantony300",
             "repo": "dashbeam",
-            "stars": 9146
+            "stars": 9241
           }
         },
         {
@@ -369,7 +369,7 @@
             "last_commit": "2026-07-25T13:24:41Z",
             "owner": "n0-computer",
             "repo": "sendme",
-            "stars": 1154
+            "stars": 1156
           }
         },
         {
@@ -537,10 +537,10 @@
             "archived": false,
             "id": 303450750,
             "language": "Rust",
-            "last_commit": "2026-08-19T14:38:35Z",
+            "last_commit": "2026-08-20T18:07:16Z",
             "owner": "p2panda",
             "repo": "p2panda",
-            "stars": 553
+            "stars": 552
           }
         },
         {
@@ -738,7 +738,7 @@
             "last_commit": "2025-06-17T22:31:41Z",
             "owner": "Zyell",
             "repo": "beelay-iroh-chat",
-            "stars": 33
+            "stars": 34
           }
         },
         {
@@ -807,7 +807,7 @@
             "archived": false,
             "id": 369010411,
             "language": "Rust",
-            "last_commit": "2026-08-19T21:35:30Z",
+            "last_commit": "2026-08-20T04:04:11Z",
             "owner": "fedimint",
             "repo": "fedimint",
             "stars": 694
@@ -863,7 +863,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T21:37:12.998Z",
+    "last_updated": "2026-08-20T21:39:52.414Z",
     "original_repository": "n0-computer/awesome-iroh",
     "original_repository_id": 874866049,
     "original_repository_sha": "94875f9dc4a7cd061d2d4748bfb48cc21f9be9b6",
