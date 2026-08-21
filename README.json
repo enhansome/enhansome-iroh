@@ -15,7 +15,7 @@
             "last_commit": "2026-03-24T20:46:58Z",
             "owner": "PsycheFoundation",
             "repo": "nousnet",
-            "stars": 956
+            "stars": 957
           }
         },
         {
@@ -129,10 +129,10 @@
             "archived": false,
             "id": 1193164114,
             "language": "Rust",
-            "last_commit": "2026-08-20T02:32:02Z",
+            "last_commit": "2026-08-21T20:37:56Z",
             "owner": "linxiv-dev",
             "repo": "linXiv",
-            "stars": 43
+            "stars": 44
           }
         },
         {
@@ -195,10 +195,10 @@
             "archived": false,
             "id": 1277104302,
             "language": "Rust",
-            "last_commit": "2026-08-20T16:15:39Z",
+            "last_commit": "2026-08-21T16:08:11Z",
             "owner": "rayfish",
             "repo": "rayfish",
-            "stars": 609
+            "stars": 616
           }
         },
         {
@@ -243,7 +243,7 @@
             "last_commit": "2026-08-07T04:15:16Z",
             "owner": "cablehead",
             "repo": "xs",
-            "stars": 218
+            "stars": 220
           }
         },
         {
@@ -258,7 +258,7 @@
             "last_commit": "2026-08-03T10:40:29Z",
             "owner": "tunnetio",
             "repo": "Tunnet",
-            "stars": 77
+            "stars": 78
           }
         },
         {
@@ -270,10 +270,10 @@
             "archived": false,
             "id": 1133756644,
             "language": "Rust",
-            "last_commit": "2026-08-20T20:15:27Z",
+            "last_commit": "2026-08-21T01:26:24Z",
             "owner": "cablehead",
             "repo": "pai-sho",
-            "stars": 46
+            "stars": 47
           }
         },
         {
@@ -303,7 +303,7 @@
             "last_commit": "2026-06-09T20:19:28Z",
             "owner": "futpib",
             "repo": "iroh-ssh-android",
-            "stars": 21
+            "stars": 22
           }
         },
         {
@@ -315,7 +315,7 @@
             "archived": false,
             "id": 1073754335,
             "language": "Rust",
-            "last_commit": "2026-08-19T15:34:56Z",
+            "last_commit": "2026-08-21T12:58:05Z",
             "owner": "datum-cloud",
             "repo": "app",
             "stars": 14
@@ -335,6 +335,21 @@
             "repo": "edky",
             "stars": 14
           }
+        },
+        {
+          "node_type": "item",
+          "title": "locho",
+          "description": "Local + echo = locho: Access a private service on another machine as if it were local.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1303581585,
+            "language": "Rust",
+            "last_commit": "2026-08-19T00:54:52Z",
+            "owner": "trchopan",
+            "repo": "locho",
+            "stars": 4
+          }
         }
       ],
       "title": "DevTools"
@@ -351,10 +366,10 @@
             "archived": false,
             "id": 1078137951,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T19:01:10Z",
+            "last_commit": "2026-08-21T16:57:29Z",
             "owner": "tonyantony300",
             "repo": "dashbeam",
-            "stars": 9241
+            "stars": 9259
           }
         },
         {
@@ -369,7 +384,7 @@
             "last_commit": "2026-07-25T13:24:41Z",
             "owner": "n0-computer",
             "repo": "sendme",
-            "stars": 1156
+            "stars": 1158
           }
         },
         {
@@ -489,7 +504,7 @@
             "last_commit": "2025-10-01T11:14:55Z",
             "owner": "zignig",
             "repo": "sendme-egui",
-            "stars": 11
+            "stars": 12
           }
         },
         {
@@ -537,10 +552,10 @@
             "archived": false,
             "id": 303450750,
             "language": "Rust",
-            "last_commit": "2026-08-20T18:07:16Z",
+            "last_commit": "2026-08-21T13:12:52Z",
             "owner": "p2panda",
             "repo": "p2panda",
-            "stars": 552
+            "stars": 553
           }
         },
         {
@@ -807,7 +822,7 @@
             "archived": false,
             "id": 369010411,
             "language": "Rust",
-            "last_commit": "2026-08-20T04:04:11Z",
+            "last_commit": "2026-08-21T20:52:29Z",
             "owner": "fedimint",
             "repo": "fedimint",
             "stars": 694
@@ -863,10 +878,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T21:39:52.414Z",
+    "last_updated": "2026-08-21T21:35:57.853Z",
     "original_repository": "n0-computer/awesome-iroh",
     "original_repository_id": 874866049,
-    "original_repository_sha": "94875f9dc4a7cd061d2d4748bfb48cc21f9be9b6",
+    "original_repository_sha": "93c3c277a1431c2e3f2a7074b955bb7fe0f793ce",
     "enhanced_repository": "enhansome/enhansome-iroh",
     "enhanced_repository_description": null,
     "title": "Awesome Iroh with stars"
