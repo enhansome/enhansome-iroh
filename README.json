@@ -129,7 +129,7 @@
             "archived": false,
             "id": 1193164114,
             "language": "Rust",
-            "last_commit": "2026-08-21T20:37:56Z",
+            "last_commit": "2026-08-22T17:49:46Z",
             "owner": "linxiv-dev",
             "repo": "linXiv",
             "stars": 44
@@ -159,7 +159,7 @@
             "archived": false,
             "id": 1311314679,
             "language": "Rust",
-            "last_commit": "2026-08-18T19:53:11Z",
+            "last_commit": "2026-08-22T15:08:23Z",
             "owner": "pelazas",
             "repo": "p2pmux",
             "stars": 10
@@ -183,7 +183,7 @@
             "last_commit": "2026-07-20T13:08:22Z",
             "owner": "n0-computer",
             "repo": "dumbpipe",
-            "stars": 695
+            "stars": 700
           }
         },
         {
@@ -198,7 +198,7 @@
             "last_commit": "2026-08-21T16:08:11Z",
             "owner": "rayfish",
             "repo": "rayfish",
-            "stars": 616
+            "stars": 619
           }
         },
         {
@@ -228,7 +228,7 @@
             "last_commit": "2026-06-24T17:24:26Z",
             "owner": "rustonbsd",
             "repo": "iroh-ssh",
-            "stars": 268
+            "stars": 271
           }
         },
         {
@@ -243,7 +243,7 @@
             "last_commit": "2026-08-07T04:15:16Z",
             "owner": "cablehead",
             "repo": "xs",
-            "stars": 220
+            "stars": 219
           }
         },
         {
@@ -273,7 +273,7 @@
             "last_commit": "2026-08-21T01:26:24Z",
             "owner": "cablehead",
             "repo": "pai-sho",
-            "stars": 47
+            "stars": 48
           }
         },
         {
@@ -315,7 +315,7 @@
             "archived": false,
             "id": 1073754335,
             "language": "Rust",
-            "last_commit": "2026-08-21T12:58:05Z",
+            "last_commit": "2026-08-22T11:15:27Z",
             "owner": "datum-cloud",
             "repo": "app",
             "stars": 14
@@ -369,7 +369,7 @@
             "last_commit": "2026-08-21T16:57:29Z",
             "owner": "tonyantony300",
             "repo": "dashbeam",
-            "stars": 9259
+            "stars": 9274
           }
         },
         {
@@ -384,7 +384,7 @@
             "last_commit": "2026-07-25T13:24:41Z",
             "owner": "n0-computer",
             "repo": "sendme",
-            "stars": 1158
+            "stars": 1167
           }
         },
         {
@@ -552,7 +552,7 @@
             "archived": false,
             "id": 303450750,
             "language": "Rust",
-            "last_commit": "2026-08-21T13:12:52Z",
+            "last_commit": "2026-08-22T08:03:00Z",
             "owner": "p2panda",
             "repo": "p2panda",
             "stars": 553
@@ -672,7 +672,7 @@
             "last_commit": "2026-01-30T15:52:41Z",
             "owner": "fishfolk",
             "repo": "jumpy",
-            "stars": 1874
+            "stars": 1875
           }
         },
         {
@@ -822,10 +822,10 @@
             "archived": false,
             "id": 369010411,
             "language": "Rust",
-            "last_commit": "2026-08-21T20:52:29Z",
+            "last_commit": "2026-08-22T16:14:01Z",
             "owner": "fedimint",
             "repo": "fedimint",
-            "stars": 694
+            "stars": 695
           }
         },
         {
@@ -878,7 +878,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T21:35:57.853Z",
+    "last_updated": "2026-08-22T21:33:25.033Z",
     "original_repository": "n0-computer/awesome-iroh",
     "original_repository_id": 874866049,
     "original_repository_sha": "93c3c277a1431c2e3f2a7074b955bb7fe0f793ce",
