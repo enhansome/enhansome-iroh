@@ -117,7 +117,7 @@
             "last_commit": "2026-07-15T05:39:54Z",
             "owner": "julianbuettner",
             "repo": "zeco",
-            "stars": 77
+            "stars": 78
           }
         },
         {
@@ -195,10 +195,10 @@
             "archived": false,
             "id": 1277104302,
             "language": "Rust",
-            "last_commit": "2026-08-24T09:40:30Z",
+            "last_commit": "2026-08-24T18:51:40Z",
             "owner": "rayfish",
             "repo": "rayfish",
-            "stars": 622
+            "stars": 625
           }
         },
         {
@@ -228,7 +228,7 @@
             "last_commit": "2026-06-24T17:24:26Z",
             "owner": "rustonbsd",
             "repo": "iroh-ssh",
-            "stars": 271
+            "stars": 272
           }
         },
         {
@@ -303,7 +303,7 @@
             "last_commit": "2026-06-09T20:19:28Z",
             "owner": "futpib",
             "repo": "iroh-ssh-android",
-            "stars": 22
+            "stars": 23
           }
         },
         {
@@ -369,7 +369,7 @@
             "last_commit": "2026-08-21T16:57:29Z",
             "owner": "tonyantony300",
             "repo": "dashbeam",
-            "stars": 9290
+            "stars": 9291
           }
         },
         {
@@ -837,7 +837,7 @@
             "archived": false,
             "id": 369010411,
             "language": "Rust",
-            "last_commit": "2026-08-22T16:14:01Z",
+            "last_commit": "2026-08-24T21:10:46Z",
             "owner": "fedimint",
             "repo": "fedimint",
             "stars": 695
@@ -893,7 +893,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:21:57.453Z",
+    "last_updated": "2026-08-24T21:41:22.655Z",
     "original_repository": "n0-computer/awesome-iroh",
     "original_repository_id": 874866049,
     "original_repository_sha": "4f0fa003e3860e42e614d515eddf54978a22b2d7",
