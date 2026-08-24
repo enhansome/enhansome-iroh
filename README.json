@@ -15,7 +15,7 @@
             "last_commit": "2026-03-24T20:46:58Z",
             "owner": "PsycheFoundation",
             "repo": "nousnet",
-            "stars": 957
+            "stars": 958
           }
         },
         {
@@ -102,7 +102,7 @@
             "last_commit": "2026-08-18T07:45:09Z",
             "owner": "teamtype",
             "repo": "teamtype",
-            "stars": 1906
+            "stars": 1907
           }
         },
         {
@@ -117,7 +117,7 @@
             "last_commit": "2026-07-15T05:39:54Z",
             "owner": "julianbuettner",
             "repo": "zeco",
-            "stars": 76
+            "stars": 77
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2026-08-23T03:39:52Z",
             "owner": "linxiv-dev",
             "repo": "linXiv",
-            "stars": 44
+            "stars": 45
           }
         },
         {
@@ -162,7 +162,7 @@
             "last_commit": "2026-08-23T12:48:48Z",
             "owner": "pelazas",
             "repo": "p2pmux",
-            "stars": 10
+            "stars": 11
           }
         }
       ],
@@ -195,10 +195,10 @@
             "archived": false,
             "id": 1277104302,
             "language": "Rust",
-            "last_commit": "2026-08-23T21:03:40Z",
+            "last_commit": "2026-08-24T09:40:30Z",
             "owner": "rayfish",
             "repo": "rayfish",
-            "stars": 621
+            "stars": 622
           }
         },
         {
@@ -213,7 +213,7 @@
             "last_commit": "2026-07-21T07:49:29Z",
             "owner": "duxweb",
             "repo": "codux",
-            "stars": 412
+            "stars": 415
           }
         },
         {
@@ -369,7 +369,7 @@
             "last_commit": "2026-08-21T16:57:29Z",
             "owner": "tonyantony300",
             "repo": "dashbeam",
-            "stars": 9283
+            "stars": 9290
           }
         },
         {
@@ -426,7 +426,7 @@
             "archived": false,
             "id": 1271413913,
             "language": "HTML",
-            "last_commit": "2026-08-23T20:50:55Z",
+            "last_commit": "2026-08-23T22:30:32Z",
             "owner": "muhamadjawdatsalemalakoum",
             "repo": "dropwire",
             "stars": 24
@@ -509,6 +509,21 @@
         },
         {
           "node_type": "item",
+          "title": "fsend",
+          "description": "Peer-to-peer file sharing webapp and cli tool, allows transferring of files and folders with resumable transfers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1224941583,
+            "language": "TypeScript",
+            "last_commit": "2026-08-22T03:08:50Z",
+            "owner": "maxomatic458",
+            "repo": "fsend",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
           "title": "ringdrop-gui",
           "description": "Desktop GUI for ringdrop, exposing the full CLI as a native app.",
           "children": [],
@@ -555,7 +570,7 @@
             "last_commit": "2026-08-22T08:03:00Z",
             "owner": "p2panda",
             "repo": "p2panda",
-            "stars": 553
+            "stars": 554
           }
         },
         {
@@ -878,10 +893,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T21:33:53.943Z",
+    "last_updated": "2026-08-24T14:21:57.453Z",
     "original_repository": "n0-computer/awesome-iroh",
     "original_repository_id": 874866049,
-    "original_repository_sha": "93c3c277a1431c2e3f2a7074b955bb7fe0f793ce",
+    "original_repository_sha": "4f0fa003e3860e42e614d515eddf54978a22b2d7",
     "enhanced_repository": "enhansome/enhansome-iroh",
     "enhanced_repository_description": null,
     "title": "Awesome Iroh with stars"
