@@ -183,7 +183,7 @@
             "last_commit": "2026-07-20T13:08:22Z",
             "owner": "n0-computer",
             "repo": "dumbpipe",
-            "stars": 703
+            "stars": 704
           }
         },
         {
@@ -195,10 +195,10 @@
             "archived": false,
             "id": 1277104302,
             "language": "Rust",
-            "last_commit": "2026-08-24T18:51:40Z",
+            "last_commit": "2026-08-24T22:27:56Z",
             "owner": "rayfish",
             "repo": "rayfish",
-            "stars": 625
+            "stars": 626
           }
         },
         {
@@ -348,7 +348,7 @@
             "last_commit": "2026-08-19T00:54:52Z",
             "owner": "trchopan",
             "repo": "locho",
-            "stars": 5
+            "stars": 6
           }
         }
       ],
@@ -369,7 +369,7 @@
             "last_commit": "2026-08-21T16:57:29Z",
             "owner": "tonyantony300",
             "repo": "dashbeam",
-            "stars": 9291
+            "stars": 9293
           }
         },
         {
@@ -384,7 +384,7 @@
             "last_commit": "2026-07-25T13:24:41Z",
             "owner": "n0-computer",
             "repo": "sendme",
-            "stars": 1169
+            "stars": 1170
           }
         },
         {
@@ -570,7 +570,7 @@
             "last_commit": "2026-08-22T08:03:00Z",
             "owner": "p2panda",
             "repo": "p2panda",
-            "stars": 554
+            "stars": 556
           }
         },
         {
@@ -893,7 +893,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T21:41:22.655Z",
+    "last_updated": "2026-08-25T06:14:59.876Z",
     "original_repository": "n0-computer/awesome-iroh",
     "original_repository_id": 874866049,
     "original_repository_sha": "4f0fa003e3860e42e614d515eddf54978a22b2d7",
