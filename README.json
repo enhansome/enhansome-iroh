@@ -15,7 +15,7 @@
             "last_commit": "2026-03-24T20:46:58Z",
             "owner": "PsycheFoundation",
             "repo": "nousnet",
-            "stars": 958
+            "stars": 960
           }
         },
         {
@@ -162,7 +162,7 @@
             "last_commit": "2026-08-23T12:48:48Z",
             "owner": "pelazas",
             "repo": "p2pmux",
-            "stars": 11
+            "stars": 10
           }
         }
       ],
@@ -195,10 +195,10 @@
             "archived": false,
             "id": 1277104302,
             "language": "Rust",
-            "last_commit": "2026-08-24T22:27:56Z",
+            "last_commit": "2026-08-25T18:14:15Z",
             "owner": "rayfish",
             "repo": "rayfish",
-            "stars": 626
+            "stars": 629
           }
         },
         {
@@ -345,7 +345,7 @@
             "archived": false,
             "id": 1303581585,
             "language": "Rust",
-            "last_commit": "2026-08-19T00:54:52Z",
+            "last_commit": "2026-08-25T09:08:03Z",
             "owner": "trchopan",
             "repo": "locho",
             "stars": 6
@@ -369,7 +369,7 @@
             "last_commit": "2026-08-21T16:57:29Z",
             "owner": "tonyantony300",
             "repo": "dashbeam",
-            "stars": 9293
+            "stars": 9300
           }
         },
         {
@@ -384,7 +384,7 @@
             "last_commit": "2026-07-25T13:24:41Z",
             "owner": "n0-computer",
             "repo": "sendme",
-            "stars": 1170
+            "stars": 1171
           }
         },
         {
@@ -425,8 +425,8 @@
           "repo_info": {
             "archived": false,
             "id": 1271413913,
-            "language": "HTML",
-            "last_commit": "2026-08-23T22:30:32Z",
+            "language": "Rust",
+            "last_commit": "2026-08-25T20:24:45Z",
             "owner": "muhamadjawdatsalemalakoum",
             "repo": "dropwire",
             "stars": 24
@@ -486,7 +486,7 @@
             "archived": false,
             "id": 1159821780,
             "language": "Rust",
-            "last_commit": "2026-08-23T21:07:09Z",
+            "last_commit": "2026-08-25T11:06:36Z",
             "owner": "vinay-winai",
             "repo": "DataBeam",
             "stars": 12
@@ -687,7 +687,7 @@
             "last_commit": "2026-01-30T15:52:41Z",
             "owner": "fishfolk",
             "repo": "jumpy",
-            "stars": 1875
+            "stars": 1876
           }
         },
         {
@@ -837,7 +837,7 @@
             "archived": false,
             "id": 369010411,
             "language": "Rust",
-            "last_commit": "2026-08-24T21:10:46Z",
+            "last_commit": "2026-08-25T20:26:32Z",
             "owner": "fedimint",
             "repo": "fedimint",
             "stars": 695
@@ -893,7 +893,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:14:59.876Z",
+    "last_updated": "2026-08-25T21:40:07.152Z",
     "original_repository": "n0-computer/awesome-iroh",
     "original_repository_id": 874866049,
     "original_repository_sha": "4f0fa003e3860e42e614d515eddf54978a22b2d7",
