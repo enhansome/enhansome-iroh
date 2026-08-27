@@ -15,7 +15,7 @@
             "last_commit": "2026-03-24T20:46:58Z",
             "owner": "PsycheFoundation",
             "repo": "nousnet",
-            "stars": 960
+            "stars": 959
           }
         },
         {
@@ -129,10 +129,10 @@
             "archived": false,
             "id": 1193164114,
             "language": "Rust",
-            "last_commit": "2026-08-23T03:39:52Z",
+            "last_commit": "2026-08-26T15:48:52Z",
             "owner": "linxiv-dev",
             "repo": "linXiv",
-            "stars": 45
+            "stars": 46
           }
         },
         {
@@ -159,10 +159,10 @@
             "archived": false,
             "id": 1311314679,
             "language": "Rust",
-            "last_commit": "2026-08-23T12:48:48Z",
+            "last_commit": "2026-08-26T20:00:46Z",
             "owner": "pelazas",
             "repo": "p2pmux",
-            "stars": 10
+            "stars": 11
           }
         }
       ],
@@ -183,7 +183,7 @@
             "last_commit": "2026-07-20T13:08:22Z",
             "owner": "n0-computer",
             "repo": "dumbpipe",
-            "stars": 704
+            "stars": 723
           }
         },
         {
@@ -195,10 +195,10 @@
             "archived": false,
             "id": 1277104302,
             "language": "Rust",
-            "last_commit": "2026-08-25T18:14:15Z",
+            "last_commit": "2026-08-26T19:38:45Z",
             "owner": "rayfish",
             "repo": "rayfish",
-            "stars": 629
+            "stars": 638
           }
         },
         {
@@ -213,7 +213,7 @@
             "last_commit": "2026-07-21T07:49:29Z",
             "owner": "duxweb",
             "repo": "codux",
-            "stars": 415
+            "stars": 419
           }
         },
         {
@@ -228,7 +228,7 @@
             "last_commit": "2026-06-24T17:24:26Z",
             "owner": "rustonbsd",
             "repo": "iroh-ssh",
-            "stars": 272
+            "stars": 273
           }
         },
         {
@@ -255,10 +255,10 @@
             "archived": false,
             "id": 1288277803,
             "language": "TypeScript",
-            "last_commit": "2026-08-03T10:40:29Z",
+            "last_commit": "2026-08-26T15:47:41Z",
             "owner": "tunnetio",
             "repo": "Tunnet",
-            "stars": 79
+            "stars": 81
           }
         },
         {
@@ -273,7 +273,7 @@
             "last_commit": "2026-08-21T01:26:24Z",
             "owner": "cablehead",
             "repo": "pai-sho",
-            "stars": 48
+            "stars": 62
           }
         },
         {
@@ -366,10 +366,10 @@
             "archived": false,
             "id": 1078137951,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T16:57:29Z",
+            "last_commit": "2026-08-26T09:37:41Z",
             "owner": "tonyantony300",
             "repo": "dashbeam",
-            "stars": 9300
+            "stars": 9309
           }
         },
         {
@@ -384,7 +384,7 @@
             "last_commit": "2026-07-25T13:24:41Z",
             "owner": "n0-computer",
             "repo": "sendme",
-            "stars": 1171
+            "stars": 1170
           }
         },
         {
@@ -426,7 +426,7 @@
             "archived": false,
             "id": 1271413913,
             "language": "Rust",
-            "last_commit": "2026-08-25T20:24:45Z",
+            "last_commit": "2026-08-26T20:26:37Z",
             "owner": "muhamadjawdatsalemalakoum",
             "repo": "dropwire",
             "stars": 24
@@ -516,7 +516,7 @@
             "archived": false,
             "id": 1224941583,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T03:08:50Z",
+            "last_commit": "2026-08-26T09:47:49Z",
             "owner": "maxomatic458",
             "repo": "fsend",
             "stars": 11
@@ -567,7 +567,7 @@
             "archived": false,
             "id": 303450750,
             "language": "Rust",
-            "last_commit": "2026-08-22T08:03:00Z",
+            "last_commit": "2026-08-26T13:00:46Z",
             "owner": "p2panda",
             "repo": "p2panda",
             "stars": 556
@@ -717,7 +717,7 @@
             "last_commit": "2026-07-26T22:12:03Z",
             "owner": "rustonbsd",
             "repo": "iroh-lan",
-            "stars": 218
+            "stars": 219
           }
         },
         {
@@ -837,7 +837,7 @@
             "archived": false,
             "id": 369010411,
             "language": "Rust",
-            "last_commit": "2026-08-25T20:26:32Z",
+            "last_commit": "2026-08-26T21:21:40Z",
             "owner": "fedimint",
             "repo": "fedimint",
             "stars": 695
@@ -893,7 +893,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T21:40:07.152Z",
+    "last_updated": "2026-08-27T00:45:53.238Z",
     "original_repository": "n0-computer/awesome-iroh",
     "original_repository_id": 874866049,
     "original_repository_sha": "4f0fa003e3860e42e614d515eddf54978a22b2d7",
