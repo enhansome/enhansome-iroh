@@ -16,7 +16,8 @@
             "owner": "PsycheFoundation",
             "repo": "nousnet",
             "stars": 960
-          }
+          },
+          "first_seen": "2026-08-28T05:21:06.042Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "PrimeIntellect-ai",
             "repo": "protocol",
             "stars": 139
-          }
+          },
+          "first_seen": "2026-08-28T05:21:06.042Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "Tandemn-Labs",
             "repo": "tensor-iroh",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T05:21:06.042Z"
         }
       ],
       "title": "AI/ML"
@@ -67,7 +70,8 @@
             "owner": "fractalbeauty",
             "repo": "aster",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T05:21:06.042Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "chanderlud",
             "repo": "telepathy",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T05:21:06.042Z"
         }
       ],
       "title": "Audio/Video"
@@ -103,7 +108,8 @@
             "owner": "teamtype",
             "repo": "teamtype",
             "stars": 1907
-          }
+          },
+          "first_seen": "2026-08-28T05:21:06.042Z"
         },
         {
           "node_type": "item",
@@ -118,7 +124,8 @@
             "owner": "julianbuettner",
             "repo": "zeco",
             "stars": 78
-          }
+          },
+          "first_seen": "2026-08-28T05:21:06.042Z"
         },
         {
           "node_type": "item",
@@ -129,11 +136,28 @@
             "archived": false,
             "id": 1193164114,
             "language": "Rust",
-            "last_commit": "2026-08-26T15:48:52Z",
+            "last_commit": "2026-08-27T19:36:47Z",
             "owner": "linxiv-dev",
             "repo": "linXiv",
-            "stars": 46
-          }
+            "stars": 48
+          },
+          "first_seen": "2026-08-28T05:21:06.042Z"
+        },
+        {
+          "node_type": "item",
+          "title": "p2pmux",
+          "description": "Terminal multiplexer where every pane is a PTY on its owner's own machine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1311314679,
+            "language": "Rust",
+            "last_commit": "2026-08-26T20:00:46Z",
+            "owner": "pelazas",
+            "repo": "p2pmux",
+            "stars": 12
+          },
+          "first_seen": "2026-08-28T05:21:06.042Z"
         },
         {
           "node_type": "item",
@@ -148,22 +172,8 @@
             "owner": "LukeDSchenk",
             "repo": "biter",
             "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "p2pmux",
-          "description": "Terminal multiplexer where every pane is a PTY on its owner's own machine.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1311314679,
-            "language": "Rust",
-            "last_commit": "2026-08-26T20:00:46Z",
-            "owner": "pelazas",
-            "repo": "p2pmux",
-            "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T05:21:06.042Z"
         }
       ],
       "title": "Collaboration and Productivity"
@@ -183,8 +193,9 @@
             "last_commit": "2026-07-20T13:08:22Z",
             "owner": "n0-computer",
             "repo": "dumbpipe",
-            "stars": 735
-          }
+            "stars": 738
+          },
+          "first_seen": "2026-08-28T05:21:06.042Z"
         },
         {
           "node_type": "item",
@@ -195,11 +206,12 @@
             "archived": false,
             "id": 1277104302,
             "language": "Rust",
-            "last_commit": "2026-08-27T09:48:42Z",
+            "last_commit": "2026-08-27T23:06:34Z",
             "owner": "rayfish",
             "repo": "rayfish",
-            "stars": 640
-          }
+            "stars": 645
+          },
+          "first_seen": "2026-08-28T05:21:06.042Z"
         },
         {
           "node_type": "item",
@@ -214,7 +226,8 @@
             "owner": "duxweb",
             "repo": "codux",
             "stars": 421
-          }
+          },
+          "first_seen": "2026-08-28T05:21:06.042Z"
         },
         {
           "node_type": "item",
@@ -228,8 +241,9 @@
             "last_commit": "2026-06-24T17:24:26Z",
             "owner": "rustonbsd",
             "repo": "iroh-ssh",
-            "stars": 274
-          }
+            "stars": 275
+          },
+          "first_seen": "2026-08-28T05:21:06.042Z"
         },
         {
           "node_type": "item",
@@ -244,7 +258,8 @@
             "owner": "cablehead",
             "repo": "xs",
             "stars": 219
-          }
+          },
+          "first_seen": "2026-08-28T05:21:06.042Z"
         },
         {
           "node_type": "item",
@@ -258,8 +273,9 @@
             "last_commit": "2026-08-26T15:47:41Z",
             "owner": "tunnetio",
             "repo": "Tunnet",
-            "stars": 81
-          }
+            "stars": 85
+          },
+          "first_seen": "2026-08-28T05:21:06.042Z"
         },
         {
           "node_type": "item",
@@ -273,8 +289,9 @@
             "last_commit": "2026-08-21T01:26:24Z",
             "owner": "cablehead",
             "repo": "pai-sho",
-            "stars": 72
-          }
+            "stars": 74
+          },
+          "first_seen": "2026-08-28T05:21:06.042Z"
         },
         {
           "node_type": "item",
@@ -289,7 +306,8 @@
             "owner": "doEggi",
             "repo": "do-ssh",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T05:21:06.042Z"
         },
         {
           "node_type": "item",
@@ -304,7 +322,8 @@
             "owner": "futpib",
             "repo": "iroh-ssh-android",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T05:21:06.042Z"
         },
         {
           "node_type": "item",
@@ -319,7 +338,8 @@
             "owner": "datum-cloud",
             "repo": "app",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T05:21:06.042Z"
         },
         {
           "node_type": "item",
@@ -334,7 +354,8 @@
             "owner": "artob",
             "repo": "edky",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T05:21:06.042Z"
         },
         {
           "node_type": "item",
@@ -349,7 +370,8 @@
             "owner": "trchopan",
             "repo": "locho",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T05:21:06.042Z"
         }
       ],
       "title": "DevTools"
@@ -369,8 +391,9 @@
             "last_commit": "2026-08-26T09:37:41Z",
             "owner": "tonyantony300",
             "repo": "dashbeam",
-            "stars": 9309
-          }
+            "stars": 9313
+          },
+          "first_seen": "2026-08-28T05:21:06.042Z"
         },
         {
           "node_type": "item",
@@ -384,8 +407,9 @@
             "last_commit": "2026-07-25T13:24:41Z",
             "owner": "n0-computer",
             "repo": "sendme",
-            "stars": 1172
-          }
+            "stars": 1173
+          },
+          "first_seen": "2026-08-28T05:21:06.042Z"
         },
         {
           "node_type": "item",
@@ -400,7 +424,8 @@
             "owner": "riffcc",
             "repo": "lis",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T05:21:06.042Z"
         },
         {
           "node_type": "item",
@@ -415,7 +440,8 @@
             "owner": "rustonbsd",
             "repo": "rustpatcher",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T05:21:06.042Z"
         },
         {
           "node_type": "item",
@@ -430,7 +456,8 @@
             "owner": "muhamadjawdatsalemalakoum",
             "repo": "dropwire",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T05:21:06.042Z"
         },
         {
           "node_type": "item",
@@ -445,7 +472,8 @@
             "owner": "rikettsie",
             "repo": "ringdrop",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T05:21:06.042Z"
         },
         {
           "node_type": "item",
@@ -460,7 +488,8 @@
             "owner": "israelyago",
             "repo": "QuickSend",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T05:21:06.042Z"
         },
         {
           "node_type": "item",
@@ -475,7 +504,8 @@
             "owner": "ARK-Builders",
             "repo": "Drop-Desktop",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T05:21:06.042Z"
         },
         {
           "node_type": "item",
@@ -490,7 +520,24 @@
             "owner": "vinay-winai",
             "repo": "DataBeam",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T05:21:06.042Z"
+        },
+        {
+          "node_type": "item",
+          "title": "fsend",
+          "description": "Peer-to-peer file sharing webapp and cli tool, allows transferring of files and folders with resumable transfers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1224941583,
+            "language": "TypeScript",
+            "last_commit": "2026-08-27T01:09:35Z",
+            "owner": "maxomatic458",
+            "repo": "fsend",
+            "stars": 12
+          },
+          "first_seen": "2026-08-28T05:21:06.042Z"
         },
         {
           "node_type": "item",
@@ -505,22 +552,8 @@
             "owner": "zignig",
             "repo": "sendme-egui",
             "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fsend",
-          "description": "Peer-to-peer file sharing webapp and cli tool, allows transferring of files and folders with resumable transfers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1224941583,
-            "language": "TypeScript",
-            "last_commit": "2026-08-27T01:09:35Z",
-            "owner": "maxomatic458",
-            "repo": "fsend",
-            "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T05:21:06.042Z"
         },
         {
           "node_type": "item",
@@ -535,7 +568,8 @@
             "owner": "rikettsie",
             "repo": "ringdrop-gui",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T05:21:06.042Z"
         },
         {
           "node_type": "item",
@@ -550,7 +584,8 @@
             "owner": "thiswillbeyourgithub",
             "repo": "iroh-send",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T05:21:06.042Z"
         }
       ],
       "title": "File Sharing"
@@ -567,11 +602,12 @@
             "archived": false,
             "id": 303450750,
             "language": "Rust",
-            "last_commit": "2026-08-27T10:12:40Z",
+            "last_commit": "2026-08-27T13:44:32Z",
             "owner": "p2panda",
             "repo": "p2panda",
             "stars": 557
-          }
+          },
+          "first_seen": "2026-08-28T05:21:06.042Z"
         },
         {
           "node_type": "item",
@@ -585,8 +621,9 @@
             "last_commit": "2025-03-22T09:18:12Z",
             "owner": "dvc94ch",
             "repo": "peernet",
-            "stars": 60
-          }
+            "stars": 61
+          },
+          "first_seen": "2026-08-28T05:21:06.042Z"
         }
       ],
       "title": "Frameworks"
@@ -607,7 +644,8 @@
             "owner": "n0-computer",
             "repo": "irpc",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T05:21:06.042Z"
         },
         {
           "node_type": "item",
@@ -622,7 +660,8 @@
             "owner": "rustonbsd",
             "repo": "distributed-topic-tracker",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T05:21:06.042Z"
         },
         {
           "node_type": "item",
@@ -637,7 +676,8 @@
             "owner": "rikettsie",
             "repo": "iroh-rings",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T05:21:06.042Z"
         },
         {
           "node_type": "item",
@@ -652,7 +692,8 @@
             "owner": "n0-computer",
             "repo": "imsg",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T05:21:06.042Z"
         },
         {
           "node_type": "item",
@@ -667,7 +708,8 @@
             "owner": "therishidesai",
             "repo": "iroh-gossip-discovery",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T05:21:06.042Z"
         }
       ],
       "title": "Libraries and protocols"
@@ -688,7 +730,8 @@
             "owner": "fishfolk",
             "repo": "jumpy",
             "stars": 1876
-          }
+          },
+          "first_seen": "2026-08-28T05:21:06.042Z"
         },
         {
           "node_type": "item",
@@ -703,7 +746,8 @@
             "owner": "fishfolk",
             "repo": "bones",
             "stars": 308
-          }
+          },
+          "first_seen": "2026-08-28T05:21:06.042Z"
         },
         {
           "node_type": "item",
@@ -718,7 +762,8 @@
             "owner": "rustonbsd",
             "repo": "iroh-lan",
             "stars": 219
-          }
+          },
+          "first_seen": "2026-08-28T05:21:06.042Z"
         },
         {
           "node_type": "item",
@@ -733,7 +778,8 @@
             "owner": "tipragot",
             "repo": "godot-iroh",
             "stars": 98
-          }
+          },
+          "first_seen": "2026-08-28T05:21:06.042Z"
         },
         {
           "node_type": "item",
@@ -748,7 +794,8 @@
             "owner": "expenses",
             "repo": "usd-render",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T05:21:06.042Z"
         }
       ],
       "title": "Games and 3D"
@@ -769,7 +816,8 @@
             "owner": "Zyell",
             "repo": "beelay-iroh-chat",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T05:21:06.042Z"
         },
         {
           "node_type": "item",
@@ -784,7 +832,8 @@
             "owner": "jamessizeland",
             "repo": "peer-to-peer",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T05:21:06.042Z"
         }
       ],
       "title": "Social Media"
@@ -805,7 +854,8 @@
             "owner": "DrHongos",
             "repo": "obsiroh",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T05:21:06.042Z"
         },
         {
           "node_type": "item",
@@ -820,7 +870,8 @@
             "owner": "muhamadjawdatsalemalakoum",
             "repo": "kith",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T05:21:06.042Z"
         }
       ],
       "title": "Tools for Thought"
@@ -837,11 +888,12 @@
             "archived": false,
             "id": 369010411,
             "language": "Rust",
-            "last_commit": "2026-08-26T21:21:40Z",
+            "last_commit": "2026-08-27T16:48:47Z",
             "owner": "fedimint",
             "repo": "fedimint",
             "stars": 695
-          }
+          },
+          "first_seen": "2026-08-28T05:21:06.042Z"
         },
         {
           "node_type": "item",
@@ -856,7 +908,8 @@
             "owner": "recallnet",
             "repo": "ipc",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T05:21:06.042Z"
         },
         {
           "node_type": "item",
@@ -871,7 +924,8 @@
             "owner": "Analog-Labs",
             "repo": "timechain",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T05:21:06.042Z"
         },
         {
           "node_type": "item",
@@ -886,14 +940,15 @@
             "owner": "rodrigomd94",
             "repo": "Thresh",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T05:21:06.042Z"
         }
       ],
       "title": "Web3"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:44:25.689Z",
+    "last_updated": "2026-08-28T05:21:06.042Z",
     "original_repository_info": {
       "archived": false,
       "id": 874866049,
@@ -901,7 +956,7 @@
       "last_commit": "2026-08-27T09:41:19Z",
       "owner": "n0-computer",
       "repo": "awesome-iroh",
-      "stars": 529
+      "stars": 533
     },
     "original_repository_sha": "90ff5fd0754e6b4a7ec3c2fe5016a2a1b1c6df05",
     "enhanced_repository": "enhansome/enhansome-iroh",
