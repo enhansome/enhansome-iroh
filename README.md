@@ -79,7 +79,7 @@ Projects & resources building with iroh!
 * [Codux](https://github.com/duxweb/codux) ⭐ 424 | 🐛 45 | 🌐 Rust | 📅 2026-07-21 - A native connected terminal for AI coding agents, using iroh for encrypted peer-to-peer control across desktop, mobile, and headless hosts.
 * [iroh-ssh](https://github.com/rustonbsd/iroh-ssh) ⭐ 275 | 🐛 9 | 🌐 Rust | 📅 2026-06-24 - SSH to any machine without ip.
 * [cross.stream](https://github.com/cablehead/xs) ⭐ 219 | 🐛 12 | 🌐 Rust | 📅 2026-08-07 - Local-first event streaming for reactive workflows, with P2P sharing via Iroh.
-* [Tunnet](https://github.com/tunnetio/Tunnet) ⭐ 86 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-26 - Open-source mesh networking platform that scales from direct p2p connections for individuals to fully managed deployments for large organizations.
+* [Tunnet](https://github.com/tunnetio/Tunnet) ⭐ 87 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-26 - Open-source mesh networking platform that scales from direct p2p connections for individuals to fully managed deployments for large organizations.
 * [pai-sho](https://github.com/cablehead/pai-sho) ⭐ 74 | 🐛 1 | 🌐 Rust | 📅 2026-08-21 - P2P TCP port forwarding: dumbpipe, but multiple ports, and it reconnects.
 * [do-ssh](https://github.com/doEggi/do-ssh) ⚠️ Archived - Tunnels an ssh-connection over iroh.
 * [iroh-ssh-android](https://github.com/futpib/iroh-ssh-android) ⭐ 23 | 🐛 0 | 🌐 Dart | 📅 2026-08-28 - Android SSH client for hosts running iroh-ssh (and OpenSSH too).

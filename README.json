@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open infrastructure to democratize and decentralize the development of superintelligence for humanity.",
+            "homepage": null,
             "id": 921407046,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-24T20:46:58Z",
+            "open_issues": 127,
             "owner": "PsycheFoundation",
             "repo": "nousnet",
-            "stars": 961
+            "stars": 961,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": " peer-to-peer compute and intelligence network that enables decentralized AI development at scale",
+            "homepage": null,
             "id": 902106892,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2025-11-10T04:53:32Z",
+            "open_issues": 0,
             "owner": "PrimeIntellect-ai",
             "repo": "protocol",
-            "stars": 139
+            "stars": 139,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         },
@@ -42,12 +52,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tandemn x Iroh ",
+            "homepage": null,
             "id": 1012995521,
             "language": "Rust",
+            "license": null,
             "last_commit": "2026-03-27T21:21:29Z",
+            "open_issues": 13,
             "owner": "Tandemn-Labs",
             "repo": "tensor-iroh",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         }
@@ -64,12 +79,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "p2p music streaming prototype",
+            "homepage": null,
             "id": 986045587,
             "language": "Rust",
+            "license": "AGPL-3.0",
             "last_commit": "2026-06-18T03:50:34Z",
+            "open_issues": 0,
             "owner": "fractalbeauty",
             "repo": "aster",
-            "stars": 62
+            "stars": 62,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         },
@@ -80,12 +100,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cross-platform real time communication",
+            "homepage": "https://telepathy.chanchan.dev",
             "id": 647973016,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-09T18:36:02Z",
+            "open_issues": 25,
             "owner": "chanderlud",
             "repo": "telepathy",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "android",
+              "audio",
+              "cross-platform",
+              "encryption",
+              "flutter",
+              "ios",
+              "iroh",
+              "linux",
+              "macos",
+              "messaging",
+              "p2p",
+              "p2p-chat",
+              "privacy",
+              "quic",
+              "real-time",
+              "rust",
+              "voice-chat",
+              "voip",
+              "web",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         }
@@ -102,12 +148,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Peer-to-peer, editor-agnostic collaborative editing of local text files.",
+            "homepage": "https://teamtype.github.io/teamtype/",
             "id": 745032548,
             "language": "Rust",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-18T07:45:09Z",
+            "open_issues": 113,
             "owner": "teamtype",
             "repo": "teamtype",
-            "stars": 1907
+            "stars": 1907,
+            "topics": [
+              "automerge",
+              "collaboration",
+              "collaborative-editing",
+              "crdt",
+              "local-first",
+              "peer-to-peer",
+              "plugin",
+              "synchronization"
+            ]
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         },
@@ -118,12 +178,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "`zellij attach` via the internet, end to end encrypted",
+            "homepage": null,
             "id": 923071835,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-07-15T05:39:54Z",
+            "open_issues": 2,
             "owner": "julianbuettner",
             "repo": "zeco",
-            "stars": 78
+            "stars": 78,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         },
@@ -134,12 +199,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A local-first database of your academic papers built to support arXiv papers and more",
+            "homepage": "https://linxiv.dev",
             "id": 1193164114,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-27T19:36:47Z",
+            "open_issues": 6,
             "owner": "linxiv-dev",
             "repo": "linXiv",
-            "stars": 48
+            "stars": 48,
+            "topics": [
+              "arxiv",
+              "arxiv-api",
+              "local-first",
+              "p2p",
+              "p2p-exchange",
+              "p2pshare",
+              "research",
+              "research-paper",
+              "self-host",
+              "tauri"
+            ]
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         },
@@ -150,12 +231,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Peer-to-peer multiplayer terminal multiplexer for macOS and Linux — shared control surface, not shared computer",
+            "homepage": "https://p2pmux.com",
             "id": 1311314679,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-26T20:00:46Z",
+            "open_issues": 2,
             "owner": "pelazas",
             "repo": "p2pmux",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "ai-agents",
+              "claude-code",
+              "cli",
+              "collaboration",
+              "iroh",
+              "linux",
+              "macos",
+              "p2p",
+              "pair-programming",
+              "peer-to-peer",
+              "ratatui",
+              "remote-pairing",
+              "rust",
+              "terminal",
+              "terminal-multiplexer",
+              "tui"
+            ]
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         },
@@ -166,12 +269,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "biter: copier, follower",
+            "homepage": null,
             "id": 750602684,
             "language": "Rust",
+            "license": null,
             "last_commit": "2026-02-05T18:32:14Z",
+            "open_issues": 7,
             "owner": "LukeDSchenk",
             "repo": "biter",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         }
@@ -188,12 +296,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unix pipes between devices",
+            "homepage": "https://dumbpipe.dev",
             "id": 725706407,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-20T13:08:22Z",
+            "open_issues": 28,
             "owner": "n0-computer",
             "repo": "dumbpipe",
-            "stars": 741
+            "stars": 741,
+            "topics": [
+              "holepunching",
+              "magic",
+              "pipes"
+            ]
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         },
@@ -204,12 +321,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "P2P mesh VPN powered by iroh",
+            "homepage": "https://rayfish.xyz",
             "id": 1277104302,
             "language": "Rust",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-28T15:44:46Z",
+            "open_issues": 65,
             "owner": "rayfish",
             "repo": "rayfish",
-            "stars": 653
+            "stars": 653,
+            "topics": [
+              "iroh",
+              "quic",
+              "rust",
+              "trustless",
+              "vpn"
+            ]
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         },
@@ -220,12 +348,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⬛  A native connected terminal for AI agent development. 为 AI Agent 开发而生的原生互联终端。",
+            "homepage": "https://codux.work",
             "id": 1211357795,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-21T07:49:29Z",
+            "open_issues": 45,
             "owner": "duxweb",
             "repo": "codux",
-            "stars": 424
+            "stars": 424,
+            "topics": [
+              "ai-tools",
+              "rust",
+              "terminal"
+            ]
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         },
@@ -236,12 +373,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SSH to any machine without ip",
+            "homepage": null,
             "id": 1008005634,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-06-24T17:24:26Z",
+            "open_issues": 9,
             "owner": "rustonbsd",
             "repo": "iroh-ssh",
-            "stars": 275
+            "stars": 275,
+            "topics": [
+              "iroh",
+              "p2p",
+              "ssh"
+            ]
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         },
@@ -252,12 +398,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "crossing the streams",
+            "homepage": "https://www.cross.stream",
             "id": 789241907,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-07T04:15:16Z",
+            "open_issues": 12,
             "owner": "cablehead",
             "repo": "xs",
-            "stars": 219
+            "stars": 219,
+            "topics": [
+              "cli",
+              "content-addressed-storage",
+              "cross-stream",
+              "embedded-database",
+              "event-sourcing",
+              "interop",
+              "iroh",
+              "kv-store",
+              "localstorage",
+              "materialized-view",
+              "nushell",
+              "rust",
+              "scripting",
+              "shell",
+              "stream-driven-development",
+              "xs"
+            ]
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         },
@@ -268,12 +436,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source mesh networking platform. Connect your machines into a private network, wherever they are.",
+            "homepage": "https://docs.tunnet.io",
             "id": 1288277803,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T15:47:41Z",
+            "open_issues": 1,
             "owner": "tunnetio",
             "repo": "Tunnet",
-            "stars": 86
+            "stars": 87,
+            "topics": [
+              "mesh-networks",
+              "networking",
+              "quic",
+              "self-hosted",
+              "vpn"
+            ]
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         },
@@ -284,12 +463,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Forward ports between your own machines, peer to peer over iroh. No account, no public IP, no open inbound port.",
+            "homepage": null,
             "id": 1133756644,
             "language": "Rust",
+            "license": null,
             "last_commit": "2026-08-21T01:26:24Z",
+            "open_issues": 1,
             "owner": "cablehead",
             "repo": "pai-sho",
-            "stars": 74
+            "stars": 74,
+            "topics": [
+              "cli",
+              "iroh",
+              "nat-traversal",
+              "networking",
+              "p2p",
+              "port-forwarding",
+              "quic",
+              "remote-access",
+              "rust",
+              "tun",
+              "tunneling"
+            ]
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         },
@@ -300,12 +496,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Tunnels a ssh-connection over iroh",
+            "homepage": null,
             "id": 944501570,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2025-10-08T15:09:23Z",
+            "open_issues": 0,
             "owner": "doEggi",
             "repo": "do-ssh",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         },
@@ -316,12 +517,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Android SSH client powered by iroh for peer-to-peer connections",
+            "homepage": null,
             "id": 1166001734,
             "language": "Dart",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T23:03:48Z",
+            "open_issues": 0,
             "owner": "futpib",
             "repo": "iroh-ssh-android",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         },
@@ -332,12 +538,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A desktop app for safely exposing local services on the Internet via Iroh tunnels using QUIC. Built in rust.",
+            "homepage": "https://datum.net",
             "id": 1073754335,
             "language": "Rust",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-22T11:15:27Z",
+            "open_issues": 21,
             "owner": "datum-cloud",
             "repo": "app",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         },
@@ -348,12 +559,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🦀 Convert Ed25519 public keys between various encoding formats such as Base16, Base32z, Base58, Base64, Multibase, and OpenSSH.",
+            "homepage": "https://edky.dev",
             "id": 1297262676,
             "language": "Rust",
+            "license": "Unlicense",
             "last_commit": "2026-08-08T23:52:51Z",
+            "open_issues": 7,
             "owner": "artob",
             "repo": "edky",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "cryptography",
+              "cryptography-tools",
+              "curve25519",
+              "ed25119"
+            ]
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         },
@@ -364,12 +585,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "locho is a simple way to access a private service on another machine as if it were local.",
+            "homepage": null,
             "id": 1303581585,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-27T06:24:58Z",
+            "open_issues": 2,
             "owner": "trchopan",
             "repo": "locho",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         }
@@ -386,12 +612,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions ( previously Altsendme )",
+            "homepage": "https://dashbeam.net",
             "id": 1078137951,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-28T14:43:02Z",
+            "open_issues": 44,
             "owner": "tonyantony300",
             "repo": "dashbeam",
-            "stars": 9322
+            "stars": 9322,
+            "topics": [
+              "android",
+              "file-transfer",
+              "iroh",
+              "linux",
+              "macos",
+              "p2p",
+              "privacy-tools",
+              "resumable",
+              "self-hosted",
+              "terminal",
+              "web",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         },
@@ -402,12 +646,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool to send files and directories, based on iroh",
+            "homepage": null,
             "id": 730576320,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-25T13:24:41Z",
+            "open_issues": 38,
             "owner": "n0-computer",
             "repo": "sendme",
-            "stars": 1174
+            "stars": 1174,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         },
@@ -418,12 +667,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Life is short, but data should live forever",
+            "homepage": null,
             "id": 838873430,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2025-08-13T12:44:26Z",
+            "open_issues": 16,
             "owner": "riffcc",
             "repo": "lis",
-            "stars": 35
+            "stars": 35,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         },
@@ -434,12 +688,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A p2p patcher system written in rust using iroh and pkarr",
+            "homepage": null,
             "id": 924167854,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2025-10-26T09:52:26Z",
+            "open_issues": 0,
             "owner": "rustonbsd",
             "repo": "rustpatcher",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         },
@@ -450,12 +709,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free, open-source, peer-to-peer file transfer — send any file straight between devices, end-to-end encrypted, resumable, with no account and no server holding your data. Built on iroh. Desktop apps for Windows, macOS & Linux.",
+            "homepage": "https://muhamadjawdatsalemalakoum.github.io/dropwire/",
             "id": 1271413913,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T20:26:37Z",
+            "open_issues": 3,
             "owner": "muhamadjawdatsalemalakoum",
             "repo": "dropwire",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "cross-platform",
+              "end-to-end-encryption",
+              "file-sharing",
+              "file-transfer",
+              "iroh",
+              "p2p",
+              "peer-to-peer",
+              "privacy",
+              "rust",
+              "tauri"
+            ]
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         },
@@ -466,12 +741,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A secure, frugal P2P streamed file transfer tool with ring-based access control. Built on iroh.",
+            "homepage": null,
             "id": 1228806324,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-07-27T18:16:57Z",
+            "open_issues": 6,
             "owner": "rikettsie",
             "repo": "ringdrop",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         },
@@ -482,12 +762,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Send files peer to peer",
+            "homepage": null,
             "id": 833388736,
             "language": "TypeScript",
+            "license": "Unlicense",
             "last_commit": "2026-04-03T22:49:13Z",
+            "open_issues": 0,
             "owner": "israelyago",
             "repo": "QuickSend",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         },
@@ -498,12 +783,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 799555165,
             "language": "Svelte",
+            "license": "MIT",
             "last_commit": "2026-01-22T08:16:23Z",
+            "open_issues": 5,
             "owner": "ARK-Builders",
             "repo": "Drop-Desktop",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         },
@@ -514,12 +804,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The ultimate desktop GUI app combining the convenience of Croc with the high speeds and resilience (across the network changes) features of Sendme. Send files/data anywhere instantly across wifi/network changes, resume downloads after network drops and power failure shutdowns.",
+            "homepage": "https://databeam.refining.online/",
             "id": 1159821780,
             "language": "Rust",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-25T11:06:36Z",
+            "open_issues": 5,
             "owner": "vinay-winai",
             "repo": "DataBeam",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "blake3",
+              "croc",
+              "iroh",
+              "iroh-blobs",
+              "p2p",
+              "pake",
+              "sendme"
+            ]
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         },
@@ -530,12 +833,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "peer-to-peer file sharing webapp and cli tool",
+            "homepage": "https://fsend.sh",
             "id": 1224941583,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-08-27T01:09:35Z",
+            "open_issues": 1,
             "owner": "maxomatic458",
             "repo": "fsend",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "cli",
+              "p2p",
+              "peer-to-peer",
+              "quic",
+              "rust",
+              "rust-lang",
+              "solidjs",
+              "webrtc",
+              "website"
+            ]
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         },
@@ -546,12 +864,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Egui interface for sendme",
+            "homepage": null,
             "id": 1047214067,
             "language": "Rust",
+            "license": null,
             "last_commit": "2025-10-01T11:14:55Z",
+            "open_issues": 0,
             "owner": "zignig",
             "repo": "sendme-egui",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         },
@@ -562,12 +885,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tauri v2 GUI for ringdrop — P2P file sharing with ring-based access control.",
+            "homepage": null,
             "id": 1256948679,
             "language": "Svelte",
+            "license": "MIT",
             "last_commit": "2026-07-11T08:43:23Z",
+            "open_issues": 0,
             "owner": "rikettsie",
             "repo": "ringdrop-gui",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "file-sharer",
+              "gui",
+              "iroh",
+              "iroh-rings",
+              "p2p"
+            ]
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         },
@@ -578,12 +912,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A peer-to-peer file transfer script leveraging prime-iroh to send files and directories between machines securely without intermediary servers.",
+            "homepage": null,
             "id": 1084995533,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2026-03-29T14:17:31Z",
+            "open_issues": 0,
             "owner": "thiswillbeyourgithub",
             "repo": "iroh-send",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         }
@@ -600,12 +939,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "All the things a panda needs",
+            "homepage": null,
             "id": 303450750,
             "language": "Rust",
+            "license": null,
             "last_commit": "2026-08-28T21:04:38Z",
+            "open_issues": 156,
             "owner": "p2panda",
             "repo": "p2panda",
-            "stars": 558
+            "stars": 558,
+            "topics": [
+              "access-control",
+              "crdt",
+              "group-encryption",
+              "local-first",
+              "offline-first",
+              "p2p",
+              "stream-processing"
+            ]
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         },
@@ -616,12 +968,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "easy and reliable p2p networking",
+            "homepage": null,
             "id": 699812275,
             "language": "Rust",
+            "license": null,
             "last_commit": "2025-03-22T09:18:12Z",
+            "open_issues": 1,
             "owner": "dvc94ch",
             "repo": "peernet",
-            "stars": 61
+            "stars": 61,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         }
@@ -638,12 +995,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A streaming rpc system for iroh",
+            "homepage": null,
             "id": 959767628,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-27T12:00:13Z",
+            "open_issues": 19,
             "owner": "n0-computer",
             "repo": "irpc",
-            "stars": 57
+            "stars": 57,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         },
@@ -654,12 +1016,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "automagically find peers interested in a topic + optional iroh-gossip integration",
+            "homepage": "https://rustonbsd.github.io/2025/09/03/distributed-topic-tracker.html",
             "id": 1018571704,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-06-15T16:08:46Z",
+            "open_issues": 1,
             "owner": "rustonbsd",
             "repo": "distributed-topic-tracker",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         },
@@ -670,12 +1037,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ring-based access control for generic resources over iroh protocols.",
+            "homepage": null,
             "id": 1236502271,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-06-15T21:39:56Z",
+            "open_issues": 2,
             "owner": "rikettsie",
             "repo": "iroh-rings",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         },
@@ -686,12 +1058,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A base protocol providing streams of messages",
+            "homepage": null,
             "id": 1025437317,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2025-08-22T16:00:00Z",
+            "open_issues": 0,
             "owner": "n0-computer",
             "repo": "imsg",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         },
@@ -702,12 +1079,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 995699892,
             "language": "Nix",
+            "license": "MPL-2.0",
             "last_commit": "2025-10-08T01:02:11Z",
+            "open_issues": 3,
             "owner": "therishidesai",
             "repo": "iroh-gossip-discovery",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         }
@@ -724,12 +1106,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tactical 2D shooter in fishy pixels style. Made with Rust-lang 🦀 and Bevy 🪶",
+            "homepage": "https://fishfolk.org/games/jumpy/",
             "id": 379429942,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2026-01-30T15:52:41Z",
+            "open_issues": 80,
             "owner": "fishfolk",
             "repo": "jumpy",
-            "stars": 1876
+            "stars": 1876,
+            "topics": [
+              "bevy",
+              "editor",
+              "fish-game",
+              "game",
+              "lua",
+              "modding",
+              "multiplayer",
+              "pixel-art",
+              "pixelart",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         },
@@ -740,12 +1138,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An easy-to-use game engine for making real games.",
+            "homepage": "https://fishfolk.org/development/bones/introduction/",
             "id": 581287098,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-24T19:23:00Z",
+            "open_issues": 65,
             "owner": "fishfolk",
             "repo": "bones",
-            "stars": 308
+            "stars": 308,
+            "topics": [
+              "bevy",
+              "bones",
+              "bones-framework",
+              "easy-to-use",
+              "fishfolk",
+              "game-engine",
+              "game-engine-2d",
+              "lua",
+              "meta-engine",
+              "modding",
+              "multiplayer",
+              "pixels",
+              "rust",
+              "spicy-lobster"
+            ]
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         },
@@ -756,12 +1174,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Have a lan party with iroh (iroh-lan = hamachi - account - install)",
+            "homepage": null,
             "id": 1039532026,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-07-26T22:12:03Z",
+            "open_issues": 9,
             "owner": "rustonbsd",
             "repo": "iroh-lan",
-            "stars": 219
+            "stars": 219,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         },
@@ -772,12 +1195,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A peer-to-peer multiplayer extension for Godot based on Iroh.",
+            "homepage": null,
             "id": 968831861,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-03-30T22:04:20Z",
+            "open_issues": 12,
             "owner": "tipragot",
             "repo": "godot-iroh",
-            "stars": 98
+            "stars": 98,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         },
@@ -788,12 +1216,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 745466694,
             "language": "Rust",
+            "license": null,
             "last_commit": "2024-02-21T10:32:23Z",
+            "open_issues": 0,
             "owner": "expenses",
             "repo": "usd-render",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         }
@@ -810,12 +1243,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple chat applicatoin to explore a custom iroh beelay/keyhive protocol's integration with a \"real\" application",
+            "homepage": null,
             "id": 1001073078,
             "language": "Rust",
+            "license": null,
             "last_commit": "2025-06-17T22:31:41Z",
+            "open_issues": 0,
             "owner": "Zyell",
             "repo": "beelay-iroh-chat",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         },
@@ -826,12 +1264,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple peer to peer Tauri based chat app using Iroh Gossip and no servers",
+            "homepage": null,
             "id": 978620396,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2025-06-14T18:21:17Z",
+            "open_issues": 3,
             "owner": "jamessizeland",
             "repo": "peer-to-peer",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "android-app",
+              "chat-application",
+              "iroh",
+              "peer-to-peer",
+              "react",
+              "rust",
+              "tailwindcss",
+              "tauri",
+              "typescript",
+              "vitejs"
+            ]
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         }
@@ -848,12 +1302,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An obsidian sync method with iroh",
+            "homepage": null,
             "id": 762041772,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2024-02-24T21:44:03Z",
+            "open_issues": 0,
             "owner": "DrHongos",
             "repo": "obsiroh",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         },
@@ -864,12 +1323,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Serverless, end-to-end-encrypted, no-account sync for your own devices — memory, tabs, and files. No cloud. MCP-native, so your AI uses the same data locally. Windows/macOS/Linux.",
+            "homepage": "https://muhamadjawdatsalemalakoum.github.io/kith/",
             "id": 1275941970,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-05T18:42:34Z",
+            "open_issues": 10,
             "owner": "muhamadjawdatsalemalakoum",
             "repo": "kith",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "crdt",
+              "end-to-end-encryption",
+              "iroh",
+              "local-first",
+              "mcp",
+              "p2p",
+              "rust",
+              "tauri"
+            ]
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         }
@@ -886,12 +1359,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Federated E-Cash Mint",
+            "homepage": "https://fedimint.org/",
             "id": 369010411,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-28T12:10:36Z",
+            "open_issues": 360,
             "owner": "fedimint",
             "repo": "fedimint",
-            "stars": 694
+            "stars": 694,
+            "topics": [
+              "bitcoin",
+              "e-cash",
+              "lightning",
+              "lightning-network",
+              "p2p"
+            ]
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         },
@@ -902,12 +1386,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌳 Spawn multi-level trees of customized, scalable, EVM-compatible networks with IPC. L2++ powered by FVM, Wasm, libp2p, IPFS/IPLD, and CometBFT.",
+            "homepage": null,
             "id": 769680939,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2025-06-18T08:47:51Z",
+            "open_issues": 66,
             "owner": "recallnet",
             "repo": "ipc",
-            "stars": 36
+            "stars": 36,
+            "topics": [
+              "blockchain",
+              "consensus",
+              "evm",
+              "wasm"
+            ]
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         },
@@ -918,12 +1412,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://analog-labs.github.io/timechain/analog_docs/",
             "id": 465660293,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2026-03-26T01:38:11Z",
+            "open_issues": 24,
             "owner": "Analog-Labs",
             "repo": "timechain",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         },
@@ -934,12 +1433,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1045326126,
             "language": "Rust",
+            "license": null,
             "last_commit": "2025-08-29T16:53:58Z",
+            "open_issues": 0,
             "owner": "rodrigomd94",
             "repo": "Thresh",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         }
@@ -948,15 +1452,33 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:09:08.468Z",
+    "last_updated": "2026-08-29T04:40:56.393Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Curated list of awesome stuff built on & with iroh",
+      "homepage": null,
       "id": 874866049,
       "language": null,
+      "license": "NOASSERTION",
       "last_commit": "2026-08-27T09:41:19Z",
+      "open_issues": 3,
       "owner": "n0-computer",
       "repo": "awesome-iroh",
-      "stars": 536
+      "stars": 536,
+      "topics": [
+        "android",
+        "awesome",
+        "awesome-list",
+        "ios",
+        "linux",
+        "list",
+        "local-first",
+        "macos",
+        "networking",
+        "p2p",
+        "rust",
+        "windows"
+      ]
     },
     "original_repository_sha": "90ff5fd0754e6b4a7ec3c2fe5016a2a1b1c6df05",
     "enhanced_repository": "enhansome/enhansome-iroh",
