@@ -15,7 +15,7 @@
             "last_commit": "2026-03-24T20:46:58Z",
             "owner": "PsycheFoundation",
             "repo": "nousnet",
-            "stars": 960
+            "stars": 961
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         },
@@ -193,7 +193,7 @@
             "last_commit": "2026-07-20T13:08:22Z",
             "owner": "n0-computer",
             "repo": "dumbpipe",
-            "stars": 738
+            "stars": 741
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         },
@@ -206,10 +206,10 @@
             "archived": false,
             "id": 1277104302,
             "language": "Rust",
-            "last_commit": "2026-08-27T23:06:34Z",
+            "last_commit": "2026-08-28T15:44:46Z",
             "owner": "rayfish",
             "repo": "rayfish",
-            "stars": 645
+            "stars": 653
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         },
@@ -225,7 +225,7 @@
             "last_commit": "2026-07-21T07:49:29Z",
             "owner": "duxweb",
             "repo": "codux",
-            "stars": 421
+            "stars": 424
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         },
@@ -273,7 +273,7 @@
             "last_commit": "2026-08-26T15:47:41Z",
             "owner": "tunnetio",
             "repo": "Tunnet",
-            "stars": 85
+            "stars": 86
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         },
@@ -318,7 +318,7 @@
             "archived": false,
             "id": 1166001734,
             "language": "Dart",
-            "last_commit": "2026-06-09T20:19:28Z",
+            "last_commit": "2026-08-28T23:03:48Z",
             "owner": "futpib",
             "repo": "iroh-ssh-android",
             "stars": 23
@@ -388,10 +388,10 @@
             "archived": false,
             "id": 1078137951,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T09:37:41Z",
+            "last_commit": "2026-08-28T14:43:02Z",
             "owner": "tonyantony300",
             "repo": "dashbeam",
-            "stars": 9313
+            "stars": 9322
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         },
@@ -407,7 +407,7 @@
             "last_commit": "2026-07-25T13:24:41Z",
             "owner": "n0-computer",
             "repo": "sendme",
-            "stars": 1173
+            "stars": 1174
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         },
@@ -602,10 +602,10 @@
             "archived": false,
             "id": 303450750,
             "language": "Rust",
-            "last_commit": "2026-08-27T13:44:32Z",
+            "last_commit": "2026-08-28T21:04:38Z",
             "owner": "p2panda",
             "repo": "p2panda",
-            "stars": 557
+            "stars": 558
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         },
@@ -888,10 +888,10 @@
             "archived": false,
             "id": 369010411,
             "language": "Rust",
-            "last_commit": "2026-08-27T16:48:47Z",
+            "last_commit": "2026-08-28T12:10:36Z",
             "owner": "fedimint",
             "repo": "fedimint",
-            "stars": 695
+            "stars": 694
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         },
@@ -948,7 +948,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T05:21:06.042Z",
+    "last_updated": "2026-08-29T03:09:08.468Z",
     "original_repository_info": {
       "archived": false,
       "id": 874866049,
@@ -956,7 +956,7 @@
       "last_commit": "2026-08-27T09:41:19Z",
       "owner": "n0-computer",
       "repo": "awesome-iroh",
-      "stars": 533
+      "stars": 536
     },
     "original_repository_sha": "90ff5fd0754e6b4a7ec3c2fe5016a2a1b1c6df05",
     "enhanced_repository": "enhansome/enhansome-iroh",
