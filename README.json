@@ -16,10 +16,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-03-24T20:46:58Z",
-            "open_issues": 127,
+            "open_issues": 128,
             "owner": "PsycheFoundation",
             "repo": "nousnet",
-            "stars": 961,
+            "stars": 962,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
@@ -157,7 +157,7 @@
             "open_issues": 113,
             "owner": "teamtype",
             "repo": "teamtype",
-            "stars": 1909,
+            "stars": 1910,
             "topics": [
               "automerge",
               "collaboration",
@@ -204,8 +204,8 @@
             "id": 1193164114,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-30T20:10:06Z",
-            "open_issues": 5,
+            "last_commit": "2026-08-31T22:01:24Z",
+            "open_issues": 4,
             "owner": "linxiv-dev",
             "repo": "linXiv",
             "stars": 48,
@@ -231,12 +231,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Peer-to-peer multiplayer terminal multiplexer for macOS and Linux — shared control surface, not shared computer",
+            "description": "Multiplayer terminal multiplexer where multiple users and machines can connect to a same session",
             "homepage": "https://p2pmux.com",
             "id": 1311314679,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-08-26T20:00:46Z",
+            "last_commit": "2026-08-31T20:34:55Z",
             "open_issues": 4,
             "owner": "pelazas",
             "repo": "p2pmux",
@@ -305,7 +305,7 @@
             "open_issues": 28,
             "owner": "n0-computer",
             "repo": "dumbpipe",
-            "stars": 742,
+            "stars": 744,
             "topics": [
               "holepunching",
               "magic",
@@ -326,11 +326,11 @@
             "id": 1277104302,
             "language": "Rust",
             "license": "MPL-2.0",
-            "last_commit": "2026-08-30T10:07:20Z",
+            "last_commit": "2026-08-31T22:56:38Z",
             "open_issues": 67,
             "owner": "rayfish",
             "repo": "rayfish",
-            "stars": 655,
+            "stars": 656,
             "topics": [
               "iroh",
               "quic",
@@ -357,7 +357,7 @@
             "open_issues": 45,
             "owner": "duxweb",
             "repo": "codux",
-            "stars": 425,
+            "stars": 427,
             "topics": [
               "ai-tools",
               "rust",
@@ -382,7 +382,7 @@
             "open_issues": 9,
             "owner": "rustonbsd",
             "repo": "iroh-ssh",
-            "stars": 277,
+            "stars": 278,
             "topics": [
               "iroh",
               "p2p",
@@ -441,11 +441,11 @@
             "id": 1288277803,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-30T04:55:13Z",
+            "last_commit": "2026-08-31T12:25:14Z",
             "open_issues": 1,
             "owner": "tunnetio",
             "repo": "Tunnet",
-            "stars": 89,
+            "stars": 90,
             "topics": [
               "mesh-networks",
               "networking",
@@ -468,7 +468,7 @@
             "id": 1133756644,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-08-30T14:09:09Z",
+            "last_commit": "2026-08-31T18:31:56Z",
             "open_issues": 1,
             "owner": "cablehead",
             "repo": "pai-sho",
@@ -590,8 +590,8 @@
             "id": 1303581585,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-08-27T06:24:58Z",
-            "open_issues": 2,
+            "last_commit": "2026-08-31T08:46:26Z",
+            "open_issues": 0,
             "owner": "trchopan",
             "repo": "locho",
             "stars": 6,
@@ -618,10 +618,10 @@
             "language": "TypeScript",
             "license": "AGPL-3.0",
             "last_commit": "2026-08-29T08:27:19Z",
-            "open_issues": 41,
+            "open_issues": 42,
             "owner": "tonyantony300",
             "repo": "dashbeam",
-            "stars": 9332,
+            "stars": 9343,
             "topics": [
               "android",
               "file-transfer",
@@ -655,7 +655,7 @@
             "open_issues": 38,
             "owner": "n0-computer",
             "repo": "sendme",
-            "stars": 1174,
+            "stars": 1176,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
@@ -799,6 +799,37 @@
         },
         {
           "node_type": "item",
+          "title": "fsend",
+          "description": "Peer-to-peer file sharing webapp and cli tool, allows transferring of files and folders with resumable transfers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "peer-to-peer file sharing webapp and cli tool",
+            "homepage": "https://fsend.sh",
+            "id": 1224941583,
+            "language": "TypeScript",
+            "license": null,
+            "last_commit": "2026-08-27T01:09:35Z",
+            "open_issues": 1,
+            "owner": "maxomatic458",
+            "repo": "fsend",
+            "stars": 13,
+            "topics": [
+              "cli",
+              "p2p",
+              "peer-to-peer",
+              "quic",
+              "rust",
+              "rust-lang",
+              "solidjs",
+              "webrtc",
+              "website"
+            ]
+          },
+          "first_seen": "2026-08-28T05:21:06.042Z"
+        },
+        {
+          "node_type": "item",
           "title": "DataBeam",
           "description": "File sharing desktop app with features like: share via short custom code or QR code, share text, auto-retry on failure, and automatic overwrite conflict resolution.",
           "children": [],
@@ -822,37 +853,6 @@
               "p2p",
               "pake",
               "sendme"
-            ]
-          },
-          "first_seen": "2026-08-28T05:21:06.042Z"
-        },
-        {
-          "node_type": "item",
-          "title": "fsend",
-          "description": "Peer-to-peer file sharing webapp and cli tool, allows transferring of files and folders with resumable transfers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "peer-to-peer file sharing webapp and cli tool",
-            "homepage": "https://fsend.sh",
-            "id": 1224941583,
-            "language": "TypeScript",
-            "license": null,
-            "last_commit": "2026-08-27T01:09:35Z",
-            "open_issues": 1,
-            "owner": "maxomatic458",
-            "repo": "fsend",
-            "stars": 12,
-            "topics": [
-              "cli",
-              "p2p",
-              "peer-to-peer",
-              "quic",
-              "rust",
-              "rust-lang",
-              "solidjs",
-              "webrtc",
-              "website"
             ]
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
@@ -944,7 +944,7 @@
             "id": 303450750,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-08-28T21:04:38Z",
+            "last_commit": "2026-08-31T11:34:11Z",
             "open_issues": 156,
             "owner": "p2panda",
             "repo": "p2panda",
@@ -1115,7 +1115,7 @@
             "open_issues": 80,
             "owner": "fishfolk",
             "repo": "jumpy",
-            "stars": 1876,
+            "stars": 1877,
             "topics": [
               "bevy",
               "editor",
@@ -1364,8 +1364,8 @@
             "id": 369010411,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-08-30T04:44:19Z",
-            "open_issues": 369,
+            "last_commit": "2026-09-01T00:31:49Z",
+            "open_issues": 372,
             "owner": "fedimint",
             "repo": "fedimint",
             "stars": 694,
@@ -1452,7 +1452,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T23:27:13.547Z",
+    "last_updated": "2026-09-01T00:35:50.842Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome stuff built on & with iroh",
