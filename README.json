@@ -19,7 +19,7 @@
             "open_issues": 128,
             "owner": "PsycheFoundation",
             "repo": "nousnet",
-            "stars": 962,
+            "stars": 963,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
@@ -157,7 +157,7 @@
             "open_issues": 113,
             "owner": "teamtype",
             "repo": "teamtype",
-            "stars": 1910,
+            "stars": 1912,
             "topics": [
               "automerge",
               "collaboration",
@@ -204,11 +204,11 @@
             "id": 1193164114,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-31T22:01:24Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-01T19:21:30Z",
+            "open_issues": 6,
             "owner": "linxiv-dev",
             "repo": "linXiv",
-            "stars": 48,
+            "stars": 47,
             "topics": [
               "arxiv",
               "arxiv-api",
@@ -236,11 +236,11 @@
             "id": 1311314679,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-08-31T20:34:55Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-01T19:56:10Z",
+            "open_issues": 0,
             "owner": "pelazas",
             "repo": "p2pmux",
-            "stars": 12,
+            "stars": 13,
             "topics": [
               "ai-agents",
               "claude-code",
@@ -302,10 +302,10 @@
             "language": "Rust",
             "license": "NOASSERTION",
             "last_commit": "2026-07-20T13:08:22Z",
-            "open_issues": 28,
+            "open_issues": 29,
             "owner": "n0-computer",
             "repo": "dumbpipe",
-            "stars": 744,
+            "stars": 759,
             "topics": [
               "holepunching",
               "magic",
@@ -326,11 +326,11 @@
             "id": 1277104302,
             "language": "Rust",
             "license": "MPL-2.0",
-            "last_commit": "2026-08-31T22:56:38Z",
-            "open_issues": 67,
+            "last_commit": "2026-09-01T22:24:28Z",
+            "open_issues": 66,
             "owner": "rayfish",
             "repo": "rayfish",
-            "stars": 656,
+            "stars": 660,
             "topics": [
               "iroh",
               "quic",
@@ -407,7 +407,7 @@
             "open_issues": 12,
             "owner": "cablehead",
             "repo": "xs",
-            "stars": 219,
+            "stars": 220,
             "topics": [
               "cli",
               "content-addressed-storage",
@@ -441,11 +441,11 @@
             "id": 1288277803,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-31T12:25:14Z",
+            "last_commit": "2026-09-01T18:22:35Z",
             "open_issues": 1,
             "owner": "tunnetio",
             "repo": "Tunnet",
-            "stars": 90,
+            "stars": 91,
             "topics": [
               "mesh-networks",
               "networking",
@@ -472,7 +472,7 @@
             "open_issues": 1,
             "owner": "cablehead",
             "repo": "pai-sho",
-            "stars": 76,
+            "stars": 79,
             "topics": [
               "cli",
               "iroh",
@@ -617,11 +617,11 @@
             "id": 1078137951,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-29T08:27:19Z",
-            "open_issues": 42,
+            "last_commit": "2026-09-01T17:48:23Z",
+            "open_issues": 35,
             "owner": "tonyantony300",
             "repo": "dashbeam",
-            "stars": 9343,
+            "stars": 9351,
             "topics": [
               "android",
               "file-transfer",
@@ -655,7 +655,7 @@
             "open_issues": 38,
             "owner": "n0-computer",
             "repo": "sendme",
-            "stars": 1176,
+            "stars": 1177,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
@@ -944,7 +944,7 @@
             "id": 303450750,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-08-31T11:34:11Z",
+            "last_commit": "2026-09-01T16:32:24Z",
             "open_issues": 156,
             "owner": "p2panda",
             "repo": "p2panda",
@@ -1115,7 +1115,7 @@
             "open_issues": 80,
             "owner": "fishfolk",
             "repo": "jumpy",
-            "stars": 1877,
+            "stars": 1878,
             "topics": [
               "bevy",
               "editor",
@@ -1147,7 +1147,7 @@
             "open_issues": 65,
             "owner": "fishfolk",
             "repo": "bones",
-            "stars": 308,
+            "stars": 309,
             "topics": [
               "bevy",
               "bones",
@@ -1183,7 +1183,7 @@
             "open_issues": 9,
             "owner": "rustonbsd",
             "repo": "iroh-lan",
-            "stars": 219,
+            "stars": 220,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
@@ -1364,11 +1364,11 @@
             "id": 369010411,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-01T00:31:49Z",
-            "open_issues": 372,
+            "last_commit": "2026-09-01T05:06:19Z",
+            "open_issues": 374,
             "owner": "fedimint",
             "repo": "fedimint",
-            "stars": 694,
+            "stars": 695,
             "topics": [
               "bitcoin",
               "e-cash",
@@ -1452,7 +1452,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T00:35:50.842Z",
+    "last_updated": "2026-09-01T23:16:35.035Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome stuff built on & with iroh",
@@ -1464,7 +1464,7 @@
       "open_issues": 3,
       "owner": "n0-computer",
       "repo": "awesome-iroh",
-      "stars": 537,
+      "stars": 539,
       "topics": [
         "android",
         "awesome",
