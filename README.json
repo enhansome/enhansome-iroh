@@ -19,7 +19,7 @@
             "open_issues": 128,
             "owner": "PsycheFoundation",
             "repo": "nousnet",
-            "stars": 963,
+            "stars": 964,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
@@ -153,11 +153,11 @@
             "id": 745032548,
             "language": "Rust",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-02T09:15:09Z",
-            "open_issues": 111,
+            "last_commit": "2026-09-03T12:40:43Z",
+            "open_issues": 110,
             "owner": "teamtype",
             "repo": "teamtype",
-            "stars": 1914,
+            "stars": 1916,
             "topics": [
               "automerge",
               "collaboration",
@@ -204,11 +204,11 @@
             "id": 1193164114,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-02T16:33:28Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-03T20:23:44Z",
+            "open_issues": 6,
             "owner": "linxiv-dev",
             "repo": "linXiv",
-            "stars": 47,
+            "stars": 48,
             "topics": [
               "arxiv",
               "arxiv-api",
@@ -236,7 +236,7 @@
             "id": 1311314679,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-01T19:56:10Z",
+            "last_commit": "2026-09-03T17:45:02Z",
             "open_issues": 0,
             "owner": "pelazas",
             "repo": "p2pmux",
@@ -305,7 +305,7 @@
             "open_issues": 30,
             "owner": "n0-computer",
             "repo": "dumbpipe",
-            "stars": 762,
+            "stars": 763,
             "topics": [
               "holepunching",
               "magic",
@@ -327,10 +327,10 @@
             "language": "Rust",
             "license": "MPL-2.0",
             "last_commit": "2026-09-02T22:19:12Z",
-            "open_issues": 68,
+            "open_issues": 69,
             "owner": "rayfish",
             "repo": "rayfish",
-            "stars": 660,
+            "stars": 661,
             "topics": [
               "iroh",
               "quic",
@@ -357,7 +357,7 @@
             "open_issues": 46,
             "owner": "duxweb",
             "repo": "codux",
-            "stars": 427,
+            "stars": 430,
             "topics": [
               "ai-tools",
               "rust",
@@ -382,7 +382,7 @@
             "open_issues": 9,
             "owner": "rustonbsd",
             "repo": "iroh-ssh",
-            "stars": 279,
+            "stars": 280,
             "topics": [
               "iroh",
               "p2p",
@@ -403,11 +403,11 @@
             "id": 789241907,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-08-07T04:15:16Z",
+            "last_commit": "2026-09-03T20:05:02Z",
             "open_issues": 12,
             "owner": "cablehead",
             "repo": "xs",
-            "stars": 220,
+            "stars": 221,
             "topics": [
               "cli",
               "content-addressed-storage",
@@ -439,13 +439,13 @@
             "description": "Open-source mesh networking platform. Connect your machines into a private network, wherever they are.",
             "homepage": "https://docs.tunnet.io",
             "id": 1288277803,
-            "language": "TypeScript",
+            "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-02T18:04:43Z",
+            "last_commit": "2026-09-03T23:11:44Z",
             "open_issues": 2,
             "owner": "tunnetio",
             "repo": "Tunnet",
-            "stars": 91,
+            "stars": 93,
             "topics": [
               "mesh-networks",
               "networking",
@@ -468,11 +468,11 @@
             "id": 1133756644,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-08-31T18:31:56Z",
+            "last_commit": "2026-09-03T23:14:14Z",
             "open_issues": 1,
             "owner": "cablehead",
             "repo": "pai-sho",
-            "stars": 80,
+            "stars": 82,
             "topics": [
               "cli",
               "iroh",
@@ -618,10 +618,10 @@
             "language": "TypeScript",
             "license": "AGPL-3.0",
             "last_commit": "2026-09-01T17:48:23Z",
-            "open_issues": 36,
+            "open_issues": 37,
             "owner": "tonyantony300",
             "repo": "dashbeam",
-            "stars": 9365,
+            "stars": 9371,
             "topics": [
               "android",
               "file-transfer",
@@ -655,7 +655,7 @@
             "open_issues": 38,
             "owner": "n0-computer",
             "repo": "sendme",
-            "stars": 1178,
+            "stars": 1179,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
@@ -925,6 +925,27 @@
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
+        },
+        {
+          "node_type": "item",
+          "title": "sendblob",
+          "description": "Share files from the browser (sendblob.app) via iroh-blobs relays, interoperable with any iroh node.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Ephemeral, zero-server P2P file sharing in your browser. Powered by Iroh, Rust & WebAssembly.",
+            "homepage": null,
+            "id": 1353487306,
+            "language": "Rust",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-03T14:32:18Z",
+            "open_issues": 0,
+            "owner": "hboisgibault",
+            "repo": "sendblob",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-09-03T23:15:02.781Z"
         }
       ],
       "title": "File Sharing"
@@ -944,8 +965,8 @@
             "id": 303450750,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-09-02T10:13:09Z",
-            "open_issues": 156,
+            "last_commit": "2026-09-03T12:31:53Z",
+            "open_issues": 159,
             "owner": "p2panda",
             "repo": "p2panda",
             "stars": 562,
@@ -1364,8 +1385,8 @@
             "id": 369010411,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-02T19:02:26Z",
-            "open_issues": 378,
+            "last_commit": "2026-09-03T18:40:55Z",
+            "open_issues": 380,
             "owner": "fedimint",
             "repo": "fedimint",
             "stars": 695,
@@ -1452,7 +1473,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T23:17:16.292Z",
+    "last_updated": "2026-09-03T23:15:02.781Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome stuff built on & with iroh",
@@ -1460,11 +1481,11 @@
       "id": 874866049,
       "language": null,
       "license": "NOASSERTION",
-      "last_commit": "2026-08-27T09:41:19Z",
+      "last_commit": "2026-09-03T14:56:23Z",
       "open_issues": 3,
       "owner": "n0-computer",
       "repo": "awesome-iroh",
-      "stars": 540,
+      "stars": 542,
       "topics": [
         "android",
         "awesome",
@@ -1480,7 +1501,7 @@
         "windows"
       ]
     },
-    "original_repository_sha": "90ff5fd0754e6b4a7ec3c2fe5016a2a1b1c6df05",
+    "original_repository_sha": "f1134b5d2f104d62cca251e853ff873ce91f61de",
     "enhanced_repository": "enhansome/enhansome-iroh",
     "enhanced_repository_description": null,
     "title": "Awesome Iroh with stars"

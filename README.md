@@ -46,7 +46,7 @@ Projects & resources building with iroh!
 
 ## AI/ML
 
-* [Psyche](https://github.com/PsycheFoundation/psyche/) ⭐ 963 | 🐛 128 | 🌐 Rust | 📅 2026-03-24 - An open infrastructure to democratize and decentralize the development of superintelligence for humanity.
+* [Psyche](https://github.com/PsycheFoundation/psyche/) ⭐ 964 | 🐛 128 | 🌐 Rust | 📅 2026-03-24 - An open infrastructure to democratize and decentralize the development of superintelligence for humanity.
 * [Prime Intellect](https://github.com/PrimeIntellect-ai/protocol) ⚠️ Archived - Decentralized Compute Infrastructure for AI.
 * [Tandemn](https://github.com/Tandemn-Labs/tensor-iroh) ⭐ 18 | 🐛 13 | 🌐 Rust | 📅 2026-03-27 - Iroh for tensors, used for inference over heterogeneous GPUs.
 
@@ -66,21 +66,21 @@ Projects & resources building with iroh!
 
 ## Collaboration and Productivity
 
-* [Teamtype](https://github.com/teamtype/teamtype) ⭐ 1,914 | 🐛 111 | 🌐 Rust | 📅 2026-09-02 - Editor-agnostic, real-time collaborative editing of local text files.
+* [Teamtype](https://github.com/teamtype/teamtype) ⭐ 1,916 | 🐛 110 | 🌐 Rust | 📅 2026-09-03 - Editor-agnostic, real-time collaborative editing of local text files.
 * [Zeco](https://github.com/julianbuettner/zeco) ⭐ 78 | 🐛 2 | 🌐 Rust | 📅 2026-07-15 - Share zellij sessions via the internet (using iroh).
-* [linXiv](https://github.com/linxiv-dev/linXiv) ⭐ 47 | 🐛 5 | 🌐 Rust | 📅 2026-09-02 - Local-first academic paper manager with p2p sharing enabled using iroh.
-* [p2pmux](https://github.com/pelazas/p2pmux) ⭐ 13 | 🐛 0 | 🌐 Rust | 📅 2026-09-01 - Terminal multiplexer where every pane is a PTY on its owner's own machine.
+* [linXiv](https://github.com/linxiv-dev/linXiv) ⭐ 48 | 🐛 6 | 🌐 Rust | 📅 2026-09-03 - Local-first academic paper manager with p2p sharing enabled using iroh.
+* [p2pmux](https://github.com/pelazas/p2pmux) ⭐ 13 | 🐛 0 | 🌐 Rust | 📅 2026-09-03 - Terminal multiplexer where every pane is a PTY on its owner's own machine.
 * [biter](https://github.com/LukeDSchenk/biter) ⭐ 11 | 🐛 7 | 🌐 Rust | 📅 2026-02-05 - Synchronize device clipboards via iroh.
 
 ## DevTools
 
-* [Dumbpipe](https://github.com/n0-computer/dumbpipe) ⭐ 762 | 🐛 30 | 🌐 Rust | 📅 2026-07-20 - Cross-device unix pipe.
-* [Rayfish](https://github.com/rayfish/rayfish) ⭐ 660 | 🐛 68 | 🌐 Rust | 📅 2026-09-02 - A P2P mesh VPN that connects peers by cryptographic identity instead of IP address.
-* [Codux](https://github.com/duxweb/codux) ⭐ 427 | 🐛 46 | 🌐 Rust | 📅 2026-07-21 - A native connected terminal for AI coding agents, using iroh for encrypted peer-to-peer control across desktop, mobile, and headless hosts.
-* [iroh-ssh](https://github.com/rustonbsd/iroh-ssh) ⭐ 279 | 🐛 9 | 🌐 Rust | 📅 2026-06-24 - SSH to any machine without ip.
-* [cross.stream](https://github.com/cablehead/xs) ⭐ 220 | 🐛 12 | 🌐 Rust | 📅 2026-08-07 - Local-first event streaming for reactive workflows, with P2P sharing via Iroh.
-* [Tunnet](https://github.com/tunnetio/Tunnet) ⭐ 91 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-02 - Open-source mesh networking platform that scales from direct p2p connections for individuals to fully managed deployments for large organizations.
-* [pai-sho](https://github.com/cablehead/pai-sho) ⭐ 80 | 🐛 1 | 🌐 Rust | 📅 2026-08-31 - P2P TCP port forwarding: dumbpipe, but multiple ports, and it reconnects.
+* [Dumbpipe](https://github.com/n0-computer/dumbpipe) ⭐ 763 | 🐛 30 | 🌐 Rust | 📅 2026-07-20 - Cross-device unix pipe.
+* [Rayfish](https://github.com/rayfish/rayfish) ⭐ 661 | 🐛 69 | 🌐 Rust | 📅 2026-09-02 - A P2P mesh VPN that connects peers by cryptographic identity instead of IP address.
+* [Codux](https://github.com/duxweb/codux) ⭐ 430 | 🐛 46 | 🌐 Rust | 📅 2026-07-21 - A native connected terminal for AI coding agents, using iroh for encrypted peer-to-peer control across desktop, mobile, and headless hosts.
+* [iroh-ssh](https://github.com/rustonbsd/iroh-ssh) ⭐ 280 | 🐛 9 | 🌐 Rust | 📅 2026-06-24 - SSH to any machine without ip.
+* [cross.stream](https://github.com/cablehead/xs) ⭐ 221 | 🐛 12 | 🌐 Rust | 📅 2026-09-03 - Local-first event streaming for reactive workflows, with P2P sharing via Iroh.
+* [Tunnet](https://github.com/tunnetio/Tunnet) ⭐ 93 | 🐛 2 | 🌐 Rust | 📅 2026-09-03 - Open-source mesh networking platform that scales from direct p2p connections for individuals to fully managed deployments for large organizations.
+* [pai-sho](https://github.com/cablehead/pai-sho) ⭐ 82 | 🐛 1 | 🌐 Rust | 📅 2026-09-03 - P2P TCP port forwarding: dumbpipe, but multiple ports, and it reconnects.
 * [do-ssh](https://github.com/doEggi/do-ssh) ⚠️ Archived - Tunnels an ssh-connection over iroh.
 * [iroh-ssh-android](https://github.com/futpib/iroh-ssh-android) ⭐ 23 | 🐛 0 | 🌐 Dart | 📅 2026-08-28 - Android SSH client for hosts running iroh-ssh (and OpenSSH too).
 * [Edky](https://github.com/artob/edky) ⭐ 15 | 🐛 7 | 🌐 Rust | 📅 2026-08-08 - Convert Ed25519 public keys between various encoding formats (iroh, libp2p, IPFS, OpenSSH, etc).
@@ -89,8 +89,8 @@ Projects & resources building with iroh!
 
 ## File Sharing
 
-* [Alt-sendme](https://github.com/tonyantony300/alt-sendme) ⭐ 9,365 | 🐛 36 | 🌐 TypeScript | 📅 2026-09-01 - A cross-platform desktop application for file sharing, built with Tauri.
-* [Sendme](https://github.com/n0-computer/sendme) ⭐ 1,178 | 🐛 38 | 🌐 Rust | 📅 2026-07-25 - A tool to send files and directories, based on iroh.
+* [Alt-sendme](https://github.com/tonyantony300/alt-sendme) ⭐ 9,371 | 🐛 37 | 🌐 TypeScript | 📅 2026-09-01 - A cross-platform desktop application for file sharing, built with Tauri.
+* [Sendme](https://github.com/n0-computer/sendme) ⭐ 1,179 | 🐛 38 | 🌐 Rust | 📅 2026-07-25 - A tool to send files and directories, based on iroh.
 * [lis](https://github.com/riffcc/lis) ⭐ 35 | 🐛 16 | 🌐 Rust | 📅 2025-08-13 - Life is short, but data should live forever.
 * [Rust Patcher](https://github.com/rustonbsd/rustpatcher) ⭐ 28 | 🐛 0 | 🌐 Rust | 📅 2025-10-26 - Secure Decentralized Software updates.
 * [Dropwire](https://github.com/muhamadjawdatsalemalakoum/dropwire) ⭐ 25 | 🐛 3 | 🌐 Rust | 📅 2026-08-26 - Send any file directly between devices, end-to-end encrypted and resumable, with no account and no server.
@@ -102,12 +102,13 @@ Projects & resources building with iroh!
 * [Sendme-egui](https://github.com/zignig/sendme-egui) ⭐ 12 | 🐛 0 | 🌐 Rust | 📅 2025-10-01 - Egui interface for sendme.
 * [ringdrop-gui](https://github.com/rikettsie/ringdrop-gui) ⭐ 5 | 🐛 0 | 🌐 Svelte | 📅 2026-07-11 - Desktop GUI for ringdrop, exposing the full CLI as a native app.
 * [iroh\_send](https://github.com/thiswillbeyourgithub/iroh-send) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-03-29 - Send files or directories by sharing an env variable (python).
+* [sendblob](https://github.com/hboisgibault/sendblob) ⭐ 1 | 🐛 0 | 🌐 Rust | 📅 2026-09-03 - Share files from the browser ([sendblob.app](https://sendblob.app)) via iroh-blobs relays, interoperable with any iroh node.
 * [APT Repository](https://gitlab.com/megalithic-llc/apt-repository) - A Debian APT Repository, and web console for remote administration.
 * [Strada](https://strada.tech) - Beatiful file transfer & management with no cloud costs.
 
 ## Frameworks
 
-* [p2panda](https://github.com/p2panda/p2panda) ⭐ 562 | 🐛 156 | 🌐 Rust | 📅 2026-09-02 - Building blocks for peer-to-peer applications.
+* [p2panda](https://github.com/p2panda/p2panda) ⭐ 562 | 🐛 159 | 🌐 Rust | 📅 2026-09-03 - Building blocks for peer-to-peer applications.
 * [Peernet](https://github.com/dvc94ch/peernet) ⭐ 61 | 🐛 1 | 🌐 Rust | 📅 2025-03-22 - Easy & reliable p2p networking.
 
 ## Libraries and protocols
@@ -146,7 +147,7 @@ Projects & resources building with iroh!
 
 ## Web3
 
-* [Fedimint](https://github.com/fedimint/fedimint) ⭐ 695 | 🐛 378 | 🌐 Rust | 📅 2026-09-02 - Federated E-Cash Mint.
+* [Fedimint](https://github.com/fedimint/fedimint) ⭐ 695 | 🐛 380 | 🌐 Rust | 📅 2026-09-03 - Federated E-Cash Mint.
 * [Recall](https://github.com/recallnet/ipc) ⭐ 36 | 🐛 66 | 🌐 Rust | 📅 2025-06-18 - Lets any agent prove, refine, and earn from their intelligence, onchain.
 * [Analog](https://github.com/Analog-Labs/timechain) ⭐ 12 | 🐛 24 | 🌐 Rust | 📅 2026-03-26 - An omnichain network powered by Proof of Time.
 * [Thresh](https://github.com/rodrigomd94/Thresh) ⭐ 3 | 🐛 0 | 🌐 Rust | 📅 2025-08-29 - A Desktop Cardano Wallet.
@@ -176,8 +177,8 @@ Projects & resources building with iroh!
 
 ### Contributors
 
-[Thanks goes to these contributors](https://github.com/n0-computer/awesome-iroh/graphs/contributors) ⭐ 540 | 🐛 3 | 📅 2026-08-27!
+[Thanks goes to these contributors](https://github.com/n0-computer/awesome-iroh/graphs/contributors) ⭐ 542 | 🐛 3 | 📅 2026-09-03!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
