@@ -153,11 +153,11 @@
             "id": 745032548,
             "language": "Rust",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-09T16:01:34Z",
-            "open_issues": 110,
+            "last_commit": "2026-09-10T09:51:12Z",
+            "open_issues": 109,
             "owner": "teamtype",
             "repo": "teamtype",
-            "stars": 1916,
+            "stars": 1917,
             "topics": [
               "automerge",
               "collaboration",
@@ -194,38 +194,6 @@
         },
         {
           "node_type": "item",
-          "title": "linXiv",
-          "description": "Local-first academic paper manager with p2p sharing enabled using iroh.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A local-first database of your academic papers built to support arXiv papers and more",
-            "homepage": "https://linxiv.dev",
-            "id": 1193164114,
-            "language": "Rust",
-            "license": "GPL-3.0",
-            "last_commit": "2026-09-09T15:43:21Z",
-            "open_issues": 6,
-            "owner": "linxiv-dev",
-            "repo": "linXiv",
-            "stars": 48,
-            "topics": [
-              "arxiv",
-              "arxiv-api",
-              "local-first",
-              "p2p",
-              "p2p-exchange",
-              "p2pshare",
-              "research",
-              "research-paper",
-              "self-host",
-              "tauri"
-            ]
-          },
-          "first_seen": "2026-08-28T05:21:06.042Z"
-        },
-        {
-          "node_type": "item",
           "title": "p2pmux",
           "description": "Terminal multiplexer where every pane is a PTY on its owner's own machine.",
           "children": [],
@@ -240,7 +208,7 @@
             "open_issues": 2,
             "owner": "pelazas",
             "repo": "p2pmux",
-            "stars": 37,
+            "stars": 61,
             "topics": [
               "ai-agents",
               "claude-code",
@@ -258,6 +226,38 @@
               "terminal",
               "terminal-multiplexer",
               "tui"
+            ]
+          },
+          "first_seen": "2026-08-28T05:21:06.042Z"
+        },
+        {
+          "node_type": "item",
+          "title": "linXiv",
+          "description": "Local-first academic paper manager with p2p sharing enabled using iroh.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A local-first database of your academic papers built to support arXiv papers and more",
+            "homepage": "https://linxiv.dev",
+            "id": 1193164114,
+            "language": "Rust",
+            "license": "GPL-3.0",
+            "last_commit": "2026-09-10T19:23:16Z",
+            "open_issues": 8,
+            "owner": "linxiv-dev",
+            "repo": "linXiv",
+            "stars": 48,
+            "topics": [
+              "arxiv",
+              "arxiv-api",
+              "local-first",
+              "p2p",
+              "p2p-exchange",
+              "p2pshare",
+              "research",
+              "research-paper",
+              "self-host",
+              "tauri"
             ]
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
@@ -330,7 +330,7 @@
             "open_issues": 69,
             "owner": "rayfish",
             "repo": "rayfish",
-            "stars": 674,
+            "stars": 677,
             "topics": [
               "iroh",
               "quic",
@@ -357,7 +357,7 @@
             "open_issues": 46,
             "owner": "duxweb",
             "repo": "codux",
-            "stars": 436,
+            "stars": 437,
             "topics": [
               "ai-tools",
               "rust",
@@ -403,7 +403,7 @@
             "id": 789241907,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-08T23:08:12Z",
+            "last_commit": "2026-09-10T20:24:23Z",
             "open_issues": 12,
             "owner": "cablehead",
             "repo": "xs",
@@ -441,11 +441,11 @@
             "id": 1288277803,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-09T04:53:55Z",
+            "last_commit": "2026-09-10T22:28:53Z",
             "open_issues": 5,
             "owner": "tunnetio",
             "repo": "Tunnet",
-            "stars": 104,
+            "stars": 105,
             "topics": [
               "mesh-networks",
               "networking",
@@ -468,11 +468,11 @@
             "id": 1133756644,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-09-09T20:36:37Z",
+            "last_commit": "2026-09-10T14:45:39Z",
             "open_issues": 1,
             "owner": "cablehead",
             "repo": "pai-sho",
-            "stars": 86,
+            "stars": 87,
             "topics": [
               "cli",
               "iroh",
@@ -569,8 +569,8 @@
             "id": 1073754335,
             "language": "Rust",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-09T23:11:53Z",
-            "open_issues": 23,
+            "last_commit": "2026-09-10T20:44:46Z",
+            "open_issues": 22,
             "owner": "datum-cloud",
             "repo": "app",
             "stars": 14,
@@ -598,6 +598,48 @@
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Resilum Core",
+          "description": "Multi-transport Reticulum node: one peer identity across Tor, I2P, Yggdrasil, BLE and iroh/QUIC, with LXMF messaging and SOCKS5 egress.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Multi-transport Reticulum node in Rust: one peer identity across Tor, I2P, Yggdrasil, BLE and iroh/QUIC, with LXMF messaging and SOCKS5 egress. Links survive any interface dying.",
+            "homepage": null,
+            "id": 1350553144,
+            "language": "Rust",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-09-10T21:01:06Z",
+            "open_issues": 3,
+            "owner": "Resilum",
+            "repo": "resilum-core",
+            "stars": 3,
+            "topics": [
+              "android",
+              "anonymity",
+              "bluetooth-low-energy",
+              "censorship-resistance",
+              "decentralized",
+              "i2p",
+              "lxmf",
+              "mesh-networking",
+              "mesh-networks",
+              "nostr",
+              "offline-first",
+              "p2p",
+              "privacy",
+              "reticulum",
+              "rust",
+              "self-hosted",
+              "socks5",
+              "tor",
+              "vpn",
+              "yggdrasil"
+            ]
+          },
+          "first_seen": "2026-09-10T23:07:46.659Z"
         }
       ],
       "title": "DevTools"
@@ -621,7 +663,7 @@
             "open_issues": 41,
             "owner": "tonyantony300",
             "repo": "dashbeam",
-            "stars": 9423,
+            "stars": 9428,
             "topics": [
               "android",
               "file-transfer",
@@ -655,7 +697,7 @@
             "open_issues": 38,
             "owner": "n0-computer",
             "repo": "sendme",
-            "stars": 1181,
+            "stars": 1182,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
@@ -799,6 +841,35 @@
         },
         {
           "node_type": "item",
+          "title": "DataBeam",
+          "description": "File sharing desktop app with features like: share via short custom code or QR code, share text, auto-retry on failure, and automatic overwrite conflict resolution.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The ultimate desktop GUI app combining the convenience of Croc with the high speeds and resilience (across the network changes) features of Sendme. Send files/data anywhere instantly across wifi/network changes, resume downloads after network drops and power failure shutdowns.",
+            "homepage": "https://databeam.refining.online/",
+            "id": 1159821780,
+            "language": "Rust",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-09-09T14:40:24Z",
+            "open_issues": 3,
+            "owner": "vinay-winai",
+            "repo": "DataBeam",
+            "stars": 13,
+            "topics": [
+              "blake3",
+              "croc",
+              "iroh",
+              "iroh-blobs",
+              "p2p",
+              "pake",
+              "sendme"
+            ]
+          },
+          "first_seen": "2026-08-28T05:21:06.042Z"
+        },
+        {
+          "node_type": "item",
           "title": "fsend",
           "description": "Peer-to-peer file sharing webapp and cli tool, allows transferring of files and folders with resumable transfers.",
           "children": [],
@@ -824,35 +895,6 @@
               "solidjs",
               "webrtc",
               "website"
-            ]
-          },
-          "first_seen": "2026-08-28T05:21:06.042Z"
-        },
-        {
-          "node_type": "item",
-          "title": "DataBeam",
-          "description": "File sharing desktop app with features like: share via short custom code or QR code, share text, auto-retry on failure, and automatic overwrite conflict resolution.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The ultimate desktop GUI app combining the convenience of Croc with the high speeds and resilience (across the network changes) features of Sendme. Send files/data anywhere instantly across wifi/network changes, resume downloads after network drops and power failure shutdowns.",
-            "homepage": "https://databeam.refining.online/",
-            "id": 1159821780,
-            "language": "Rust",
-            "license": "AGPL-3.0",
-            "last_commit": "2026-09-09T14:40:24Z",
-            "open_issues": 3,
-            "owner": "vinay-winai",
-            "repo": "DataBeam",
-            "stars": 12,
-            "topics": [
-              "blake3",
-              "croc",
-              "iroh",
-              "iroh-blobs",
-              "p2p",
-              "pake",
-              "sendme"
             ]
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
@@ -965,8 +1007,8 @@
             "id": 303450750,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-09-09T20:07:21Z",
-            "open_issues": 161,
+            "last_commit": "2026-09-10T14:58:53Z",
+            "open_issues": 162,
             "owner": "p2panda",
             "repo": "p2panda",
             "stars": 562,
@@ -1294,7 +1336,7 @@
             "open_issues": 3,
             "owner": "jamessizeland",
             "repo": "peer-to-peer",
-            "stars": 19,
+            "stars": 20,
             "topics": [
               "android-app",
               "chat-application",
@@ -1385,8 +1427,8 @@
             "id": 369010411,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-09T20:42:02Z",
-            "open_issues": 386,
+            "last_commit": "2026-09-10T22:53:46Z",
+            "open_issues": 385,
             "owner": "fedimint",
             "repo": "fedimint",
             "stars": 696,
@@ -1473,7 +1515,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T23:12:01.894Z",
+    "last_updated": "2026-09-10T23:07:46.659Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome stuff built on & with iroh",
@@ -1481,11 +1523,11 @@
       "id": 874866049,
       "language": null,
       "license": "NOASSERTION",
-      "last_commit": "2026-09-03T14:56:23Z",
-      "open_issues": 4,
+      "last_commit": "2026-09-10T07:20:11Z",
+      "open_issues": 3,
       "owner": "n0-computer",
       "repo": "awesome-iroh",
-      "stars": 544,
+      "stars": 543,
       "topics": [
         "android",
         "awesome",
@@ -1501,7 +1543,7 @@
         "windows"
       ]
     },
-    "original_repository_sha": "f1134b5d2f104d62cca251e853ff873ce91f61de",
+    "original_repository_sha": "19c7e8c4d986be59e4a068ccd54dd2fd30d2d58d",
     "enhanced_repository": "enhansome/enhansome-iroh",
     "enhanced_repository_description": null,
     "title": "Awesome Iroh with stars"
