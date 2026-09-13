@@ -208,7 +208,7 @@
             "open_issues": 2,
             "owner": "pelazas",
             "repo": "p2pmux",
-            "stars": 67,
+            "stars": 68,
             "topics": [
               "ai-agents",
               "claude-code",
@@ -242,11 +242,11 @@
             "id": 1193164114,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-12T20:44:20Z",
-            "open_issues": 8,
+            "last_commit": "2026-09-13T22:56:26Z",
+            "open_issues": 9,
             "owner": "linxiv-dev",
             "repo": "linXiv",
-            "stars": 48,
+            "stars": 47,
             "topics": [
               "arxiv",
               "arxiv-api",
@@ -305,7 +305,7 @@
             "open_issues": 30,
             "owner": "n0-computer",
             "repo": "dumbpipe",
-            "stars": 774,
+            "stars": 775,
             "topics": [
               "holepunching",
               "magic",
@@ -330,7 +330,7 @@
             "open_issues": 70,
             "owner": "rayfish",
             "repo": "rayfish",
-            "stars": 684,
+            "stars": 685,
             "topics": [
               "iroh",
               "quic",
@@ -354,10 +354,10 @@
             "language": "Rust",
             "license": "GPL-3.0",
             "last_commit": "2026-07-21T07:49:29Z",
-            "open_issues": 47,
+            "open_issues": 48,
             "owner": "duxweb",
             "repo": "codux",
-            "stars": 437,
+            "stars": 439,
             "topics": [
               "ai-tools",
               "rust",
@@ -382,7 +382,7 @@
             "open_issues": 10,
             "owner": "rustonbsd",
             "repo": "iroh-ssh",
-            "stars": 284,
+            "stars": 290,
             "topics": [
               "iroh",
               "p2p",
@@ -407,7 +407,7 @@
             "open_issues": 12,
             "owner": "cablehead",
             "repo": "xs",
-            "stars": 223,
+            "stars": 224,
             "topics": [
               "cli",
               "content-addressed-storage",
@@ -512,6 +512,36 @@
         },
         {
           "node_type": "item",
+          "title": "koh",
+          "description": "A remote shell inspired by mosh. Serve and connect from anywhere, survive network changes, no port forwarding required.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "koh — peer-to-peer remote shell, inspired by mosh",
+            "homepage": "https://docs.rs/koh",
+            "id": 1275962946,
+            "language": "HTML",
+            "license": "MIT",
+            "last_commit": "2026-09-13T18:16:44Z",
+            "open_issues": 0,
+            "owner": "gold-silver-copper",
+            "repo": "koh",
+            "stars": 33,
+            "topics": [
+              "iroh",
+              "mobile-shell",
+              "mosh",
+              "p2p",
+              "quic",
+              "remote-shell",
+              "rust",
+              "terminal"
+            ]
+          },
+          "first_seen": "2026-09-13T23:06:31.541Z"
+        },
+        {
+          "node_type": "item",
           "title": "iroh-ssh-android",
           "description": "Android SSH client for hosts running iroh-ssh (and OpenSSH too).",
           "children": [],
@@ -611,7 +641,7 @@
             "id": 1350553144,
             "language": "Rust",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-12T19:10:43Z",
+            "last_commit": "2026-09-13T09:46:30Z",
             "open_issues": 3,
             "owner": "Resilum",
             "repo": "resilum-core",
@@ -663,7 +693,7 @@
             "open_issues": 42,
             "owner": "tonyantony300",
             "repo": "dashbeam",
-            "stars": 9438,
+            "stars": 9445,
             "topics": [
               "android",
               "file-transfer",
@@ -841,6 +871,37 @@
         },
         {
           "node_type": "item",
+          "title": "fsend",
+          "description": "Peer-to-peer file sharing webapp and cli tool, allows transferring of files and folders with resumable transfers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "peer-to-peer file sharing webapp and cli tool",
+            "homepage": "https://fsend.sh",
+            "id": 1224941583,
+            "language": "Rust",
+            "license": null,
+            "last_commit": "2026-09-06T10:41:10Z",
+            "open_issues": 1,
+            "owner": "maxomatic458",
+            "repo": "fsend",
+            "stars": 15,
+            "topics": [
+              "cli",
+              "p2p",
+              "peer-to-peer",
+              "quic",
+              "rust",
+              "rust-lang",
+              "solidjs",
+              "webrtc",
+              "website"
+            ]
+          },
+          "first_seen": "2026-08-28T05:21:06.042Z"
+        },
+        {
+          "node_type": "item",
           "title": "DataBeam",
           "description": "File sharing desktop app with features like: share via short custom code or QR code, share text, auto-retry on failure, and automatic overwrite conflict resolution.",
           "children": [],
@@ -864,37 +925,6 @@
               "p2p",
               "pake",
               "sendme"
-            ]
-          },
-          "first_seen": "2026-08-28T05:21:06.042Z"
-        },
-        {
-          "node_type": "item",
-          "title": "fsend",
-          "description": "Peer-to-peer file sharing webapp and cli tool, allows transferring of files and folders with resumable transfers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "peer-to-peer file sharing webapp and cli tool",
-            "homepage": "https://fsend.sh",
-            "id": 1224941583,
-            "language": "Rust",
-            "license": null,
-            "last_commit": "2026-09-06T10:41:10Z",
-            "open_issues": 1,
-            "owner": "maxomatic458",
-            "repo": "fsend",
-            "stars": 13,
-            "topics": [
-              "cli",
-              "p2p",
-              "peer-to-peer",
-              "quic",
-              "rust",
-              "rust-lang",
-              "solidjs",
-              "webrtc",
-              "website"
             ]
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
@@ -933,7 +963,7 @@
             "language": "Svelte",
             "license": "MIT",
             "last_commit": "2026-07-11T08:43:23Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "rikettsie",
             "repo": "ringdrop-gui",
             "stars": 5,
@@ -1106,7 +1136,7 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-09-04T05:47:49Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "rikettsie",
             "repo": "iroh-rings",
             "stars": 19,
@@ -1374,7 +1404,7 @@
             "open_issues": 0,
             "owner": "DrHongos",
             "repo": "obsiroh",
-            "stars": 26,
+            "stars": 27,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
@@ -1395,7 +1425,7 @@
             "open_issues": 10,
             "owner": "muhamadjawdatsalemalakoum",
             "repo": "kith",
-            "stars": 19,
+            "stars": 20,
             "topics": [
               "crdt",
               "end-to-end-encryption",
@@ -1427,8 +1457,8 @@
             "id": 369010411,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-12T18:23:24Z",
-            "open_issues": 385,
+            "last_commit": "2026-09-13T07:29:22Z",
+            "open_issues": 389,
             "owner": "fedimint",
             "repo": "fedimint",
             "stars": 696,
@@ -1515,7 +1545,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T23:01:06.345Z",
+    "last_updated": "2026-09-13T23:06:31.541Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome stuff built on & with iroh",
@@ -1523,11 +1553,11 @@
       "id": 874866049,
       "language": null,
       "license": "NOASSERTION",
-      "last_commit": "2026-09-10T07:20:11Z",
+      "last_commit": "2026-09-13T18:33:06Z",
       "open_issues": 3,
       "owner": "n0-computer",
       "repo": "awesome-iroh",
-      "stars": 543,
+      "stars": 545,
       "topics": [
         "android",
         "awesome",
@@ -1543,7 +1573,7 @@
         "windows"
       ]
     },
-    "original_repository_sha": "19c7e8c4d986be59e4a068ccd54dd2fd30d2d58d",
+    "original_repository_sha": "55859f17f67c75361f56082c53f12334c6cef82f",
     "enhanced_repository": "enhansome/enhansome-iroh",
     "enhanced_repository_description": null,
     "title": "Awesome Iroh with stars"
