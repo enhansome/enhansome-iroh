@@ -157,7 +157,7 @@
             "open_issues": 114,
             "owner": "teamtype",
             "repo": "teamtype",
-            "stars": 1924,
+            "stars": 1926,
             "topics": [
               "automerge",
               "collaboration",
@@ -187,7 +187,7 @@
             "open_issues": 0,
             "owner": "julianbuettner",
             "repo": "zeco",
-            "stars": 78,
+            "stars": 79,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
@@ -242,7 +242,7 @@
             "id": 1193164114,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-20T21:03:12Z",
+            "last_commit": "2026-09-22T23:33:32Z",
             "open_issues": 7,
             "owner": "linxiv-dev",
             "repo": "linXiv",
@@ -326,11 +326,11 @@
             "id": 1277104302,
             "language": "Rust",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-21T15:29:40Z",
-            "open_issues": 78,
+            "last_commit": "2026-09-22T19:27:06Z",
+            "open_issues": 82,
             "owner": "rayfish",
             "repo": "rayfish",
-            "stars": 696,
+            "stars": 698,
             "topics": [
               "iroh",
               "quic",
@@ -357,7 +357,7 @@
             "open_issues": 49,
             "owner": "duxweb",
             "repo": "codux",
-            "stars": 453,
+            "stars": 454,
             "topics": [
               "ai-tools",
               "rust",
@@ -407,7 +407,7 @@
             "open_issues": 12,
             "owner": "cablehead",
             "repo": "xs",
-            "stars": 225,
+            "stars": 226,
             "topics": [
               "cli",
               "content-addressed-storage",
@@ -442,7 +442,7 @@
             "language": "Rust",
             "license": "NOASSERTION",
             "last_commit": "2026-09-21T19:54:17Z",
-            "open_issues": 6,
+            "open_issues": 5,
             "owner": "tunnetio",
             "repo": "Tunnet",
             "stars": 112,
@@ -563,6 +563,32 @@
         },
         {
           "node_type": "item",
+          "title": "Edky",
+          "description": "Convert Ed25519 public keys between various encoding formats (iroh, libp2p, IPFS, OpenSSH, etc).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "🦀 Convert Ed25519 public keys between various encoding formats such as Base16, Base32z, Base58, Base64, Multibase, and OpenSSH.",
+            "homepage": "https://edky.dev",
+            "id": 1297262676,
+            "language": "Rust",
+            "license": "Unlicense",
+            "last_commit": "2026-09-21T14:10:50Z",
+            "open_issues": 7,
+            "owner": "artob",
+            "repo": "edky",
+            "stars": 16,
+            "topics": [
+              "cryptography",
+              "cryptography-tools",
+              "curve25519",
+              "ed25119"
+            ]
+          },
+          "first_seen": "2026-08-28T05:21:06.042Z"
+        },
+        {
+          "node_type": "item",
           "title": "Datum",
           "description": "Expose local services to the internet.",
           "children": [],
@@ -579,32 +605,6 @@
             "repo": "app",
             "stars": 15,
             "topics": []
-          },
-          "first_seen": "2026-08-28T05:21:06.042Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Edky",
-          "description": "Convert Ed25519 public keys between various encoding formats (iroh, libp2p, IPFS, OpenSSH, etc).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🦀 Convert Ed25519 public keys between various encoding formats such as Base16, Base32z, Base58, Base64, Multibase, and OpenSSH.",
-            "homepage": "https://edky.dev",
-            "id": 1297262676,
-            "language": "Rust",
-            "license": "Unlicense",
-            "last_commit": "2026-09-21T14:10:50Z",
-            "open_issues": 7,
-            "owner": "artob",
-            "repo": "edky",
-            "stars": 15,
-            "topics": [
-              "cryptography",
-              "cryptography-tools",
-              "curve25519",
-              "ed25119"
-            ]
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         },
@@ -693,7 +693,7 @@
             "open_issues": 45,
             "owner": "tonyantony300",
             "repo": "dashbeam",
-            "stars": 9697,
+            "stars": 9714,
             "topics": [
               "android",
               "file-transfer",
@@ -727,7 +727,7 @@
             "open_issues": 38,
             "owner": "n0-computer",
             "repo": "sendme",
-            "stars": 1193,
+            "stars": 1196,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
@@ -818,7 +818,7 @@
             "id": 1228806324,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-19T22:03:57Z",
+            "last_commit": "2026-09-22T21:57:21Z",
             "open_issues": 5,
             "owner": "rikettsie",
             "repo": "ringdrop",
@@ -871,6 +871,35 @@
         },
         {
           "node_type": "item",
+          "title": "DataBeam",
+          "description": "File sharing desktop app with features like: share via short custom code or QR code, share text, auto-retry on failure, and automatic overwrite conflict resolution.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The ultimate desktop GUI app combining the convenience of Croc with the high speeds and resilience (across the network changes) features of Sendme. Send files/data anywhere instantly across wifi/network changes, resume downloads after network drops and power failure shutdowns.",
+            "homepage": "https://databeam.refining.online/",
+            "id": 1159821780,
+            "language": "Rust",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-09-09T14:40:24Z",
+            "open_issues": 4,
+            "owner": "vinay-winai",
+            "repo": "DataBeam",
+            "stars": 15,
+            "topics": [
+              "blake3",
+              "croc",
+              "iroh",
+              "iroh-blobs",
+              "p2p",
+              "pake",
+              "sendme"
+            ]
+          },
+          "first_seen": "2026-08-28T05:21:06.042Z"
+        },
+        {
+          "node_type": "item",
           "title": "fsend",
           "description": "Peer-to-peer file sharing webapp and cli tool, allows transferring of files and folders with resumable transfers.",
           "children": [],
@@ -896,35 +925,6 @@
               "solidjs",
               "webrtc",
               "website"
-            ]
-          },
-          "first_seen": "2026-08-28T05:21:06.042Z"
-        },
-        {
-          "node_type": "item",
-          "title": "DataBeam",
-          "description": "File sharing desktop app with features like: share via short custom code or QR code, share text, auto-retry on failure, and automatic overwrite conflict resolution.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The ultimate desktop GUI app combining the convenience of Croc with the high speeds and resilience (across the network changes) features of Sendme. Send files/data anywhere instantly across wifi/network changes, resume downloads after network drops and power failure shutdowns.",
-            "homepage": "https://databeam.refining.online/",
-            "id": 1159821780,
-            "language": "Rust",
-            "license": "AGPL-3.0",
-            "last_commit": "2026-09-09T14:40:24Z",
-            "open_issues": 4,
-            "owner": "vinay-winai",
-            "repo": "DataBeam",
-            "stars": 14,
-            "topics": [
-              "blake3",
-              "croc",
-              "iroh",
-              "iroh-blobs",
-              "p2p",
-              "pake",
-              "sendme"
             ]
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
@@ -962,7 +962,7 @@
             "id": 1256948679,
             "language": "Svelte",
             "license": "MIT",
-            "last_commit": "2026-09-19T22:29:02Z",
+            "last_commit": "2026-09-22T22:16:10Z",
             "open_issues": 0,
             "owner": "rikettsie",
             "repo": "ringdrop-gui",
@@ -1037,8 +1037,8 @@
             "id": 303450750,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-09-21T21:02:53Z",
-            "open_issues": 167,
+            "last_commit": "2026-09-22T19:47:56Z",
+            "open_issues": 173,
             "owner": "p2panda",
             "repo": "p2panda",
             "stars": 568,
@@ -1135,8 +1135,8 @@
             "id": 1236502271,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-04T05:47:49Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-22T21:39:42Z",
+            "open_issues": 1,
             "owner": "rikettsie",
             "repo": "iroh-rings",
             "stars": 19,
@@ -1208,7 +1208,7 @@
             "open_issues": 80,
             "owner": "fishfolk",
             "repo": "jumpy",
-            "stars": 1879,
+            "stars": 1880,
             "topics": [
               "bevy",
               "editor",
@@ -1457,8 +1457,8 @@
             "id": 369010411,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-21T21:35:31Z",
-            "open_issues": 395,
+            "last_commit": "2026-09-22T18:47:17Z",
+            "open_issues": 396,
             "owner": "fedimint",
             "repo": "fedimint",
             "stars": 699,
@@ -1545,7 +1545,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T00:03:23.590Z",
+    "last_updated": "2026-09-22T23:35:18.953Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome stuff built on & with iroh",
@@ -1557,7 +1557,7 @@
       "open_issues": 4,
       "owner": "n0-computer",
       "repo": "awesome-iroh",
-      "stars": 552,
+      "stars": 553,
       "topics": [
         "android",
         "awesome",
