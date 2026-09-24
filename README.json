@@ -153,11 +153,11 @@
             "id": 745032548,
             "language": "Rust",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-23T23:13:42Z",
+            "last_commit": "2026-09-24T17:27:21Z",
             "open_issues": 114,
             "owner": "teamtype",
             "repo": "teamtype",
-            "stars": 1926,
+            "stars": 1928,
             "topics": [
               "automerge",
               "collaboration",
@@ -242,8 +242,8 @@
             "id": 1193164114,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-23T23:21:10Z",
-            "open_issues": 6,
+            "last_commit": "2026-09-24T23:35:36Z",
+            "open_issues": 21,
             "owner": "linxiv-dev",
             "repo": "linXiv",
             "stars": 53,
@@ -305,7 +305,7 @@
             "open_issues": 31,
             "owner": "n0-computer",
             "repo": "dumbpipe",
-            "stars": 782,
+            "stars": 783,
             "topics": [
               "holepunching",
               "magic",
@@ -326,11 +326,11 @@
             "id": 1277104302,
             "language": "Rust",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-23T17:50:43Z",
+            "last_commit": "2026-09-24T18:16:17Z",
             "open_issues": 76,
             "owner": "rayfish",
             "repo": "rayfish",
-            "stars": 699,
+            "stars": 702,
             "topics": [
               "iroh",
               "quic",
@@ -357,7 +357,7 @@
             "open_issues": 49,
             "owner": "duxweb",
             "repo": "codux",
-            "stars": 455,
+            "stars": 459,
             "topics": [
               "ai-tools",
               "rust",
@@ -382,7 +382,7 @@
             "open_issues": 11,
             "owner": "rustonbsd",
             "repo": "iroh-ssh",
-            "stars": 291,
+            "stars": 292,
             "topics": [
               "iroh",
               "p2p",
@@ -445,7 +445,7 @@
             "open_issues": 5,
             "owner": "tunnetio",
             "repo": "Tunnet",
-            "stars": 115,
+            "stars": 150,
             "topics": [
               "mesh-networks",
               "networking",
@@ -693,7 +693,7 @@
             "open_issues": 48,
             "owner": "tonyantony300",
             "repo": "dashbeam",
-            "stars": 9722,
+            "stars": 9727,
             "topics": [
               "android",
               "file-transfer",
@@ -829,6 +829,37 @@
         },
         {
           "node_type": "item",
+          "title": "fsend",
+          "description": "Peer-to-peer file sharing webapp and cli tool, allows transferring of files and folders with resumable transfers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "peer-to-peer file sharing webapp and cli tool",
+            "homepage": "https://fsend.sh",
+            "id": 1224941583,
+            "language": "Rust",
+            "license": null,
+            "last_commit": "2026-09-06T10:41:10Z",
+            "open_issues": 2,
+            "owner": "maxomatic458",
+            "repo": "fsend",
+            "stars": 16,
+            "topics": [
+              "cli",
+              "p2p",
+              "peer-to-peer",
+              "quic",
+              "rust",
+              "rust-lang",
+              "solidjs",
+              "webrtc",
+              "website"
+            ]
+          },
+          "first_seen": "2026-08-28T05:21:06.042Z"
+        },
+        {
+          "node_type": "item",
           "title": "Quicksend",
           "description": "Send files peer to peer.",
           "children": [],
@@ -894,37 +925,6 @@
               "p2p",
               "pake",
               "sendme"
-            ]
-          },
-          "first_seen": "2026-08-28T05:21:06.042Z"
-        },
-        {
-          "node_type": "item",
-          "title": "fsend",
-          "description": "Peer-to-peer file sharing webapp and cli tool, allows transferring of files and folders with resumable transfers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "peer-to-peer file sharing webapp and cli tool",
-            "homepage": "https://fsend.sh",
-            "id": 1224941583,
-            "language": "Rust",
-            "license": null,
-            "last_commit": "2026-09-06T10:41:10Z",
-            "open_issues": 2,
-            "owner": "maxomatic458",
-            "repo": "fsend",
-            "stars": 15,
-            "topics": [
-              "cli",
-              "p2p",
-              "peer-to-peer",
-              "quic",
-              "rust",
-              "rust-lang",
-              "solidjs",
-              "webrtc",
-              "website"
             ]
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
@@ -1037,8 +1037,8 @@
             "id": 303450750,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-09-23T17:00:20Z",
-            "open_issues": 173,
+            "last_commit": "2026-09-24T12:31:00Z",
+            "open_issues": 174,
             "owner": "p2panda",
             "repo": "p2panda",
             "stars": 569,
@@ -1425,7 +1425,7 @@
             "open_issues": 10,
             "owner": "muhamadjawdatsalemalakoum",
             "repo": "kith",
-            "stars": 21,
+            "stars": 22,
             "topics": [
               "crdt",
               "end-to-end-encryption",
@@ -1457,8 +1457,8 @@
             "id": 369010411,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-23T22:04:35Z",
-            "open_issues": 400,
+            "last_commit": "2026-09-24T22:51:29Z",
+            "open_issues": 396,
             "owner": "fedimint",
             "repo": "fedimint",
             "stars": 699,
@@ -1545,7 +1545,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T23:38:44.660Z",
+    "last_updated": "2026-09-24T23:51:49.926Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome stuff built on & with iroh",
