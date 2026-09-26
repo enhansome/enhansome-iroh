@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "PrimeIntellect-ai",
             "repo": "protocol",
-            "stars": 139,
+            "stars": 140,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
@@ -153,11 +153,11 @@
             "id": 745032548,
             "language": "Rust",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-25T23:15:46Z",
-            "open_issues": 111,
+            "last_commit": "2026-09-26T15:57:54Z",
+            "open_issues": 112,
             "owner": "teamtype",
             "repo": "teamtype",
-            "stars": 1928,
+            "stars": 1929,
             "topics": [
               "automerge",
               "collaboration",
@@ -187,7 +187,7 @@
             "open_issues": 0,
             "owner": "julianbuettner",
             "repo": "zeco",
-            "stars": 79,
+            "stars": 80,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
@@ -242,8 +242,8 @@
             "id": 1193164114,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-25T18:28:47Z",
-            "open_issues": 24,
+            "last_commit": "2026-09-26T12:58:14Z",
+            "open_issues": 33,
             "owner": "linxiv-dev",
             "repo": "linXiv",
             "stars": 53,
@@ -326,11 +326,11 @@
             "id": 1277104302,
             "language": "Rust",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-25T21:35:48Z",
-            "open_issues": 78,
+            "last_commit": "2026-09-26T08:56:15Z",
+            "open_issues": 75,
             "owner": "rayfish",
             "repo": "rayfish",
-            "stars": 704,
+            "stars": 707,
             "topics": [
               "iroh",
               "quic",
@@ -357,7 +357,7 @@
             "open_issues": 49,
             "owner": "duxweb",
             "repo": "codux",
-            "stars": 460,
+            "stars": 461,
             "topics": [
               "ai-tools",
               "rust",
@@ -382,7 +382,7 @@
             "open_issues": 11,
             "owner": "rustonbsd",
             "repo": "iroh-ssh",
-            "stars": 292,
+            "stars": 294,
             "topics": [
               "iroh",
               "p2p",
@@ -441,11 +441,11 @@
             "id": 1288277803,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-25T11:58:58Z",
+            "last_commit": "2026-09-26T19:45:55Z",
             "open_issues": 5,
             "owner": "tunnetio",
             "repo": "Tunnet",
-            "stars": 175,
+            "stars": 178,
             "topics": [
               "mesh-networks",
               "networking",
@@ -522,7 +522,7 @@
             "id": 1275962946,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-09-25T23:33:27Z",
+            "last_commit": "2026-09-26T18:17:12Z",
             "open_issues": 0,
             "owner": "gold-silver-copper",
             "repo": "koh",
@@ -624,7 +624,7 @@
             "open_issues": 3,
             "owner": "trchopan",
             "repo": "locho",
-            "stars": 6,
+            "stars": 7,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
@@ -645,7 +645,7 @@
             "open_issues": 3,
             "owner": "Resilum",
             "repo": "resilum-core",
-            "stars": 4,
+            "stars": 5,
             "topics": [
               "android",
               "anonymity",
@@ -693,7 +693,7 @@
             "open_issues": 48,
             "owner": "tonyantony300",
             "repo": "dashbeam",
-            "stars": 9746,
+            "stars": 9759,
             "topics": [
               "android",
               "file-transfer",
@@ -1037,11 +1037,11 @@
             "id": 303450750,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-09-24T12:31:00Z",
-            "open_issues": 182,
+            "last_commit": "2026-09-26T12:51:07Z",
+            "open_issues": 179,
             "owner": "p2panda",
             "repo": "p2panda",
-            "stars": 570,
+            "stars": 571,
             "topics": [
               "access-control",
               "crdt",
@@ -1181,7 +1181,7 @@
             "open_issues": 3,
             "owner": "therishidesai",
             "repo": "iroh-gossip-discovery",
-            "stars": 14,
+            "stars": 15,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
@@ -1294,7 +1294,7 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-03-30T22:04:20Z",
-            "open_issues": 12,
+            "open_issues": 13,
             "owner": "tipragot",
             "repo": "godot-iroh",
             "stars": 102,
@@ -1457,11 +1457,11 @@
             "id": 369010411,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-25T01:52:46Z",
-            "open_issues": 401,
+            "last_commit": "2026-09-26T20:40:06Z",
+            "open_issues": 402,
             "owner": "fedimint",
             "repo": "fedimint",
-            "stars": 699,
+            "stars": 698,
             "topics": [
               "bitcoin",
               "e-cash",
@@ -1545,7 +1545,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T23:56:06.209Z",
+    "last_updated": "2026-09-26T23:34:40.322Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome stuff built on & with iroh",
