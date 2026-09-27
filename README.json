@@ -106,7 +106,7 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-08-09T18:36:02Z",
-            "open_issues": 25,
+            "open_issues": 26,
             "owner": "chanderlud",
             "repo": "telepathy",
             "stars": 24,
@@ -326,11 +326,11 @@
             "id": 1277104302,
             "language": "Rust",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-26T08:56:15Z",
-            "open_issues": 75,
+            "last_commit": "2026-09-27T17:17:12Z",
+            "open_issues": 74,
             "owner": "rayfish",
             "repo": "rayfish",
-            "stars": 707,
+            "stars": 709,
             "topics": [
               "iroh",
               "quic",
@@ -404,7 +404,7 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-09-20T18:33:05Z",
-            "open_issues": 14,
+            "open_issues": 15,
             "owner": "cablehead",
             "repo": "xs",
             "stars": 226,
@@ -441,11 +441,11 @@
             "id": 1288277803,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-26T19:45:55Z",
+            "last_commit": "2026-09-27T04:34:50Z",
             "open_issues": 5,
             "owner": "tunnetio",
             "repo": "Tunnet",
-            "stars": 178,
+            "stars": 181,
             "topics": [
               "mesh-networks",
               "networking",
@@ -522,7 +522,7 @@
             "id": 1275962946,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-09-26T18:17:12Z",
+            "last_commit": "2026-09-27T18:47:27Z",
             "open_issues": 0,
             "owner": "gold-silver-copper",
             "repo": "koh",
@@ -645,7 +645,7 @@
             "open_issues": 3,
             "owner": "Resilum",
             "repo": "resilum-core",
-            "stars": 5,
+            "stars": 6,
             "topics": [
               "android",
               "anonymity",
@@ -693,7 +693,7 @@
             "open_issues": 48,
             "owner": "tonyantony300",
             "repo": "dashbeam",
-            "stars": 9759,
+            "stars": 9774,
             "topics": [
               "android",
               "file-transfer",
@@ -829,6 +829,35 @@
         },
         {
           "node_type": "item",
+          "title": "DataBeam",
+          "description": "File sharing desktop app with features like: share via short custom code or QR code, share text, auto-retry on failure, and automatic overwrite conflict resolution.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The ultimate desktop GUI app combining the convenience of Croc with the high speeds and resilience (across the network changes) features of Sendme. Send files/data anywhere instantly across wifi/network changes, resume downloads after network drops and power failure shutdowns.",
+            "homepage": "https://databeam.refining.online/",
+            "id": 1159821780,
+            "language": "Rust",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-09-09T14:40:24Z",
+            "open_issues": 4,
+            "owner": "vinay-winai",
+            "repo": "DataBeam",
+            "stars": 16,
+            "topics": [
+              "blake3",
+              "croc",
+              "iroh",
+              "iroh-blobs",
+              "p2p",
+              "pake",
+              "sendme"
+            ]
+          },
+          "first_seen": "2026-08-28T05:21:06.042Z"
+        },
+        {
+          "node_type": "item",
           "title": "fsend",
           "description": "Peer-to-peer file sharing webapp and cli tool, allows transferring of files and folders with resumable transfers.",
           "children": [],
@@ -897,35 +926,6 @@
             "repo": "Drop-Desktop",
             "stars": 15,
             "topics": []
-          },
-          "first_seen": "2026-08-28T05:21:06.042Z"
-        },
-        {
-          "node_type": "item",
-          "title": "DataBeam",
-          "description": "File sharing desktop app with features like: share via short custom code or QR code, share text, auto-retry on failure, and automatic overwrite conflict resolution.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The ultimate desktop GUI app combining the convenience of Croc with the high speeds and resilience (across the network changes) features of Sendme. Send files/data anywhere instantly across wifi/network changes, resume downloads after network drops and power failure shutdowns.",
-            "homepage": "https://databeam.refining.online/",
-            "id": 1159821780,
-            "language": "Rust",
-            "license": "AGPL-3.0",
-            "last_commit": "2026-09-09T14:40:24Z",
-            "open_issues": 4,
-            "owner": "vinay-winai",
-            "repo": "DataBeam",
-            "stars": 15,
-            "topics": [
-              "blake3",
-              "croc",
-              "iroh",
-              "iroh-blobs",
-              "p2p",
-              "pake",
-              "sendme"
-            ]
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         },
@@ -1041,7 +1041,7 @@
             "open_issues": 179,
             "owner": "p2panda",
             "repo": "p2panda",
-            "stars": 571,
+            "stars": 572,
             "topics": [
               "access-control",
               "crdt",
@@ -1139,7 +1139,7 @@
             "open_issues": 1,
             "owner": "rikettsie",
             "repo": "iroh-rings",
-            "stars": 19,
+            "stars": 20,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
@@ -1208,7 +1208,7 @@
             "open_issues": 80,
             "owner": "fishfolk",
             "repo": "jumpy",
-            "stars": 1881,
+            "stars": 1882,
             "topics": [
               "bevy",
               "editor",
@@ -1240,7 +1240,7 @@
             "open_issues": 65,
             "owner": "fishfolk",
             "repo": "bones",
-            "stars": 311,
+            "stars": 312,
             "topics": [
               "bevy",
               "bones",
@@ -1276,7 +1276,7 @@
             "open_issues": 9,
             "owner": "rustonbsd",
             "repo": "iroh-lan",
-            "stars": 223,
+            "stars": 224,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
@@ -1293,8 +1293,8 @@
             "id": 968831861,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-03-30T22:04:20Z",
-            "open_issues": 13,
+            "last_commit": "2026-09-27T13:47:39Z",
+            "open_issues": 7,
             "owner": "tipragot",
             "repo": "godot-iroh",
             "stars": 102,
@@ -1458,10 +1458,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-09-26T20:40:06Z",
-            "open_issues": 402,
+            "open_issues": 403,
             "owner": "fedimint",
             "repo": "fedimint",
-            "stars": 698,
+            "stars": 699,
             "topics": [
               "bitcoin",
               "e-cash",
@@ -1545,7 +1545,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T23:34:40.322Z",
+    "last_updated": "2026-09-27T23:47:33.841Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome stuff built on & with iroh",
@@ -1557,7 +1557,7 @@
       "open_issues": 4,
       "owner": "n0-computer",
       "repo": "awesome-iroh",
-      "stars": 556,
+      "stars": 557,
       "topics": [
         "android",
         "awesome",
