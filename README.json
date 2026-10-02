@@ -109,7 +109,7 @@
             "open_issues": 26,
             "owner": "chanderlud",
             "repo": "telepathy",
-            "stars": 24,
+            "stars": 25,
             "topics": [
               "android",
               "audio",
@@ -153,11 +153,11 @@
             "id": 745032548,
             "language": "Rust",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-30T22:23:39Z",
-            "open_issues": 111,
+            "last_commit": "2026-10-01T20:22:56Z",
+            "open_issues": 112,
             "owner": "teamtype",
             "repo": "teamtype",
-            "stars": 1930,
+            "stars": 1933,
             "topics": [
               "automerge",
               "collaboration",
@@ -242,8 +242,8 @@
             "id": 1193164114,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-29T22:18:16Z",
-            "open_issues": 32,
+            "last_commit": "2026-10-01T18:23:15Z",
+            "open_issues": 31,
             "owner": "linxiv-dev",
             "repo": "linXiv",
             "stars": 55,
@@ -326,11 +326,11 @@
             "id": 1277104302,
             "language": "Rust",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-30T17:21:38Z",
-            "open_issues": 74,
+            "last_commit": "2026-10-01T18:52:47Z",
+            "open_issues": 75,
             "owner": "rayfish",
             "repo": "rayfish",
-            "stars": 713,
+            "stars": 716,
             "topics": [
               "iroh",
               "quic",
@@ -357,7 +357,7 @@
             "open_issues": 49,
             "owner": "duxweb",
             "repo": "codux",
-            "stars": 463,
+            "stars": 465,
             "topics": [
               "ai-tools",
               "rust",
@@ -445,7 +445,7 @@
             "open_issues": 5,
             "owner": "tunnetio",
             "repo": "Tunnet",
-            "stars": 195,
+            "stars": 196,
             "topics": [
               "mesh-networks",
               "networking",
@@ -468,7 +468,7 @@
             "id": 1133756644,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-09-10T14:45:39Z",
+            "last_commit": "2026-10-01T19:17:21Z",
             "open_issues": 1,
             "owner": "cablehead",
             "repo": "pai-sho",
@@ -552,11 +552,32 @@
             "id": 1166001734,
             "language": "Dart",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-28T23:03:48Z",
+            "last_commit": "2026-10-01T13:09:22Z",
             "open_issues": 1,
             "owner": "futpib",
             "repo": "iroh-ssh-android",
             "stars": 25,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T05:21:06.042Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Datum",
+          "description": "Expose local services to the internet.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A desktop app for safely exposing local services on the Internet via Iroh tunnels using QUIC. Built in rust.",
+            "homepage": "https://datum.net",
+            "id": 1073754335,
+            "language": "Rust",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-10-01T16:06:23Z",
+            "open_issues": 17,
+            "owner": "datum-cloud",
+            "repo": "app",
+            "stars": 16,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
@@ -589,27 +610,6 @@
         },
         {
           "node_type": "item",
-          "title": "Datum",
-          "description": "Expose local services to the internet.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A desktop app for safely exposing local services on the Internet via Iroh tunnels using QUIC. Built in rust.",
-            "homepage": "https://datum.net",
-            "id": 1073754335,
-            "language": "Rust",
-            "license": "AGPL-3.0",
-            "last_commit": "2026-10-01T00:01:21Z",
-            "open_issues": 17,
-            "owner": "datum-cloud",
-            "repo": "app",
-            "stars": 15,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T05:21:06.042Z"
-        },
-        {
-          "node_type": "item",
           "title": "locho",
           "description": "Local + echo = locho: Access a private service on another machine as if it were local.",
           "children": [],
@@ -624,7 +624,7 @@
             "open_issues": 1,
             "owner": "trchopan",
             "repo": "locho",
-            "stars": 7,
+            "stars": 8,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
@@ -693,7 +693,7 @@
             "open_issues": 48,
             "owner": "tonyantony300",
             "repo": "dashbeam",
-            "stars": 9800,
+            "stars": 9803,
             "topics": [
               "android",
               "file-transfer",
@@ -727,7 +727,7 @@
             "open_issues": 42,
             "owner": "n0-computer",
             "repo": "sendme",
-            "stars": 1198,
+            "stars": 1199,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
@@ -1037,8 +1037,8 @@
             "id": 303450750,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-09-30T17:48:33Z",
-            "open_issues": 187,
+            "last_commit": "2026-10-01T09:42:33Z",
+            "open_issues": 190,
             "owner": "p2panda",
             "repo": "p2panda",
             "stars": 573,
@@ -1093,8 +1093,8 @@
             "id": 959767628,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-30T15:04:16Z",
-            "open_issues": 20,
+            "last_commit": "2026-10-01T12:18:32Z",
+            "open_issues": 23,
             "owner": "n0-computer",
             "repo": "irpc",
             "stars": 57,
@@ -1208,7 +1208,7 @@
             "open_issues": 80,
             "owner": "fishfolk",
             "repo": "jumpy",
-            "stars": 1882,
+            "stars": 1884,
             "topics": [
               "bevy",
               "editor",
@@ -1240,7 +1240,7 @@
             "open_issues": 65,
             "owner": "fishfolk",
             "repo": "bones",
-            "stars": 312,
+            "stars": 313,
             "topics": [
               "bevy",
               "bones",
@@ -1297,7 +1297,7 @@
             "open_issues": 7,
             "owner": "tipragot",
             "repo": "godot-iroh",
-            "stars": 113,
+            "stars": 114,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
@@ -1381,6 +1381,34 @@
             ]
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Bru",
+          "description": "Read and send your phone's SMS, and sync clipboard text, from your desktop.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Link your android phone to your computer. Send SMSes from desktop, share copy pasted text etc. ",
+            "homepage": "https://bru.works",
+            "id": 1313581695,
+            "language": "Kotlin",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-01T19:48:04Z",
+            "open_issues": 0,
+            "owner": "sverrejb",
+            "repo": "bru",
+            "stars": 8,
+            "topics": [
+              "android",
+              "clipboard",
+              "iroh",
+              "phone",
+              "sms",
+              "sync"
+            ]
+          },
+          "first_seen": "2026-10-02T00:43:42.535Z"
         }
       ],
       "title": "Social Media"
@@ -1457,11 +1485,11 @@
             "id": 369010411,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-30T23:40:22Z",
-            "open_issues": 408,
+            "last_commit": "2026-10-02T00:20:02Z",
+            "open_issues": 407,
             "owner": "fedimint",
             "repo": "fedimint",
-            "stars": 699,
+            "stars": 700,
             "topics": [
               "bitcoin",
               "e-cash",
@@ -1545,7 +1573,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T00:31:15.697Z",
+    "last_updated": "2026-10-02T00:43:42.535Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome stuff built on & with iroh",
@@ -1553,8 +1581,8 @@
       "id": 874866049,
       "language": null,
       "license": "NOASSERTION",
-      "last_commit": "2026-09-13T18:33:06Z",
-      "open_issues": 4,
+      "last_commit": "2026-10-01T15:43:01Z",
+      "open_issues": 3,
       "owner": "n0-computer",
       "repo": "awesome-iroh",
       "stars": 561,
@@ -1573,7 +1601,7 @@
         "windows"
       ]
     },
-    "original_repository_sha": "55859f17f67c75361f56082c53f12334c6cef82f",
+    "original_repository_sha": "3cfcefa2c4fef4fecc86e55ed8aef26a619f22a1",
     "enhanced_repository": "enhansome/enhansome-iroh",
     "enhanced_repository_description": null,
     "title": "Awesome Iroh with stars"

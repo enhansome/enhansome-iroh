@@ -53,7 +53,7 @@ Projects & resources building with iroh!
 ## Audio/Video
 
 * [Aster](https://github.com/fractalbeauty/aster) ⭐ 63 | 🐛 0 | 🌐 Rust | 📅 2026-06-18 - Local-first peer-to-peer music streaming prototype.
-* [Telepathy](https://github.com/chanderlud/telepathy) ⭐ 24 | 🐛 26 | 🌐 Rust | 📅 2026-08-09 - Cross-platform real time communication with Iroh networking.
+* [Telepathy](https://github.com/chanderlud/telepathy) ⭐ 25 | 🐛 26 | 🌐 Rust | 📅 2026-08-09 - Cross-platform real time communication with Iroh networking.
 
 ## Archiving
 
@@ -66,33 +66,33 @@ Projects & resources building with iroh!
 
 ## Collaboration and Productivity
 
-* [Teamtype](https://github.com/teamtype/teamtype) ⭐ 1,930 | 🐛 111 | 🌐 Rust | 📅 2026-09-30 - Editor-agnostic, real-time collaborative editing of local text files.
+* [Teamtype](https://github.com/teamtype/teamtype) ⭐ 1,933 | 🐛 112 | 🌐 Rust | 📅 2026-10-01 - Editor-agnostic, real-time collaborative editing of local text files.
 * [Zeco](https://github.com/julianbuettner/zeco) ⭐ 80 | 🐛 0 | 🌐 Rust | 📅 2026-09-12 - Share zellij sessions via the internet (using iroh).
 * [p2pmux](https://github.com/pelazas/p2pmux) ⭐ 72 | 🐛 2 | 🌐 Rust | 📅 2026-09-19 - Terminal multiplexer where every pane is a PTY on its owner's own machine.
-* [linXiv](https://github.com/linxiv-dev/linXiv) ⭐ 55 | 🐛 32 | 🌐 Rust | 📅 2026-09-29 - Local-first academic paper manager with p2p sharing enabled using iroh.
+* [linXiv](https://github.com/linxiv-dev/linXiv) ⭐ 55 | 🐛 31 | 🌐 Rust | 📅 2026-10-01 - Local-first academic paper manager with p2p sharing enabled using iroh.
 * [biter](https://github.com/LukeDSchenk/biter) ⭐ 11 | 🐛 7 | 🌐 Rust | 📅 2026-02-05 - Synchronize device clipboards via iroh.
 
 ## DevTools
 
 * [Dumbpipe](https://github.com/n0-computer/dumbpipe) ⭐ 785 | 🐛 33 | 🌐 Rust | 📅 2026-09-25 - Cross-device unix pipe.
-* [Rayfish](https://github.com/rayfish/rayfish) ⭐ 713 | 🐛 74 | 🌐 Rust | 📅 2026-09-30 - A P2P mesh VPN that connects peers by cryptographic identity instead of IP address.
-* [Codux](https://github.com/duxweb/codux) ⭐ 463 | 🐛 49 | 🌐 Rust | 📅 2026-07-21 - A native connected terminal for AI coding agents, using iroh for encrypted peer-to-peer control across desktop, mobile, and headless hosts.
+* [Rayfish](https://github.com/rayfish/rayfish) ⭐ 716 | 🐛 75 | 🌐 Rust | 📅 2026-10-01 - A P2P mesh VPN that connects peers by cryptographic identity instead of IP address.
+* [Codux](https://github.com/duxweb/codux) ⭐ 465 | 🐛 49 | 🌐 Rust | 📅 2026-07-21 - A native connected terminal for AI coding agents, using iroh for encrypted peer-to-peer control across desktop, mobile, and headless hosts.
 * [iroh-ssh](https://github.com/rustonbsd/iroh-ssh) ⭐ 294 | 🐛 12 | 🌐 Rust | 📅 2026-06-24 - SSH to any machine without ip.
 * [cross.stream](https://github.com/cablehead/xs) ⭐ 226 | 🐛 16 | 🌐 Rust | 📅 2026-09-29 - Local-first event streaming for reactive workflows, with P2P sharing via Iroh.
-* [Tunnet](https://github.com/tunnetio/Tunnet) ⭐ 195 | 🐛 5 | 🌐 Rust | 📅 2026-09-30 - Open-source mesh networking platform that scales from direct p2p connections for individuals to fully managed deployments for large organizations.
-* [pai-sho](https://github.com/cablehead/pai-sho) ⭐ 88 | 🐛 1 | 🌐 Rust | 📅 2026-09-10 - P2P TCP port forwarding: dumbpipe, but multiple ports, and it reconnects.
+* [Tunnet](https://github.com/tunnetio/Tunnet) ⭐ 196 | 🐛 5 | 🌐 Rust | 📅 2026-09-30 - Open-source mesh networking platform that scales from direct p2p connections for individuals to fully managed deployments for large organizations.
+* [pai-sho](https://github.com/cablehead/pai-sho) ⭐ 88 | 🐛 1 | 🌐 Rust | 📅 2026-10-01 - P2P TCP port forwarding: dumbpipe, but multiple ports, and it reconnects.
 * [do-ssh](https://github.com/doEggi/do-ssh) ⚠️ Archived - Tunnels an ssh-connection over iroh.
 * [koh](https://github.com/gold-silver-copper/koh) ⭐ 34 | 🐛 1 | 🌐 HTML | 📅 2026-09-28 - A remote shell inspired by mosh. Serve and connect from anywhere, survive network changes, no port forwarding required.
-* [iroh-ssh-android](https://github.com/futpib/iroh-ssh-android) ⭐ 25 | 🐛 1 | 🌐 Dart | 📅 2026-08-28 - Android SSH client for hosts running iroh-ssh (and OpenSSH too).
+* [iroh-ssh-android](https://github.com/futpib/iroh-ssh-android) ⭐ 25 | 🐛 1 | 🌐 Dart | 📅 2026-10-01 - Android SSH client for hosts running iroh-ssh (and OpenSSH too).
+* [Datum](https://github.com/datum-cloud/app) ⭐ 16 | 🐛 17 | 🌐 Rust | 📅 2026-10-01 - Expose local services to the internet.
 * [Edky](https://github.com/artob/edky) ⭐ 16 | 🐛 7 | 🌐 Rust | 📅 2026-09-21 - Convert Ed25519 public keys between various encoding formats (iroh, libp2p, IPFS, OpenSSH, etc).
-* [Datum](https://github.com/datum-cloud/app) ⭐ 15 | 🐛 17 | 🌐 Rust | 📅 2026-10-01 - Expose local services to the internet.
-* [locho](https://github.com/trchopan/locho) ⭐ 7 | 🐛 1 | 🌐 Rust | 📅 2026-09-30 - Local + echo = locho: Access a private service on another machine as if it were local.
+* [locho](https://github.com/trchopan/locho) ⭐ 8 | 🐛 1 | 🌐 Rust | 📅 2026-09-30 - Local + echo = locho: Access a private service on another machine as if it were local.
 * [Resilum Core](https://github.com/Resilum/resilum-core) ⭐ 6 | 🐛 3 | 🌐 Rust | 📅 2026-09-15 - Multi-transport Reticulum node: one peer identity across Tor, I2P, Yggdrasil, BLE and iroh/QUIC, with LXMF messaging and SOCKS5 egress.
 
 ## File Sharing
 
-* [Alt-sendme](https://github.com/tonyantony300/alt-sendme) ⭐ 9,800 | 🐛 48 | 🌐 TypeScript | 📅 2026-09-01 - A cross-platform desktop application for file sharing, built with Tauri.
-* [Sendme](https://github.com/n0-computer/sendme) ⭐ 1,198 | 🐛 42 | 🌐 Rust | 📅 2026-09-25 - A tool to send files and directories, based on iroh.
+* [Alt-sendme](https://github.com/tonyantony300/alt-sendme) ⭐ 9,803 | 🐛 48 | 🌐 TypeScript | 📅 2026-09-01 - A cross-platform desktop application for file sharing, built with Tauri.
+* [Sendme](https://github.com/n0-computer/sendme) ⭐ 1,199 | 🐛 42 | 🌐 Rust | 📅 2026-09-25 - A tool to send files and directories, based on iroh.
 * [lis](https://github.com/riffcc/lis) ⭐ 36 | 🐛 16 | 🌐 Rust | 📅 2025-08-13 - Life is short, but data should live forever.
 * [Rust Patcher](https://github.com/rustonbsd/rustpatcher) ⭐ 30 | 🐛 0 | 🌐 Rust | 📅 2025-10-26 - Secure Decentralized Software updates.
 * [Dropwire](https://github.com/muhamadjawdatsalemalakoum/dropwire) ⭐ 29 | 🐛 11 | 🌐 Rust | 📅 2026-09-30 - Send any file directly between devices, end-to-end encrypted and resumable, with no account and no server.
@@ -110,12 +110,12 @@ Projects & resources building with iroh!
 
 ## Frameworks
 
-* [p2panda](https://github.com/p2panda/p2panda) ⭐ 573 | 🐛 187 | 🌐 Rust | 📅 2026-09-30 - Building blocks for peer-to-peer applications.
+* [p2panda](https://github.com/p2panda/p2panda) ⭐ 573 | 🐛 190 | 🌐 Rust | 📅 2026-10-01 - Building blocks for peer-to-peer applications.
 * [Peernet](https://github.com/dvc94ch/peernet) ⭐ 61 | 🐛 1 | 🌐 Rust | 📅 2025-03-22 - Easy & reliable p2p networking.
 
 ## Libraries and protocols
 
-* [irpc](https://github.com/n0-computer/irpc) ⭐ 57 | 🐛 20 | 🌐 Rust | 📅 2026-09-30 - RPC for memory, quinn or iroh connections.
+* [irpc](https://github.com/n0-computer/irpc) ⭐ 57 | 🐛 23 | 🌐 Rust | 📅 2026-10-01 - RPC for memory, quinn or iroh connections.
 * [distributed-topic-tracker](https://github.com/rustonbsd/distributed-topic-tracker) ⭐ 41 | 🐛 1 | 🌐 Rust | 📅 2026-06-15 - Iroh-gossip with auto discovery (no servers!)
 * [iroh-rings](https://github.com/rikettsie/iroh-rings) ⭐ 20 | 🐛 1 | 🌐 Rust | 📅 2026-09-25 - A relationship-based access control protocol for resources over iroh.
 * [imsg](https://github.com/n0-computer/imsg) ⭐ 15 | 🐛 0 | 🌐 Rust | 📅 2025-08-22 🧪 - A base protocol providing streams of messages.
@@ -123,10 +123,10 @@ Projects & resources building with iroh!
 
 ## Games and 3D
 
-* [Fish Folk: Jumpy](https://github.com/fishfolk/jumpy) ⭐ 1,882 | 🐛 80 | 🌐 Rust | 📅 2026-01-30 - Tactical 2D shooter in fishy pixels style. Made with Rust-lang 🦀, built on Bones.
-* [Bones](https://github.com/fishfolk/bones) ⭐ 312 | 🐛 65 | 🌐 Rust | 📅 2026-04-24 - An easy-to-use game engine for making real games, networked with iroh.
+* [Fish Folk: Jumpy](https://github.com/fishfolk/jumpy) ⭐ 1,884 | 🐛 80 | 🌐 Rust | 📅 2026-01-30 - Tactical 2D shooter in fishy pixels style. Made with Rust-lang 🦀, built on Bones.
+* [Bones](https://github.com/fishfolk/bones) ⭐ 313 | 🐛 65 | 🌐 Rust | 📅 2026-04-24 - An easy-to-use game engine for making real games, networked with iroh.
 * [iroh-lan](https://github.com/rustonbsd/iroh-lan) ⭐ 224 | 🐛 9 | 🌐 Rust | 📅 2026-07-26 - Have a lan party with iroh (iroh-lan = hamachi - account - install).
-* [Godot Iroh](https://github.com/tipragot/godot-iroh) ⭐ 113 | 🐛 7 | 🌐 Rust | 📅 2026-09-27 - A peer-to-peer multiplayer extension for Godot based on iroh.
+* [Godot Iroh](https://github.com/tipragot/godot-iroh) ⭐ 114 | 🐛 7 | 🌐 Rust | 📅 2026-09-27 - A peer-to-peer multiplayer extension for Godot based on iroh.
 * [USD Renderer](https://github.com/expenses/usd-render) ⭐ 6 | 🐛 0 | 🌐 Rust | 📅 2024-02-21 - Universal Scene Description Render, linked with iroh.
 
 ## Internet of Things
@@ -137,6 +137,7 @@ Projects & resources building with iroh!
 
 * [Tauri + Leptos + Tailwind CSS + Iroh + Keyhive/Beelay](https://github.com/Zyell/beelay-iroh-chat) ⭐ 34 | 🐛 0 | 🌐 Rust | 📅 2025-06-17 - Proof of concept chat app combining automerge keyhive/beelay, iroh and tauri.
 * [Tauri Chat Example](https://github.com/jamessizeland/peer-to-peer) ⭐ 20 | 🐛 3 | 🌐 TypeScript | 📅 2025-06-14 - Example cross-platform chat app demo, using Tauri v2 & React.
+* [Bru](https://github.com/sverrejb/bru) ⭐ 8 | 🐛 0 | 🌐 Kotlin | 📅 2026-10-01 - Read and send your phone's SMS, and sync clipboard text, from your desktop.
 * [Dash Chat](https://darksoil.studio) - Secure Chat for Internet Shutdowns.
 * [Delta Chat](https://delta.chat) - A decentralized and secure messenger app.
 * [Weird](https://weird.one/) - A way to be on the web.
@@ -149,7 +150,7 @@ Projects & resources building with iroh!
 
 ## Web3
 
-* [Fedimint](https://github.com/fedimint/fedimint) ⭐ 699 | 🐛 408 | 🌐 Rust | 📅 2026-09-30 - Federated E-Cash Mint.
+* [Fedimint](https://github.com/fedimint/fedimint) ⭐ 700 | 🐛 407 | 🌐 Rust | 📅 2026-10-02 - Federated E-Cash Mint.
 * [Recall](https://github.com/recallnet/ipc) ⭐ 37 | 🐛 66 | 🌐 Rust | 📅 2025-06-18 - Lets any agent prove, refine, and earn from their intelligence, onchain.
 * [Analog](https://github.com/Analog-Labs/timechain) ⭐ 12 | 🐛 24 | 🌐 Rust | 📅 2026-03-26 - An omnichain network powered by Proof of Time.
 * [Thresh](https://github.com/rodrigomd94/Thresh) ⭐ 3 | 🐛 0 | 🌐 Rust | 📅 2025-08-29 - A Desktop Cardano Wallet.
@@ -179,8 +180,8 @@ Projects & resources building with iroh!
 
 ### Contributors
 
-[Thanks goes to these contributors](https://github.com/n0-computer/awesome-iroh/graphs/contributors) ⭐ 561 | 🐛 4 | 📅 2026-09-13!
+[Thanks goes to these contributors](https://github.com/n0-computer/awesome-iroh/graphs/contributors) ⭐ 561 | 🐛 3 | 📅 2026-10-01!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
