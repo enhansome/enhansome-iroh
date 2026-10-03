@@ -305,7 +305,7 @@
             "open_issues": 33,
             "owner": "n0-computer",
             "repo": "dumbpipe",
-            "stars": 787,
+            "stars": 788,
             "topics": [
               "holepunching",
               "magic",
@@ -327,7 +327,7 @@
             "language": "Rust",
             "license": "MPL-2.0",
             "last_commit": "2026-10-02T20:18:18Z",
-            "open_issues": 74,
+            "open_issues": 75,
             "owner": "rayfish",
             "repo": "rayfish",
             "stars": 716,
@@ -645,7 +645,7 @@
             "open_issues": 3,
             "owner": "Resilum",
             "repo": "resilum-core",
-            "stars": 6,
+            "stars": 7,
             "topics": [
               "android",
               "anonymity",
@@ -693,7 +693,7 @@
             "open_issues": 48,
             "owner": "tonyantony300",
             "repo": "dashbeam",
-            "stars": 9810,
+            "stars": 9812,
             "topics": [
               "android",
               "file-transfer",
@@ -1573,7 +1573,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:26:33.223Z",
+    "last_updated": "2026-10-03T04:50:17.268Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome stuff built on & with iroh",
@@ -1585,7 +1585,7 @@
       "open_issues": 3,
       "owner": "n0-computer",
       "repo": "awesome-iroh",
-      "stars": 561,
+      "stars": 562,
       "topics": [
         "android",
         "awesome",
