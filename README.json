@@ -19,7 +19,7 @@
             "open_issues": 138,
             "owner": "PsycheFoundation",
             "repo": "nousnet",
-            "stars": 966,
+            "stars": 967,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "PrimeIntellect-ai",
             "repo": "protocol",
-            "stars": 140,
+            "stars": 139,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
@@ -153,11 +153,11 @@
             "id": 745032548,
             "language": "Rust",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-01T20:22:56Z",
+            "last_commit": "2026-10-02T17:40:50Z",
             "open_issues": 112,
             "owner": "teamtype",
             "repo": "teamtype",
-            "stars": 1933,
+            "stars": 1934,
             "topics": [
               "automerge",
               "collaboration",
@@ -243,7 +243,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-10-01T18:23:15Z",
-            "open_issues": 31,
+            "open_issues": 32,
             "owner": "linxiv-dev",
             "repo": "linXiv",
             "stars": 55,
@@ -305,7 +305,7 @@
             "open_issues": 33,
             "owner": "n0-computer",
             "repo": "dumbpipe",
-            "stars": 785,
+            "stars": 787,
             "topics": [
               "holepunching",
               "magic",
@@ -326,8 +326,8 @@
             "id": 1277104302,
             "language": "Rust",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-01T18:52:47Z",
-            "open_issues": 75,
+            "last_commit": "2026-10-02T20:18:18Z",
+            "open_issues": 74,
             "owner": "rayfish",
             "repo": "rayfish",
             "stars": 716,
@@ -382,7 +382,7 @@
             "open_issues": 12,
             "owner": "rustonbsd",
             "repo": "iroh-ssh",
-            "stars": 294,
+            "stars": 296,
             "topics": [
               "iroh",
               "p2p",
@@ -407,7 +407,7 @@
             "open_issues": 16,
             "owner": "cablehead",
             "repo": "xs",
-            "stars": 226,
+            "stars": 227,
             "topics": [
               "cli",
               "content-addressed-storage",
@@ -445,7 +445,7 @@
             "open_issues": 5,
             "owner": "tunnetio",
             "repo": "Tunnet",
-            "stars": 196,
+            "stars": 197,
             "topics": [
               "mesh-networks",
               "networking",
@@ -522,8 +522,8 @@
             "id": 1275962946,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-09-28T11:13:23Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-02T03:26:25Z",
+            "open_issues": 0,
             "owner": "gold-silver-copper",
             "repo": "koh",
             "stars": 34,
@@ -563,6 +563,32 @@
         },
         {
           "node_type": "item",
+          "title": "Edky",
+          "description": "Convert Ed25519 public keys between various encoding formats (iroh, libp2p, IPFS, OpenSSH, etc).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "🦀 Convert Ed25519 public keys between various encoding formats such as Base16, Base32z, Base58, Base64, Multibase, and OpenSSH.",
+            "homepage": "https://edky.dev",
+            "id": 1297262676,
+            "language": "Rust",
+            "license": "Unlicense",
+            "last_commit": "2026-09-21T14:10:50Z",
+            "open_issues": 7,
+            "owner": "artob",
+            "repo": "edky",
+            "stars": 17,
+            "topics": [
+              "cryptography",
+              "cryptography-tools",
+              "curve25519",
+              "ed25119"
+            ]
+          },
+          "first_seen": "2026-08-28T05:21:06.042Z"
+        },
+        {
+          "node_type": "item",
           "title": "Datum",
           "description": "Expose local services to the internet.",
           "children": [],
@@ -579,32 +605,6 @@
             "repo": "app",
             "stars": 16,
             "topics": []
-          },
-          "first_seen": "2026-08-28T05:21:06.042Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Edky",
-          "description": "Convert Ed25519 public keys between various encoding formats (iroh, libp2p, IPFS, OpenSSH, etc).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🦀 Convert Ed25519 public keys between various encoding formats such as Base16, Base32z, Base58, Base64, Multibase, and OpenSSH.",
-            "homepage": "https://edky.dev",
-            "id": 1297262676,
-            "language": "Rust",
-            "license": "Unlicense",
-            "last_commit": "2026-09-21T14:10:50Z",
-            "open_issues": 7,
-            "owner": "artob",
-            "repo": "edky",
-            "stars": 16,
-            "topics": [
-              "cryptography",
-              "cryptography-tools",
-              "curve25519",
-              "ed25119"
-            ]
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         },
@@ -693,7 +693,7 @@
             "open_issues": 48,
             "owner": "tonyantony300",
             "repo": "dashbeam",
-            "stars": 9803,
+            "stars": 9810,
             "topics": [
               "android",
               "file-transfer",
@@ -727,7 +727,7 @@
             "open_issues": 42,
             "owner": "n0-computer",
             "repo": "sendme",
-            "stars": 1199,
+            "stars": 1200,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
@@ -868,7 +868,7 @@
             "id": 1224941583,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-09-06T10:41:10Z",
+            "last_commit": "2026-10-02T01:13:22Z",
             "open_issues": 2,
             "owner": "maxomatic458",
             "repo": "fsend",
@@ -1037,8 +1037,8 @@
             "id": 303450750,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-10-01T09:42:33Z",
-            "open_issues": 190,
+            "last_commit": "2026-10-02T08:31:47Z",
+            "open_issues": 184,
             "owner": "p2panda",
             "repo": "p2panda",
             "stars": 573,
@@ -1093,8 +1093,8 @@
             "id": 959767628,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T12:18:32Z",
-            "open_issues": 23,
+            "last_commit": "2026-10-02T12:27:11Z",
+            "open_issues": 21,
             "owner": "n0-computer",
             "repo": "irpc",
             "stars": 57,
@@ -1485,7 +1485,7 @@
             "id": 369010411,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-02T00:20:02Z",
+            "last_commit": "2026-10-02T22:34:07Z",
             "open_issues": 407,
             "owner": "fedimint",
             "repo": "fedimint",
@@ -1573,7 +1573,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T00:43:42.535Z",
+    "last_updated": "2026-10-03T00:26:33.223Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome stuff built on & with iroh",
