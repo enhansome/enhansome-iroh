@@ -153,8 +153,8 @@
             "id": 745032548,
             "language": "Rust",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-06T10:01:09Z",
-            "open_issues": 113,
+            "last_commit": "2026-10-06T11:33:23Z",
+            "open_issues": 111,
             "owner": "teamtype",
             "repo": "teamtype",
             "stars": 1933,
@@ -242,8 +242,8 @@
             "id": 1193164114,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T00:05:01Z",
-            "open_issues": 31,
+            "last_commit": "2026-10-06T23:20:03Z",
+            "open_issues": 32,
             "owner": "linxiv-dev",
             "repo": "linXiv",
             "stars": 56,
@@ -305,7 +305,7 @@
             "open_issues": 33,
             "owner": "n0-computer",
             "repo": "dumbpipe",
-            "stars": 791,
+            "stars": 790,
             "topics": [
               "holepunching",
               "magic",
@@ -326,11 +326,11 @@
             "id": 1277104302,
             "language": "Rust",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-06T08:23:55Z",
-            "open_issues": 77,
+            "last_commit": "2026-10-07T00:26:37Z",
+            "open_issues": 75,
             "owner": "rayfish",
             "repo": "rayfish",
-            "stars": 720,
+            "stars": 721,
             "topics": [
               "cross-platform",
               "ipv6",
@@ -361,7 +361,7 @@
             "open_issues": 49,
             "owner": "duxweb",
             "repo": "codux",
-            "stars": 464,
+            "stars": 465,
             "topics": [
               "ai-tools",
               "rust",
@@ -386,7 +386,7 @@
             "open_issues": 11,
             "owner": "rustonbsd",
             "repo": "iroh-ssh",
-            "stars": 318,
+            "stars": 320,
             "topics": [
               "iroh",
               "p2p",
@@ -530,7 +530,7 @@
             "open_issues": 0,
             "owner": "gold-silver-copper",
             "repo": "koh",
-            "stars": 34,
+            "stars": 35,
             "topics": [
               "iroh",
               "mobile-shell",
@@ -556,7 +556,7 @@
             "id": 1166001734,
             "language": "Dart",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-04T02:37:38Z",
+            "last_commit": "2026-10-06T23:52:45Z",
             "open_issues": 0,
             "owner": "futpib",
             "repo": "iroh-ssh-android",
@@ -1041,8 +1041,8 @@
             "id": 303450750,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-10-06T10:12:25Z",
-            "open_issues": 200,
+            "last_commit": "2026-10-06T13:50:05Z",
+            "open_issues": 198,
             "owner": "p2panda",
             "repo": "p2panda",
             "stars": 577,
@@ -1097,8 +1097,8 @@
             "id": 959767628,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T08:51:25Z",
-            "open_issues": 23,
+            "last_commit": "2026-10-06T11:01:50Z",
+            "open_issues": 22,
             "owner": "n0-computer",
             "repo": "irpc",
             "stars": 57,
@@ -1189,6 +1189,27 @@
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
+        },
+        {
+          "node_type": "item",
+          "title": "iroh-lighthouse",
+          "description": "A self-hostable rendezvous server for topic based peer discovery.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A beacon for Iroh clusters.",
+            "homepage": null,
+            "id": 1369744791,
+            "language": "Rust",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-02T09:25:50Z",
+            "open_issues": 0,
+            "owner": "Jezza",
+            "repo": "iroh-lighthouse",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-10-07T00:38:46.780Z"
         }
       ],
       "title": "Libraries and protocols"
@@ -1212,7 +1233,7 @@
             "open_issues": 80,
             "owner": "fishfolk",
             "repo": "jumpy",
-            "stars": 1885,
+            "stars": 1884,
             "topics": [
               "bevy",
               "editor",
@@ -1280,7 +1301,7 @@
             "open_issues": 9,
             "owner": "rustonbsd",
             "repo": "iroh-lan",
-            "stars": 224,
+            "stars": 225,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
@@ -1393,16 +1414,16 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Link your android phone to your computer. Send SMSes from desktop, share copy pasted text etc. ",
+            "description": "Link your android phone to your computer. Send SMSes from desktop, share copy pasted text, send files etc",
             "homepage": "https://bru.works",
             "id": 1313581695,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T08:52:52Z",
+            "last_commit": "2026-10-06T12:13:30Z",
             "open_issues": 1,
             "owner": "sverrejb",
             "repo": "bru",
-            "stars": 10,
+            "stars": 11,
             "topics": [
               "android",
               "clipboard",
@@ -1489,8 +1510,8 @@
             "id": 369010411,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-06T04:37:44Z",
-            "open_issues": 409,
+            "last_commit": "2026-10-06T14:05:53Z",
+            "open_issues": 415,
             "owner": "fedimint",
             "repo": "fedimint",
             "stars": 701,
@@ -1577,7 +1598,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:44:09.654Z",
+    "last_updated": "2026-10-07T00:38:46.780Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome stuff built on & with iroh",
@@ -1585,8 +1606,8 @@
       "id": 874866049,
       "language": null,
       "license": "NOASSERTION",
-      "last_commit": "2026-10-01T15:43:01Z",
-      "open_issues": 5,
+      "last_commit": "2026-10-06T17:44:56Z",
+      "open_issues": 3,
       "owner": "n0-computer",
       "repo": "awesome-iroh",
       "stars": 565,
@@ -1605,7 +1626,7 @@
         "windows"
       ]
     },
-    "original_repository_sha": "3cfcefa2c4fef4fecc86e55ed8aef26a619f22a1",
+    "original_repository_sha": "5150ec506b82a808537f60e068bfab0d29945146",
     "enhanced_repository": "enhansome/enhansome-iroh",
     "enhanced_repository_description": null,
     "title": "Awesome Iroh with stars"
