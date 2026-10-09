@@ -19,7 +19,7 @@
             "open_issues": 138,
             "owner": "PsycheFoundation",
             "repo": "nousnet",
-            "stars": 971,
+            "stars": 972,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
@@ -134,9 +134,107 @@
             ]
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
+        },
+        {
+          "node_type": "item",
+          "title": "OpusVoice",
+          "description": "Android and browser Opus voice streaming with Pinhole sessions and native Iroh address and relay interoperability.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Ultra low-latency VoIP microphone streaming to IP:Port using WebRTC Opus RTP",
+            "homepage": null,
+            "id": 1407648691,
+            "language": "Kotlin",
+            "license": null,
+            "last_commit": "2026-10-08T16:34:39Z",
+            "open_issues": 0,
+            "owner": "IAFahim",
+            "repo": "OpusVoice",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-10-09T01:11:04.538Z"
+        },
+        {
+          "node_type": "item",
+          "title": "OpusVoice.Receiver",
+          "description": "A C# RTP/Opus test sink that captures streams over UDP, WebSocket, and Pinhole/Iroh routes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Test sink for the OpusVoice Android app: RTP/Opus stream to file over Pinhole or plain UDP",
+            "homepage": null,
+            "id": 1407707831,
+            "language": "C#",
+            "license": null,
+            "last_commit": "2026-10-08T14:37:57Z",
+            "open_issues": 0,
+            "owner": "YouAnd-I",
+            "repo": "OpusVoice.Receiver",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-10-09T01:11:04.538Z"
         }
       ],
       "title": "Audio/Video"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Save DWeb Backend",
+          "description": "DWeb Backend for the Save app based on Veilid and Iroh.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "DWeb Backend for the Save app based on Veilid and Iroh",
+            "homepage": null,
+            "id": 811444150,
+            "language": "Rust",
+            "license": "GPL-3.0",
+            "last_commit": "2026-06-29T22:51:40Z",
+            "open_issues": 0,
+            "owner": "OpenArchive",
+            "repo": "save-dweb-backend",
+            "stars": 26,
+            "topics": []
+          },
+          "first_seen": "2026-10-09T01:11:04.538Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Backup Buddies",
+          "description": "Peer-to-peer file backups with local encryption, delta scans, and retained restore versions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Backup Buddies client: encrypted peer-to-peer backups to a buddy's device (GPL-3.0)",
+            "homepage": "https://app.filegarden.net",
+            "id": 1408759630,
+            "language": "Rust",
+            "license": "GPL-3.0",
+            "last_commit": "2026-10-08T13:40:17Z",
+            "open_issues": 0,
+            "owner": "mspencerl87",
+            "repo": "backup-buddies-client",
+            "stars": 0,
+            "topics": [
+              "backup",
+              "encryption",
+              "iroh",
+              "p2p-backup",
+              "peer-to-peer",
+              "rust",
+              "self-hosted"
+            ]
+          },
+          "first_seen": "2026-10-09T01:11:04.538Z"
+        }
+      ],
+      "title": "Archiving"
     },
     {
       "description": null,
@@ -157,7 +255,7 @@
             "open_issues": 111,
             "owner": "teamtype",
             "repo": "teamtype",
-            "stars": 1936,
+            "stars": 1937,
             "topics": [
               "automerge",
               "collaboration",
@@ -242,11 +340,11 @@
             "id": 1193164114,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-07T22:38:17Z",
+            "last_commit": "2026-10-08T17:32:18Z",
             "open_issues": 33,
             "owner": "linxiv-dev",
             "repo": "linXiv",
-            "stars": 56,
+            "stars": 57,
             "topics": [
               "arxiv",
               "arxiv-api",
@@ -301,11 +399,11 @@
             "id": 725706407,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-07T22:10:18Z",
-            "open_issues": 35,
+            "last_commit": "2026-10-08T20:53:56Z",
+            "open_issues": 34,
             "owner": "n0-computer",
             "repo": "dumbpipe",
-            "stars": 790,
+            "stars": 793,
             "topics": [
               "holepunching",
               "magic",
@@ -326,11 +424,11 @@
             "id": 1277104302,
             "language": "Rust",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-07T01:29:56Z",
-            "open_issues": 77,
+            "last_commit": "2026-10-08T16:01:30Z",
+            "open_issues": 78,
             "owner": "rayfish",
             "repo": "rayfish",
-            "stars": 725,
+            "stars": 728,
             "topics": [
               "cross-platform",
               "ipv6",
@@ -361,7 +459,7 @@
             "open_issues": 49,
             "owner": "duxweb",
             "repo": "codux",
-            "stars": 466,
+            "stars": 468,
             "topics": [
               "ai-tools",
               "rust",
@@ -386,7 +484,7 @@
             "open_issues": 11,
             "owner": "rustonbsd",
             "repo": "iroh-ssh",
-            "stars": 321,
+            "stars": 322,
             "topics": [
               "iroh",
               "p2p",
@@ -446,10 +544,10 @@
             "language": "Rust",
             "license": "NOASSERTION",
             "last_commit": "2026-09-30T10:21:50Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "tunnetio",
             "repo": "Tunnet",
-            "stars": 201,
+            "stars": 204,
             "topics": [
               "mesh-networks",
               "networking",
@@ -526,8 +624,8 @@
             "id": 1275962946,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-10-08T00:34:47Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-08T20:06:49Z",
+            "open_issues": 0,
             "owner": "gold-silver-copper",
             "repo": "koh",
             "stars": 36,
@@ -556,7 +654,7 @@
             "id": 1166001734,
             "language": "Dart",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-06T23:52:45Z",
+            "last_commit": "2026-10-08T20:53:46Z",
             "open_issues": 0,
             "owner": "futpib",
             "repo": "iroh-ssh-android",
@@ -697,7 +795,7 @@
             "open_issues": 48,
             "owner": "tonyantony300",
             "repo": "dashbeam",
-            "stars": 9855,
+            "stars": 9865,
             "topics": [
               "android",
               "file-transfer",
@@ -727,11 +825,11 @@
             "id": 730576320,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-07T20:20:26Z",
+            "last_commit": "2026-10-08T12:05:39Z",
             "open_issues": 38,
             "owner": "n0-computer",
             "repo": "sendme",
-            "stars": 1203,
+            "stars": 1204,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
@@ -1041,8 +1139,8 @@
             "id": 303450750,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-10-07T16:04:32Z",
-            "open_issues": 198,
+            "last_commit": "2026-10-08T17:28:50Z",
+            "open_issues": 192,
             "owner": "p2panda",
             "repo": "p2panda",
             "stars": 577,
@@ -1097,7 +1195,7 @@
             "id": 959767628,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-07T15:22:53Z",
+            "last_commit": "2026-10-08T12:05:59Z",
             "open_issues": 22,
             "owner": "n0-computer",
             "repo": "irpc",
@@ -1192,6 +1290,27 @@
         },
         {
           "node_type": "item",
+          "title": "iroh-http",
+          "description": "An HTTP-like request/response protocol over Iroh QUIC streams, with Rust, Node.js, and browser/WebAssembly adapters.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1407781866,
+            "language": "TypeScript",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-06T19:34:24Z",
+            "open_issues": 0,
+            "owner": "changesbyjames",
+            "repo": "iroh-http",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-10-09T01:11:04.538Z"
+        },
+        {
+          "node_type": "item",
           "title": "iroh-lighthouse",
           "description": "A self-hostable rendezvous server for topic based peer discovery.",
           "children": [],
@@ -1265,7 +1384,7 @@
             "open_issues": 65,
             "owner": "fishfolk",
             "repo": "bones",
-            "stars": 313,
+            "stars": 315,
             "topics": [
               "bevy",
               "bones",
@@ -1478,7 +1597,7 @@
             "open_issues": 10,
             "owner": "muhamadjawdatsalemalakoum",
             "repo": "kith",
-            "stars": 23,
+            "stars": 25,
             "topics": [
               "crdt",
               "end-to-end-encryption",
@@ -1491,6 +1610,27 @@
             ]
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Aurora",
+          "description": "A personal knowledge-management app for notes, tasks, and organizing ideas.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1318525604,
+            "language": "HTML",
+            "license": null,
+            "last_commit": "2026-10-09T00:23:28Z",
+            "open_issues": 0,
+            "owner": "Lizeyun8501",
+            "repo": "Aurora",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-10-09T01:11:04.538Z"
         }
       ],
       "title": "Tools for Thought"
@@ -1510,8 +1650,8 @@
             "id": 369010411,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-07T14:07:29Z",
-            "open_issues": 415,
+            "last_commit": "2026-10-09T01:01:04Z",
+            "open_issues": 414,
             "owner": "fedimint",
             "repo": "fedimint",
             "stars": 702,
@@ -1598,7 +1738,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T00:57:00.044Z",
+    "last_updated": "2026-10-09T01:11:04.538Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome stuff built on & with iroh",
@@ -1606,11 +1746,11 @@
       "id": 874866049,
       "language": null,
       "license": "NOASSERTION",
-      "last_commit": "2026-10-06T17:44:56Z",
-      "open_issues": 3,
+      "last_commit": "2026-10-08T16:53:37Z",
+      "open_issues": 20,
       "owner": "n0-computer",
       "repo": "awesome-iroh",
-      "stars": 566,
+      "stars": 568,
       "topics": [
         "android",
         "awesome",
@@ -1626,7 +1766,7 @@
         "windows"
       ]
     },
-    "original_repository_sha": "5150ec506b82a808537f60e068bfab0d29945146",
+    "original_repository_sha": "22f111f3e54bc959f4134bbb279bd1a7dc6ed795",
     "enhanced_repository": "enhansome/enhansome-iroh",
     "enhanced_repository_description": null,
     "title": "Awesome Iroh with stars"
