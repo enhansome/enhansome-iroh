@@ -109,7 +109,7 @@
             "open_issues": 27,
             "owner": "chanderlud",
             "repo": "telepathy",
-            "stars": 28,
+            "stars": 29,
             "topics": [
               "android",
               "audio",
@@ -216,8 +216,8 @@
             "id": 1310933035,
             "language": "Rust",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-10T12:20:33Z",
-            "open_issues": 95,
+            "last_commit": "2026-10-13T02:33:02Z",
+            "open_issues": 112,
             "owner": "hawkeye-xb",
             "repo": "P-Pass",
             "stars": 15,
@@ -257,7 +257,7 @@
             "id": 1408759630,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-11T23:41:53Z",
+            "last_commit": "2026-10-12T15:26:54Z",
             "open_issues": 0,
             "owner": "mspencerl87",
             "repo": "backup-buddies-client",
@@ -385,7 +385,7 @@
             "open_issues": 31,
             "owner": "linxiv-dev",
             "repo": "linXiv",
-            "stars": 58,
+            "stars": 59,
             "topics": [
               "arxiv",
               "arxiv-api",
@@ -441,7 +441,7 @@
             "language": "Rust",
             "license": "NOASSERTION",
             "last_commit": "2026-10-08T20:53:56Z",
-            "open_issues": 34,
+            "open_issues": 35,
             "owner": "n0-computer",
             "repo": "dumbpipe",
             "stars": 795,
@@ -465,11 +465,11 @@
             "id": 1277104302,
             "language": "Rust",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-10T14:09:50Z",
-            "open_issues": 77,
+            "last_commit": "2026-10-12T13:55:51Z",
+            "open_issues": 76,
             "owner": "rayfish",
             "repo": "rayfish",
-            "stars": 734,
+            "stars": 736,
             "topics": [
               "cross-platform",
               "ipv6",
@@ -500,7 +500,7 @@
             "open_issues": 49,
             "owner": "duxweb",
             "repo": "codux",
-            "stars": 464,
+            "stars": 466,
             "topics": [
               "ai-tools",
               "rust",
@@ -525,7 +525,7 @@
             "open_issues": 9,
             "owner": "rustonbsd",
             "repo": "iroh-ssh",
-            "stars": 323,
+            "stars": 324,
             "topics": [
               "iroh",
               "p2p",
@@ -663,10 +663,10 @@
             "description": "koh — peer-to-peer remote shell, inspired by mosh",
             "homepage": "https://docs.rs/koh",
             "id": 1275962946,
-            "language": "HTML",
+            "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-11T19:48:22Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-13T02:19:04Z",
+            "open_issues": 2,
             "owner": "gold-silver-copper",
             "repo": "koh",
             "stars": 36,
@@ -716,8 +716,8 @@
             "id": 1297262676,
             "language": "Rust",
             "license": "Unlicense",
-            "last_commit": "2026-09-21T14:10:50Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-12T22:38:36Z",
+            "open_issues": 8,
             "owner": "artob",
             "repo": "edky",
             "stars": 18,
@@ -746,7 +746,7 @@
             "open_issues": 16,
             "owner": "datum-cloud",
             "repo": "app",
-            "stars": 16,
+            "stars": 17,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
@@ -832,11 +832,11 @@
             "id": 1078137951,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-04T21:43:18Z",
-            "open_issues": 50,
+            "last_commit": "2026-10-12T17:28:09Z",
+            "open_issues": 42,
             "owner": "tonyantony300",
             "repo": "dashbeam",
-            "stars": 9883,
+            "stars": 9890,
             "topics": [
               "android",
               "file-transfer",
@@ -867,10 +867,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-10-09T08:06:50Z",
-            "open_issues": 37,
+            "open_issues": 36,
             "owner": "n0-computer",
             "repo": "sendme",
-            "stars": 1207,
+            "stars": 1208,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
@@ -898,6 +898,38 @@
         },
         {
           "node_type": "item",
+          "title": "Dropwire",
+          "description": "Send any file directly between devices, end-to-end encrypted and resumable, with no account and no server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Free, open-source, peer-to-peer file transfer — send any file straight between devices, end-to-end encrypted, resumable, with no account and no server holding your data. Built on iroh. Desktop apps for Windows, macOS & Linux.",
+            "homepage": "https://muhamadjawdatsalemalakoum.github.io/dropwire/",
+            "id": 1271413913,
+            "language": "Rust",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-12T22:55:49Z",
+            "open_issues": 12,
+            "owner": "muhamadjawdatsalemalakoum",
+            "repo": "dropwire",
+            "stars": 30,
+            "topics": [
+              "cross-platform",
+              "end-to-end-encryption",
+              "file-sharing",
+              "file-transfer",
+              "iroh",
+              "p2p",
+              "peer-to-peer",
+              "privacy",
+              "rust",
+              "tauri"
+            ]
+          },
+          "first_seen": "2026-08-28T05:21:06.042Z"
+        },
+        {
+          "node_type": "item",
           "title": "Rust Patcher",
           "description": "Secure Decentralized Software updates.",
           "children": [],
@@ -919,38 +951,6 @@
         },
         {
           "node_type": "item",
-          "title": "Dropwire",
-          "description": "Send any file directly between devices, end-to-end encrypted and resumable, with no account and no server.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Free, open-source, peer-to-peer file transfer — send any file straight between devices, end-to-end encrypted, resumable, with no account and no server holding your data. Built on iroh. Desktop apps for Windows, macOS & Linux.",
-            "homepage": "https://muhamadjawdatsalemalakoum.github.io/dropwire/",
-            "id": 1271413913,
-            "language": "Rust",
-            "license": "Apache-2.0",
-            "last_commit": "2026-09-30T15:52:35Z",
-            "open_issues": 11,
-            "owner": "muhamadjawdatsalemalakoum",
-            "repo": "dropwire",
-            "stars": 29,
-            "topics": [
-              "cross-platform",
-              "end-to-end-encryption",
-              "file-sharing",
-              "file-transfer",
-              "iroh",
-              "p2p",
-              "peer-to-peer",
-              "privacy",
-              "rust",
-              "tauri"
-            ]
-          },
-          "first_seen": "2026-08-28T05:21:06.042Z"
-        },
-        {
-          "node_type": "item",
           "title": "ringdrop",
           "description": "Frugal, daemonized P2P file transfer with ring-based access control, built on iroh and bao protocols.",
           "children": [],
@@ -965,7 +965,7 @@
             "open_issues": 5,
             "owner": "rikettsie",
             "repo": "ringdrop",
-            "stars": 25,
+            "stars": 26,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
@@ -995,6 +995,37 @@
               "p2p",
               "pake",
               "sendme"
+            ]
+          },
+          "first_seen": "2026-08-28T05:21:06.042Z"
+        },
+        {
+          "node_type": "item",
+          "title": "fsend",
+          "description": "Peer-to-peer file sharing webapp and cli tool, allows transferring of files and folders with resumable transfers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "peer-to-peer file sharing webapp and cli tool",
+            "homepage": "https://fsend.sh",
+            "id": 1224941583,
+            "language": "Rust",
+            "license": null,
+            "last_commit": "2026-10-05T04:20:55Z",
+            "open_issues": 2,
+            "owner": "maxomatic458",
+            "repo": "fsend",
+            "stars": 16,
+            "topics": [
+              "cli",
+              "p2p",
+              "peer-to-peer",
+              "quic",
+              "rust",
+              "rust-lang",
+              "solidjs",
+              "webrtc",
+              "website"
             ]
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
@@ -1038,37 +1069,6 @@
             "repo": "Drop-Desktop",
             "stars": 15,
             "topics": []
-          },
-          "first_seen": "2026-08-28T05:21:06.042Z"
-        },
-        {
-          "node_type": "item",
-          "title": "fsend",
-          "description": "Peer-to-peer file sharing webapp and cli tool, allows transferring of files and folders with resumable transfers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "peer-to-peer file sharing webapp and cli tool",
-            "homepage": "https://fsend.sh",
-            "id": 1224941583,
-            "language": "Rust",
-            "license": null,
-            "last_commit": "2026-10-05T04:20:55Z",
-            "open_issues": 2,
-            "owner": "maxomatic458",
-            "repo": "fsend",
-            "stars": 15,
-            "topics": [
-              "cli",
-              "p2p",
-              "peer-to-peer",
-              "quic",
-              "rust",
-              "rust-lang",
-              "solidjs",
-              "webrtc",
-              "website"
-            ]
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
         },
@@ -1180,11 +1180,11 @@
             "id": 303450750,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-10-10T21:32:10Z",
+            "last_commit": "2026-10-12T15:04:42Z",
             "open_issues": 199,
             "owner": "p2panda",
             "repo": "p2panda",
-            "stars": 578,
+            "stars": 579,
             "topics": [
               "access-control",
               "crdt",
@@ -1236,8 +1236,8 @@
             "id": 959767628,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-09T22:27:25Z",
-            "open_issues": 23,
+            "last_commit": "2026-10-12T16:58:56Z",
+            "open_issues": 22,
             "owner": "n0-computer",
             "repo": "irpc",
             "stars": 58,
@@ -1366,7 +1366,7 @@
             "open_issues": 0,
             "owner": "Jezza",
             "repo": "iroh-lighthouse",
-            "stars": 0,
+            "stars": 1,
             "topics": []
           },
           "first_seen": "2026-10-07T00:38:46.780Z"
@@ -1393,7 +1393,7 @@
             "open_issues": 80,
             "owner": "fishfolk",
             "repo": "jumpy",
-            "stars": 1884,
+            "stars": 1883,
             "topics": [
               "bevy",
               "editor",
@@ -1421,11 +1421,11 @@
             "id": 581287098,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-04-24T19:23:00Z",
-            "open_issues": 66,
+            "last_commit": "2026-10-12T16:04:05Z",
+            "open_issues": 69,
             "owner": "fishfolk",
             "repo": "bones",
-            "stars": 315,
+            "stars": 314,
             "topics": [
               "bevy",
               "bones",
@@ -1461,7 +1461,7 @@
             "open_issues": 9,
             "owner": "rustonbsd",
             "repo": "iroh-lan",
-            "stars": 225,
+            "stars": 224,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
@@ -1482,7 +1482,7 @@
             "open_issues": 8,
             "owner": "tipragot",
             "repo": "godot-iroh",
-            "stars": 114,
+            "stars": 115,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
@@ -1583,7 +1583,7 @@
             "open_issues": 1,
             "owner": "sverrejb",
             "repo": "bru",
-            "stars": 15,
+            "stars": 16,
             "topics": [
               "android",
               "clipboard",
@@ -1638,7 +1638,7 @@
             "open_issues": 10,
             "owner": "muhamadjawdatsalemalakoum",
             "repo": "kith",
-            "stars": 26,
+            "stars": 27,
             "topics": [
               "crdt",
               "end-to-end-encryption",
@@ -1664,7 +1664,7 @@
             "id": 1318525604,
             "language": "HTML",
             "license": null,
-            "last_commit": "2026-10-12T00:21:27Z",
+            "last_commit": "2026-10-13T00:22:54Z",
             "open_issues": 0,
             "owner": "Lizeyun8501",
             "repo": "Aurora",
@@ -1691,7 +1691,7 @@
             "id": 369010411,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-11T17:52:24Z",
+            "last_commit": "2026-10-12T20:42:36Z",
             "open_issues": 426,
             "owner": "fedimint",
             "repo": "fedimint",
@@ -1779,7 +1779,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T00:29:48.207Z",
+    "last_updated": "2026-10-13T02:33:15.318Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome stuff built on & with iroh",
