@@ -296,7 +296,7 @@
             "open_issues": 111,
             "owner": "teamtype",
             "repo": "teamtype",
-            "stars": 1944,
+            "stars": 1943,
             "topics": [
               "automerge",
               "collaboration",
@@ -344,7 +344,7 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-09-19T09:00:00Z",
-            "open_issues": 3,
+            "open_issues": 7,
             "owner": "pelazas",
             "repo": "p2pmux",
             "stars": 73,
@@ -381,8 +381,8 @@
             "id": 1193164114,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-17T17:58:52Z",
-            "open_issues": 32,
+            "last_commit": "2026-10-18T19:00:41Z",
+            "open_issues": 33,
             "owner": "linxiv-dev",
             "repo": "linXiv",
             "stars": 60,
@@ -465,11 +465,11 @@
             "id": 1277104302,
             "language": "Rust",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-17T23:03:16Z",
-            "open_issues": 85,
+            "last_commit": "2026-10-18T14:35:02Z",
+            "open_issues": 82,
             "owner": "rayfish",
             "repo": "rayfish",
-            "stars": 743,
+            "stars": 745,
             "topics": [
               "cross-platform",
               "ipv6",
@@ -500,7 +500,7 @@
             "open_issues": 49,
             "owner": "duxweb",
             "repo": "codux",
-            "stars": 470,
+            "stars": 472,
             "topics": [
               "ai-tools",
               "rust",
@@ -525,7 +525,7 @@
             "open_issues": 10,
             "owner": "rustonbsd",
             "repo": "iroh-ssh",
-            "stars": 325,
+            "stars": 326,
             "topics": [
               "iroh",
               "p2p",
@@ -588,7 +588,7 @@
             "open_issues": 7,
             "owner": "tunnetio",
             "repo": "Tunnet",
-            "stars": 213,
+            "stars": 214,
             "topics": [
               "mesh-networks",
               "networking",
@@ -665,7 +665,7 @@
             "id": 1275962946,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-13T06:46:09Z",
+            "last_commit": "2026-10-18T23:02:26Z",
             "open_issues": 1,
             "owner": "gold-silver-copper",
             "repo": "koh",
@@ -716,8 +716,8 @@
             "id": 1297262676,
             "language": "Rust",
             "license": "Unlicense",
-            "last_commit": "2026-10-14T12:06:48Z",
-            "open_issues": 8,
+            "last_commit": "2026-10-17T23:52:38Z",
+            "open_issues": 9,
             "owner": "artob",
             "repo": "edky",
             "stars": 18,
@@ -836,7 +836,7 @@
             "open_issues": 44,
             "owner": "tonyantony300",
             "repo": "dashbeam",
-            "stars": 9913,
+            "stars": 9999,
             "topics": [
               "android",
               "file-transfer",
@@ -870,7 +870,7 @@
             "open_issues": 32,
             "owner": "n0-computer",
             "repo": "sendme",
-            "stars": 1212,
+            "stars": 1215,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
@@ -962,7 +962,7 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-09-25T21:12:30Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "rikettsie",
             "repo": "ringdrop",
             "stars": 26,
@@ -1261,7 +1261,7 @@
             "open_issues": 1,
             "owner": "rustonbsd",
             "repo": "distributed-topic-tracker",
-            "stars": 42,
+            "stars": 43,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
@@ -1425,7 +1425,7 @@
             "open_issues": 69,
             "owner": "fishfolk",
             "repo": "bones",
-            "stars": 315,
+            "stars": 316,
             "topics": [
               "bevy",
               "bones",
@@ -1461,7 +1461,7 @@
             "open_issues": 9,
             "owner": "rustonbsd",
             "repo": "iroh-lan",
-            "stars": 225,
+            "stars": 226,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
@@ -1482,7 +1482,7 @@
             "open_issues": 9,
             "owner": "tipragot",
             "repo": "godot-iroh",
-            "stars": 115,
+            "stars": 116,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
@@ -1548,7 +1548,7 @@
             "language": "Kotlin",
             "license": "Apache-2.0",
             "last_commit": "2026-10-14T23:02:09Z",
-            "open_issues": 2,
+            "open_issues": 1,
             "owner": "sverrejb",
             "repo": "bru",
             "stars": 28,
@@ -1617,7 +1617,7 @@
             "open_issues": 0,
             "owner": "DrHongos",
             "repo": "obsiroh",
-            "stars": 28,
+            "stars": 29,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
@@ -1664,7 +1664,7 @@
             "id": 1318525604,
             "language": "HTML",
             "license": null,
-            "last_commit": "2026-10-17T15:17:35Z",
+            "last_commit": "2026-10-18T13:48:20Z",
             "open_issues": 0,
             "owner": "Lizeyun8501",
             "repo": "Aurora",
@@ -1779,7 +1779,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T23:05:23.564Z",
+    "last_updated": "2026-10-18T23:06:08.011Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome stuff built on & with iroh",
@@ -1791,7 +1791,7 @@
       "open_issues": 7,
       "owner": "n0-computer",
       "repo": "awesome-iroh",
-      "stars": 576,
+      "stars": 580,
       "topics": [
         "android",
         "awesome",
