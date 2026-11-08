@@ -216,8 +216,8 @@
             "id": 1310933035,
             "language": "Rust",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-06T17:45:08Z",
-            "open_issues": 113,
+            "last_commit": "2026-11-07T03:34:47Z",
+            "open_issues": 112,
             "owner": "hawkeye-xb",
             "repo": "P-Pass",
             "stars": 19,
@@ -444,7 +444,7 @@
             "open_issues": 24,
             "owner": "n0-computer",
             "repo": "dumbpipe",
-            "stars": 817,
+            "stars": 818,
             "topics": [
               "holepunching",
               "magic",
@@ -469,7 +469,7 @@
             "open_issues": 82,
             "owner": "rayfish",
             "repo": "rayfish",
-            "stars": 784,
+            "stars": 786,
             "topics": [
               "cross-platform",
               "ipv6",
@@ -525,7 +525,7 @@
             "open_issues": 12,
             "owner": "rustonbsd",
             "repo": "iroh-ssh",
-            "stars": 333,
+            "stars": 334,
             "topics": [
               "iroh",
               "p2p",
@@ -550,7 +550,7 @@
             "open_issues": 10,
             "owner": "tunnetio",
             "repo": "Tunnet",
-            "stars": 234,
+            "stars": 235,
             "topics": [
               "mesh-networks",
               "networking",
@@ -577,7 +577,7 @@
             "open_issues": 15,
             "owner": "cablehead",
             "repo": "xs",
-            "stars": 232,
+            "stars": 233,
             "topics": [
               "cli",
               "content-addressed-storage",
@@ -634,6 +634,36 @@
         },
         {
           "node_type": "item",
+          "title": "koh",
+          "description": "A remote shell inspired by mosh. Serve and connect from anywhere, survive network changes, no port forwarding required.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "koh — peer-to-peer remote shell, inspired by mosh",
+            "homepage": "https://docs.rs/koh",
+            "id": 1275962946,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2026-10-22T18:32:06Z",
+            "open_issues": 1,
+            "owner": "gold-silver-copper",
+            "repo": "koh",
+            "stars": 40,
+            "topics": [
+              "iroh",
+              "mobile-shell",
+              "mosh",
+              "p2p",
+              "quic",
+              "remote-shell",
+              "rust",
+              "terminal"
+            ]
+          },
+          "first_seen": "2026-09-13T23:06:31.541Z"
+        },
+        {
+          "node_type": "item",
           "title": "do-ssh",
           "description": "Tunnels an ssh-connection over iroh.",
           "children": [],
@@ -652,36 +682,6 @@
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
-        },
-        {
-          "node_type": "item",
-          "title": "koh",
-          "description": "A remote shell inspired by mosh. Serve and connect from anywhere, survive network changes, no port forwarding required.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "koh — peer-to-peer remote shell, inspired by mosh",
-            "homepage": "https://docs.rs/koh",
-            "id": 1275962946,
-            "language": "Rust",
-            "license": "MIT",
-            "last_commit": "2026-10-22T18:32:06Z",
-            "open_issues": 1,
-            "owner": "gold-silver-copper",
-            "repo": "koh",
-            "stars": 39,
-            "topics": [
-              "iroh",
-              "mobile-shell",
-              "mosh",
-              "p2p",
-              "quic",
-              "remote-shell",
-              "rust",
-              "terminal"
-            ]
-          },
-          "first_seen": "2026-09-13T23:06:31.541Z"
         },
         {
           "node_type": "item",
@@ -866,11 +866,11 @@
             "id": 1078137951,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-06T21:59:30Z",
+            "last_commit": "2026-11-07T19:29:08Z",
             "open_issues": 56,
             "owner": "tonyantony300",
             "repo": "dashbeam",
-            "stars": 10242,
+            "stars": 10249,
             "topics": [
               "android",
               "file-transfer",
@@ -904,7 +904,7 @@
             "open_issues": 36,
             "owner": "n0-computer",
             "repo": "sendme",
-            "stars": 1243,
+            "stars": 1244,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
@@ -1167,7 +1167,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-11-02T08:05:59Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "mrsarthi",
             "repo": "Chorrent",
             "stars": 5,
@@ -1730,7 +1730,7 @@
             "id": 1318525604,
             "language": "HTML",
             "license": null,
-            "last_commit": "2026-11-06T12:46:41Z",
+            "last_commit": "2026-11-07T13:35:45Z",
             "open_issues": 0,
             "owner": "Lizeyun8501",
             "repo": "Aurora",
@@ -1757,11 +1757,11 @@
             "id": 369010411,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-06T21:43:10Z",
-            "open_issues": 460,
+            "last_commit": "2026-11-07T05:45:09Z",
+            "open_issues": 467,
             "owner": "fedimint",
             "repo": "fedimint",
-            "stars": 702,
+            "stars": 703,
             "topics": [
               "bitcoin",
               "e-cash",
@@ -1784,8 +1784,8 @@
             "id": 1189038838,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-06T20:42:02Z",
-            "open_issues": 91,
+            "last_commit": "2026-11-07T18:46:10Z",
+            "open_issues": 96,
             "owner": "decdn",
             "repo": "decdn",
             "stars": 48,
@@ -1887,7 +1887,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T00:52:24.521Z",
+    "last_updated": "2026-11-08T00:30:40.087Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome stuff built on & with iroh",
@@ -1899,7 +1899,7 @@
       "open_issues": 9,
       "owner": "n0-computer",
       "repo": "awesome-iroh",
-      "stars": 597,
+      "stars": 598,
       "topics": [
         "android",
         "awesome",
