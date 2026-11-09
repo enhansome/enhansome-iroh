@@ -19,7 +19,7 @@
             "open_issues": 138,
             "owner": "PsycheFoundation",
             "repo": "nousnet",
-            "stars": 978,
+            "stars": 979,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
@@ -296,7 +296,7 @@
             "open_issues": 114,
             "owner": "teamtype",
             "repo": "teamtype",
-            "stars": 1958,
+            "stars": 1960,
             "topics": [
               "automerge",
               "collaboration",
@@ -444,7 +444,7 @@
             "open_issues": 24,
             "owner": "n0-computer",
             "repo": "dumbpipe",
-            "stars": 818,
+            "stars": 819,
             "topics": [
               "holepunching",
               "magic",
@@ -465,11 +465,11 @@
             "id": 1277104302,
             "language": "Rust",
             "license": "MPL-2.0",
-            "last_commit": "2026-11-05T10:40:14Z",
-            "open_issues": 82,
+            "last_commit": "2026-11-08T04:59:26Z",
+            "open_issues": 84,
             "owner": "rayfish",
             "repo": "rayfish",
-            "stars": 786,
+            "stars": 787,
             "topics": [
               "cross-platform",
               "ipv6",
@@ -521,11 +521,11 @@
             "id": 1008005634,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-17T13:49:21Z",
+            "last_commit": "2026-11-08T19:37:44Z",
             "open_issues": 12,
             "owner": "rustonbsd",
             "repo": "iroh-ssh",
-            "stars": 334,
+            "stars": 335,
             "topics": [
               "iroh",
               "p2p",
@@ -550,7 +550,7 @@
             "open_issues": 10,
             "owner": "tunnetio",
             "repo": "Tunnet",
-            "stars": 235,
+            "stars": 236,
             "topics": [
               "mesh-networks",
               "networking",
@@ -870,7 +870,7 @@
             "open_issues": 56,
             "owner": "tonyantony300",
             "repo": "dashbeam",
-            "stars": 10249,
+            "stars": 10256,
             "topics": [
               "android",
               "file-transfer",
@@ -904,7 +904,7 @@
             "open_issues": 36,
             "owner": "n0-computer",
             "repo": "sendme",
-            "stars": 1244,
+            "stars": 1245,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:06.042Z"
@@ -1246,8 +1246,8 @@
             "id": 303450750,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-11-06T18:30:24Z",
-            "open_issues": 191,
+            "last_commit": "2026-11-08T17:33:44Z",
+            "open_issues": 193,
             "owner": "p2panda",
             "repo": "p2panda",
             "stars": 588,
@@ -1592,8 +1592,8 @@
             "id": 1001073078,
             "language": "Rust",
             "license": null,
-            "last_commit": "2025-06-17T22:31:41Z",
-            "open_issues": 0,
+            "last_commit": "2026-11-08T17:03:40Z",
+            "open_issues": 1,
             "owner": "Zyell",
             "repo": "beelay-iroh-chat",
             "stars": 34,
@@ -1730,7 +1730,7 @@
             "id": 1318525604,
             "language": "HTML",
             "license": null,
-            "last_commit": "2026-11-07T13:35:45Z",
+            "last_commit": "2026-11-08T23:49:08Z",
             "open_issues": 0,
             "owner": "Lizeyun8501",
             "repo": "Aurora",
@@ -1757,8 +1757,8 @@
             "id": 369010411,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-07T05:45:09Z",
-            "open_issues": 467,
+            "last_commit": "2026-11-08T18:31:38Z",
+            "open_issues": 465,
             "owner": "fedimint",
             "repo": "fedimint",
             "stars": 703,
@@ -1887,7 +1887,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T00:30:40.087Z",
+    "last_updated": "2026-11-09T00:48:26.661Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome stuff built on & with iroh",

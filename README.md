@@ -46,7 +46,7 @@ Projects & resources building with iroh!
 
 ## AI/ML
 
-* [Psyche](https://github.com/PsycheFoundation/psyche/) ⭐ 978 | 🐛 138 | 🌐 Rust | 📅 2026-03-24 - An open infrastructure to democratize and decentralize the development of superintelligence for humanity.
+* [Psyche](https://github.com/PsycheFoundation/psyche/) ⭐ 979 | 🐛 138 | 🌐 Rust | 📅 2026-03-24 - An open infrastructure to democratize and decentralize the development of superintelligence for humanity.
 * [Prime Intellect](https://github.com/PrimeIntellect-ai/protocol) ⚠️ Archived - Decentralized Compute Infrastructure for AI.
 * [Tandemn](https://github.com/Tandemn-Labs/tensor-iroh) ⭐ 19 | 🐛 13 | 🌐 Rust | 📅 2026-03-27 - Iroh for tensors, used for inference over heterogeneous GPUs.
 
@@ -70,7 +70,7 @@ Projects & resources building with iroh!
 
 ## Collaboration and Productivity
 
-* [Teamtype](https://github.com/teamtype/teamtype) ⭐ 1,958 | 🐛 114 | 🌐 Rust | 📅 2026-11-06 - Editor-agnostic, real-time collaborative editing of local text files.
+* [Teamtype](https://github.com/teamtype/teamtype) ⭐ 1,960 | 🐛 114 | 🌐 Rust | 📅 2026-11-06 - Editor-agnostic, real-time collaborative editing of local text files.
 * [Zeco](https://github.com/julianbuettner/zeco) ⭐ 80 | 🐛 0 | 🌐 Rust | 📅 2026-09-12 - Share zellij sessions via the internet (using iroh).
 * [p2pmux](https://github.com/pelazas/p2pmux) ⭐ 76 | 🐛 45 | 🌐 Rust | 📅 2026-11-02 - Terminal multiplexer where every pane is a PTY on its owner's own machine.
 * [linXiv](https://github.com/linxiv-dev/linXiv) ⭐ 64 | 🐛 32 | 🌐 Rust | 📅 2026-11-06 - Local-first academic paper manager with p2p sharing enabled using iroh.
@@ -78,11 +78,11 @@ Projects & resources building with iroh!
 
 ## DevTools
 
-* [Dumbpipe](https://github.com/n0-computer/dumbpipe) ⭐ 818 | 🐛 24 | 🌐 Rust | 📅 2026-11-05 - Cross-device unix pipe.
-* [Rayfish](https://github.com/rayfish/rayfish) ⭐ 786 | 🐛 82 | 🌐 Rust | 📅 2026-11-05 - A P2P mesh VPN that connects peers by cryptographic identity instead of IP address.
+* [Dumbpipe](https://github.com/n0-computer/dumbpipe) ⭐ 819 | 🐛 24 | 🌐 Rust | 📅 2026-11-05 - Cross-device unix pipe.
+* [Rayfish](https://github.com/rayfish/rayfish) ⭐ 787 | 🐛 84 | 🌐 Rust | 📅 2026-11-08 - A P2P mesh VPN that connects peers by cryptographic identity instead of IP address.
 * [Codux](https://github.com/duxweb/codux) ⚠️ Archived - A native connected terminal for AI coding agents, using iroh for encrypted peer-to-peer control across desktop, mobile, and headless hosts.
-* [iroh-ssh](https://github.com/rustonbsd/iroh-ssh) ⭐ 334 | 🐛 12 | 🌐 Rust | 📅 2026-10-17 - SSH to any machine without ip.
-* [Tunnet](https://github.com/tunnetio/Tunnet) ⭐ 235 | 🐛 10 | 🌐 Rust | 📅 2026-11-02 - Open-source mesh networking platform that scales from direct p2p connections for individuals to fully managed deployments for large organizations.
+* [iroh-ssh](https://github.com/rustonbsd/iroh-ssh) ⭐ 335 | 🐛 12 | 🌐 Rust | 📅 2026-11-08 - SSH to any machine without ip.
+* [Tunnet](https://github.com/tunnetio/Tunnet) ⭐ 236 | 🐛 10 | 🌐 Rust | 📅 2026-11-02 - Open-source mesh networking platform that scales from direct p2p connections for individuals to fully managed deployments for large organizations.
 * [cross.stream](https://github.com/cablehead/xs) ⭐ 233 | 🐛 15 | 🌐 Rust | 📅 2026-11-06 - Local-first event streaming for reactive workflows, with P2P sharing via Iroh.
 * [pai-sho](https://github.com/cablehead/pai-sho) ⭐ 95 | 🐛 2 | 🌐 Rust | 📅 2026-11-05 - P2P TCP port forwarding: dumbpipe, but multiple ports, and it reconnects.
 * [koh](https://github.com/gold-silver-copper/koh) ⭐ 40 | 🐛 1 | 🌐 Rust | 📅 2026-10-22 - A remote shell inspired by mosh. Serve and connect from anywhere, survive network changes, no port forwarding required.
@@ -96,8 +96,8 @@ Projects & resources building with iroh!
 
 ## File Sharing
 
-* [Alt-sendme](https://github.com/tonyantony300/alt-sendme) ⭐ 10,249 | 🐛 56 | 🌐 TypeScript | 📅 2026-11-07 - A cross-platform desktop application for file sharing, built with Tauri.
-* [Sendme](https://github.com/n0-computer/sendme) ⭐ 1,244 | 🐛 36 | 🌐 Rust | 📅 2026-11-05 - A tool to send files and directories, based on iroh.
+* [Alt-sendme](https://github.com/tonyantony300/alt-sendme) ⭐ 10,256 | 🐛 56 | 🌐 TypeScript | 📅 2026-11-07 - A cross-platform desktop application for file sharing, built with Tauri.
+* [Sendme](https://github.com/n0-computer/sendme) ⭐ 1,245 | 🐛 36 | 🌐 Rust | 📅 2026-11-05 - A tool to send files and directories, based on iroh.
 * [lis](https://github.com/riffcc/lis) ⭐ 37 | 🐛 16 | 🌐 Rust | 📅 2025-08-13 - Life is short, but data should live forever.
 * [Dropwire](https://github.com/muhamadjawdatsalemalakoum/dropwire) ⭐ 32 | 🐛 13 | 🌐 Rust | 📅 2026-11-02 - Send any file directly between devices, end-to-end encrypted and resumable, with no account and no server.
 * [Rust Patcher](https://github.com/rustonbsd/rustpatcher) ⭐ 31 | 🐛 0 | 🌐 Rust | 📅 2025-10-26 - Secure Decentralized Software updates.
@@ -116,7 +116,7 @@ Projects & resources building with iroh!
 
 ## Frameworks
 
-* [p2panda](https://github.com/p2panda/p2panda) ⭐ 588 | 🐛 191 | 🌐 Rust | 📅 2026-11-06 - Building blocks for peer-to-peer applications.
+* [p2panda](https://github.com/p2panda/p2panda) ⭐ 588 | 🐛 193 | 🌐 Rust | 📅 2026-11-08 - Building blocks for peer-to-peer applications.
 * [Peernet](https://github.com/dvc94ch/peernet) ⭐ 62 | 🐛 1 | 🌐 Rust | 📅 2025-03-22 - Easy & reliable p2p networking.
 
 ## Libraries and protocols
@@ -143,7 +143,7 @@ Projects & resources building with iroh!
 
 ## Social Media
 
-* [Tauri + Leptos + Tailwind CSS + Iroh + Keyhive/Beelay](https://github.com/Zyell/beelay-iroh-chat) ⭐ 34 | 🐛 0 | 🌐 Rust | 📅 2025-06-17 - Proof of concept chat app combining automerge keyhive/beelay, iroh and tauri.
+* [Tauri + Leptos + Tailwind CSS + Iroh + Keyhive/Beelay](https://github.com/Zyell/beelay-iroh-chat) ⭐ 34 | 🐛 1 | 🌐 Rust | 📅 2026-11-08 - Proof of concept chat app combining automerge keyhive/beelay, iroh and tauri.
 * [Bru](https://github.com/sverrejb/bru) ⭐ 30 | 🐛 2 | 🌐 Kotlin | 📅 2026-10-20 - Read and send your phone's SMS, and sync clipboard text, from your desktop.
 * [Tauri Chat Example](https://github.com/jamessizeland/peer-to-peer) ⭐ 20 | 🐛 3 | 🌐 TypeScript | 📅 2025-06-14 - Example cross-platform chat app demo, using Tauri v2 & React.
 * [Dash Chat](https://darksoil.studio) - Secure Chat for Internet Shutdowns.
@@ -155,12 +155,12 @@ Projects & resources building with iroh!
 
 * [Obsiroh](https://github.com/DrHongos/obsiroh) ⭐ 29 | 🐛 0 | 🌐 Rust | 📅 2024-02-24 - An Obsidian sync method with iroh.
 * [Kith](https://github.com/muhamadjawdatsalemalakoum/kith) ⭐ 27 | 🐛 10 | 🌐 Rust | 📅 2026-07-05 - Serverless, no-account, end-to-end-encrypted sync for your own devices — memory, tabs, and files — that your AI can also read and write over MCP.
-* [Aurora](https://github.com/Lizeyun8501/Aurora) ⭐ 1 | 🐛 0 | 🌐 HTML | 📅 2026-11-07 - A personal knowledge-management app for notes, tasks, and organizing ideas.
+* [Aurora](https://github.com/Lizeyun8501/Aurora) ⭐ 1 | 🐛 0 | 🌐 HTML | 📅 2026-11-08 - A personal knowledge-management app for notes, tasks, and organizing ideas.
 * [Iroh Retro](https://codeberg.org/cemoktra/iroh-retro) - Serverless, no-account, retrospective for development teams.
 
 ## Web3
 
-* [Fedimint](https://github.com/fedimint/fedimint) ⭐ 703 | 🐛 467 | 🌐 Rust | 📅 2026-11-07 - Federated E-Cash Mint.
+* [Fedimint](https://github.com/fedimint/fedimint) ⭐ 703 | 🐛 465 | 🌐 Rust | 📅 2026-11-08 - Federated E-Cash Mint.
 * [deCDN](https://github.com/decdn/decdn) ⭐ 48 | 🐛 96 | 🌐 Rust | 📅 2026-11-07 - Decentralized CDN where nodes cache and serve content-addressed blobs over iroh, with per-megabyte USDC payments.
 * [Recall](https://github.com/recallnet/ipc) ⚠️ Archived - Lets any agent prove, refine, and earn from their intelligence, onchain.
 * [Analog](https://github.com/Analog-Labs/timechain) ⭐ 14 | 🐛 24 | 🌐 Rust | 📅 2026-03-26 - An omnichain network powered by Proof of Time.
@@ -195,4 +195,4 @@ Projects & resources building with iroh!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
